@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/Символ 6" itemID="4e1afa7b-00001277" lastModified="1310390907">
+  <timeline>
+    <DOMTimeline name="Символ 6">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009900"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!770 663S2|770 520"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!770 520S6|0 520!0 520|0 160!0 160|770 160"/>
+                    <Edge fillStyle1="1" edges="!770 160S2|770 18"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!770 18S6|1190 338!1190 338|770 663"/>
+                    <Edge strokeStyle="1" edges="!740 100S4|740 0!740 660|740 550"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

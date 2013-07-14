@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/подложка меню" itemID="4df22f81-00000ee6" symbolType="graphic" lastModified="1344055552">
+  <timeline>
+    <DOMTimeline name="подложка меню">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="925" objectHeight="50" x="0" y="0" selected="true" lockFlag="true" topLeftRadius="15" topRightRadius="15" bottomLeftRadius="15" bottomRightRadius="15">
+                  <matrix>
+                    <Matrix tx="-925" ty="-50"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#009900"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

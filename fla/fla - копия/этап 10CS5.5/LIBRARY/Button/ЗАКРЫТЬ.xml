@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Button/ЗАКРЫТЬ" itemID="4e006e9d-00000cb5" symbolType="button" lastModified="1309801346">
+  <timeline>
+    <DOMTimeline name="ЗАКРЫТЬ" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-3&lt;/guideline&gt;&lt;guideline direction="v"&gt;22&lt;/guideline&gt;&lt;guideline direction="h"&gt;37&lt;/guideline&gt;&lt;guideline direction="v"&gt;-18&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <RadialGradient>
+                                <matrix>
+                                  <Matrix a="0.0428466796875" d="0.0428466796875" tx="3.75" ty="16.15"/>
+                                </matrix>
+                                <GradientEntry color="#C94747" ratio="0"/>
+                                <GradientEntry color="#D08585" ratio="0.380392156862745"/>
+                                <GradientEntry color="#FFFAFA" alpha="0.00784313725490196" ratio="1"/>
+                              </RadialGradient>
+                            </FillStyle>
+                            <FillStyle index="2">
+                              <RadialGradient>
+                                <matrix>
+                                  <Matrix a="0.0428466796875" d="0.0428466796875" tx="3.75" ty="16.15"/>
+                                </matrix>
+                                <GradientEntry color="#CC0000" ratio="0"/>
+                                <GradientEntry color="#D63232" ratio="0.380392156862745"/>
+                                <GradientEntry color="#FFFAFA" ratio="1"/>
+                              </RadialGradient>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal">
+                                <fill>
+                                  <SolidColor color="#FFFFFF"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                            <StrokeStyle index="2">
+                              <SolidStroke scaleMode="normal" caps="square" weight="12">
+                                <fill>
+                                  <SolidColor color="#FFFFFF"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!707 345S1[707 87 518 -100!518 -100[#205.53 #FFFF9B.53 516.5 -101.5!516.5 -101.5[#14F.09 -282 77 -282!77 -282|30 -282!30 -282[-227 -282 -416 -100!-416 -100[#FFFE5F.37 #FFFF9C.CF -417.5 -98.5!-417.5 -98.5[-598 #58.1D -598 345"/>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!-598 345S5|-598 350"/>
+                            <Edge fillStyle0="1" edges="!-598 350S1[-598 608 -416 789!-416 789[#FFFE61.3D #316.3C -413.5 791.5!-413.5 791.5[-225.3125 977 30 977!30 977|77 977!77 977[#14C.3 977 512.5 794.5!512.5 794.5[#203.52 #317.C5 518 789!518 789[707 608 707 350"/>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!707 350S5|707 345"/>
+                            <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="!21.5 372.5S7|47 346!47 346|46.5 345.5!46.5 345.5|21.5 372.5"/>
+                            <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!281 98S7|46.5 345.5!47 346|275 576!46.5 345.5|-189 108!21.5 372.5|-166 570"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

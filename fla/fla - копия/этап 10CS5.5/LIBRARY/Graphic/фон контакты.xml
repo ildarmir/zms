@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/фон контакты" itemID="4dff3712-00000607" symbolType="graphic" lastModified="1308661858">
+  <timeline>
+    <DOMTimeline name="фон контакты">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Image/УРАЛФОН.jpg">
+                  <matrix>
+                    <Matrix a="0.984619140625" d="0.967788696289063" tx="-320"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="325" y="247.9"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

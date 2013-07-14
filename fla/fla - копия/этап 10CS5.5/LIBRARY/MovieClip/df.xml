@@ -1,0 +1,1114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/df" itemID="4df2fb5a-000004a0" lastModified="1370163292" lastUniqueIdentifier="105">
+  <timeline>
+    <DOMTimeline name="df" currentFrame="5" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-253&lt;/guideline&gt;&lt;guideline direction="v"&gt;465&lt;/guideline&gt;&lt;guideline direction="h"&gt;346&lt;/guideline&gt;&lt;guideline direction="v"&gt;-463&lt;/guideline&gt;&lt;guideline direction="h"&gt;-165&lt;/guideline&gt;&lt;guideline direction="h"&gt;-120&lt;/guideline&gt;&lt;guideline direction="h"&gt;-53&lt;/guideline&gt;&lt;guideline direction="h"&gt;-9&lt;/guideline&gt;&lt;guideline direction="h"&gt;36&lt;/guideline&gt;&lt;guideline direction="h"&gt;81&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="10" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[
+ ]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 68" color="#FFFF00" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText width="567.9" height="491.95" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-413.95" ty="-176.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ООО "ЗАПСИБ-МАШЗАВОД" реализует со склада в городе Нижневартовске и под заказ новую спецтехнику:&#xD;&#xD;- установки подъёмные МБУ-125, А60/80, УПА60/80&#xD;&#xD;- цементировочные агрегаты АЦ-32 (ЦА-320)&#xD;&#xD;- промысловые паровые установки ППУА-1600/100М&#xD;&#xD;- автомобильные краны "Челябинец" 25т, 32т, 40т&#xD;&#xD;- самоходные гусеничные краны ДЭК 25т, 32т, 36т, 40т, 63т&#xD;&#xD;Шеф-монтаж, предпродажная подготовка, гарантия завода-изготовителя.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="7" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="MovieClip/фотки малые" centerPoint3DX="321" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix d="0.948532104492188" tx="321" ty="-214.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="279"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="9" blurY="9" color="#333333" distance="8"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="7" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/ЗАКРЫТЬ" name="close" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.3062744140625" d="0.307235717773438" tx="447.75" ty="-247.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on (press)
+{
+	eval("_root.menu_mov.menu1.item" +_root.link).gotoAndPlay("s2");
+	_root.link=1;
+       _root.menu_mov.menu1.item1.gotoAndPlay("s1");
+	  _root.pages_mov.gotoAndPlay(251);
+  
+   
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/ЗАКРЫТЬ" name="close" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.3062744140625" d="0.307235717773438" tx="447.75" ty="-247.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on (press)
+{
+	eval("_root.menu_mov.menu1.item" +_root.link).gotoAndPlay("s2");
+ _root.link=1;
+ _root.menu_mov.menu1.item1.gotoAndPlay("s1");
+	  _root.pages_mov.gotoAndPlay(251);
+  
+   
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/ЗАКРЫТЬ" name="close" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.3062744140625" d="0.307235717773438" tx="447.75" ty="-247.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on (press)
+{
+	eval("_root.menu_mov.menu1.item" +_root.link).gotoAndPlay("s2");
+	_root.link=1;
+       _root.menu_mov.menu1.item1.gotoAndPlay("s1");
+	  _root.pages_mov.gotoAndPlay(251);
+  
+   
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Jx" centerPoint3DX="-28.7" centerPoint3DY="186.4">
+                  <matrix>
+                    <Matrix tx="-28.7" ty="186.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/копия sprite 216" centerPoint3DX="-13" centerPoint3DY="-208.45">
+                  <matrix>
+                    <Matrix tx="-435" ty="-208.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="431.5" height="578.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-432.5" ty="-206.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1. Подъёмные установки:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;- модернизация и капитальный ремонт А-50М, УПА60/80, АПРС, АЗ-37&#xD;- поднятие рабочей площадки бурильщика&#xD;- установка барабана накопителя&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>2. ППУА:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;- профилактика и ремонт систем автоматики и оборудования КИПиА&#xD;- установка новых приборов безопасности и комплектов дистанционных сигнализаторов&#xD;ДС-Б-050М, ДС-Б-070&#xD;- ремонт и замена паровых котлов&#xD;- опрессовка котлов и запорной арматуры&#xD;- ремонт насосов 2.3-ПТ25-Д1, 1.1-ПТ25-Д1&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>3. ЦА-320:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;- ремонт насосов 9ТМ&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>4. Автокраны, гидроманипуляторы, автовышки:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;- капитальный ремонт&#xD;- установка и ремонт приборов безопасности&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>- </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>текущее обслуживание с проведением ПТО, ЧТО</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;5. Капитальный ремонт двигателей</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;- расточка и шлифовка коленвалов&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>6. Подготовка к покраске и покраска верхнего оборудования установок и шасси</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>7. Услуги лаборатории неразрушающего контроля&#xD;8. Установка ремней безопасности на все виды автотранспорта&#xD;9. Оформление документов на переоборудование автотранспорта</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xD;&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText width="419.9" height="733.2" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="21.95" ty="-205.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                                  Переоборудование</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" indent="15" size="14" bitmapSize="280" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" indent="15" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>        "Прежде чем переоборудовать автомобиль необходимо обратиться в ГИБДД по месту регистрации транспортного средства с Заявлением . После получения в ГИБДД решения о возможности внесения изменения в конструкцию транспортного средства можно приступать к работам"&#xD;ООО "Запсиб-Машзавод-Сервис" осуществляет переоборудование автобусов, грузовых, специальных, специализированных автомобилей, прицепов и п/прицепов к ним в части монтажно-демонтажных работ агрегатов, узлов, оборудования и оснастки автотранспортных средств, а также установку двух-трёхточечных ремней безопасности на автотранспортные средства. Оказываем консультацию и помощь в оформлении документов, в том числе составление Заявления для предоставления в ГИБДД. Все работы сертифицированы.После переоборудования прилагаются следующие документы:                                                       &#xD;- копия сертификат соответствия по ТО и Р заверенная печатью (с перечнем разрешенных работ)&#xD;- заявление-декларация  об объёме и качестве работ по внесению изменений   в конструкцию транспортного средства, в котором описываются изменения характеристик автомобиля после выполнения переоборудования&#xD;- заключение об изменении конструкции транспортного средства&#xD;для справки: При вынесении решения о необходимости получения заключения о возможности и порядке внесения изменений либо об отсутствии такой необходимости ГИБДД руководствуется приказом МВД РФ №1240 от 07.12.00 года.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="418" height="33" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="21.95" ty="-241"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="24" bitmapSize="480" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 293" centerPoint3DX="9" centerPoint3DY="-197.5">
+                  <matrix>
+                    <Matrix a="0.656463623046875" tx="-413" ty="-198"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText width="545.45" height="462.3" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-412.45" ty="-177.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>-Запчасти А50, УПА&#xD;-Запчасти гидравлика&#xD;-Запчасти краны, манипуляторы &#xD;-Запчасти ППУА&#xD;-Запчасти ЦА320 &#xD;&#xD;&#xD;Сопутствующие материалы в наличии на складе:&#xD;&#xD;Канат стальной: D15 ГОСТ2688-80; D16.5 ГОСТ2688-80; D25(ОС) ГОСТ16853-88&#xD;&#xD;Грунт-эмаль "Пентал-Амор" для металлических и деревянных поверхностей (в банках по 2,2кг): RAL6029 (зелёная мята); RAL3020 (Сигнально-красный); RAL1033 (желтый георгин); RAL5005 (сигнально-синий)&#xD;&#xD;Электроды производства завода "ЭСАБ-СВЭЛ" г.Санкт-Петербург : ОК-46, УОНИ 13/55R&#xD;&#xD;Паронит: толщ.0,8mm; толщ.1mm&#xD;&#xD;Асбестовый лист: толщ.2mm; толщ.6mm</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="18" bitmapSize="360" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText selected="true" width="729.5" height="469.35">
+                  <matrix>
+                    <Matrix tx="-413.5" ty="-204.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>       &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Исполнительный   директор</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Отдел маркетинга                           </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Начальник отдела маркетинга</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>      &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;Служба сервиса</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Склад г.Нижневартовск</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>                             &#xD; &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Склад г.Когалым </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Местонахождение: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>ХМАО-Югра, г. Нижневартовск, ул. 4ПС, Северный промышленный узел, стр. 11 ( 12 км Самотлорской автодороги)&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Почтовый адрес:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> 628605, Россия, Тюменская обл., ХМАО-Югра, г. Нижневартовск, почтовое отделение №5, а/я 728.&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Написать нам:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="Arial-BoldMT" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT" fillColor="#00006F" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>ZM@ZMS-UGRA.RU</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT" fillColor="#00006F" target="_blank" url="mailto:zm@zms-ugra.ru"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-2783 -6816|2786 -6816"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="481.75" height="58.05" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.689651489257813" d="1.04229736328125" tx="-133.6" ty="-400.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="210.7" y="21.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>СЕРТИФИКАТЫ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="52" bitmapSize="1040" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="197.5" height="72.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.97735595703125" tx="247.25" ty="-673.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="247.45" y="13.35"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Все оказываемые услуги сертифицированы, &#xD;на выполненные работы и установленное &#xD;оборудование дается гарантия.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="13" bitmapSize="260" face="ArialMT" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="MovieClip/СЕРТИФИКАТЫ1" name="serti" cacheAsBitmap="true" centerPoint3DX="116.95" centerPoint3DY="127">
+                  <matrix>
+                    <Matrix tx="116.95" ty="-184.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="311.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00" locked="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText width="876.95" height="236.8" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-446.95" ty="-217.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="598.85" y="93.6"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     ООО «ЗАПСИБ-МАШЗАВОД» было создано в июле 2003 года. Имеет собственную сервисную базу площадью 7800 кв. м., охраняемую территорию для стоянки спецтехники, теплые склады, станочный парк, цех гидравлики, моторный участок, участок ремонта подъемных установок А50М; ППУ, ЦА-320, участок ремонта автомобильных кранов. За восемь лет производственной деятельности модернизировано и отремонтировано более 350 подъемных установок А50М. Отремонтировано и установлено свыше ста пятидесяти приборов безопасности на автокраны и ППУА. Произведён капитальный ремонт более трёхсот ДВС и насосов 9Т. Одно из важных направлений на предприятии является реализация новой спецтехники и продажа запасных частей. Организован центрозавоз запчастей по предварительным заявкам по территории Ханты-Мансийского и Ямало-ненецкого округов.&#xD;   Мы являемся официальными представителями ЗАО «Машиностроительный завод» г.Санкт-Петербург; ОАО «ПО Елабужский автомобильный завод», ООО «Первомайскхиммаш», Ишимбайский завод нефтепромыслового оборудования «Идель-Нефтемаш», ОАО «Челябинский механический завод».&#xD;Предприятие зарегистрировано в отделах Ростехнадзора в городах ХМАО и ЯНАО.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" indent="15" size="16" bitmapSize="320" face="ArialMT" fillColor="#62625F"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/text 212" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-432.5" ty="-239.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 216" centerPoint3DX="-6.9" centerPoint3DY="-197.5">
+                  <matrix>
+                    <Matrix tx="-428.9" ty="-198"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#00006F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-5239 4799|-1439 4799"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="197.45" height="245.85" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="12" ty="-183.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>тел. 8(3466) 63-00-01&#xD;&#xD;тел. 8(3466) 64-13-70&#xD;&#xD;тел. 8(3466) 63-00-03&#xD;&#xD;тел. 8(3466) 64-13-91&#xD;&#xD;тел. 8(3466) 63-00-06&#xD;&#xD;тел. 8(3466) 63-00-07</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <edges>
+                    <Edge edges="!15523 16644|-13444 16644!-13444 16644[#FFD108.97 #E0D.98 -13444 -9923!-13444 -9923|15523 -9923"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00" locked="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 135" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/text 136" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-210.7" ty="-251.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/фон услуги" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.10325622558594" d="0.962005615234375" tx="-39.15" ty="-202.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="294.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.3"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/text 284" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-413.5" ty="-218.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/12" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.44052124023438" d="1.46908569335938" tx="73.3" ty="-291.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="254.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.390625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graphic/text 319" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-415.5" ty="-226.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/фон контакты" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.43905639648438" d="1.2479248046875" tx="-0.7" ty="-253.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="240.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.65"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!23489 -17043|23489 18646!23489 18646|-23083 18646!-23083 18646|-23083 -17043!-23083 -17043|23489 -17043"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="MovieClip/Image/СХЕМА ПРОЕЗДА.gif" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-284" ty="-188.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!1318 -1481|1318 -1181!1318 -1181|-161 -1181!-161 -1181|-161 -1081!-161 -1081|-361 -1081!-361 -1081|-361 -1181!-361 -1181|-581 -1181!-581 -1181|-581 -1481!-581 -1481|138 -1481!138 -1481|138 -1521!138 -1521|938 -1521!938 -1521|938 -1481
+!938 -1481|1318 -1481!1601 -732[1601 -788 1616 -796!1616 -796[1621 -811 1629 -816!1629 -816[1634 -854 1657 -840!1657 -840[1658 -839 1659 -838!1659 -838[1667 -846 1683 -846!1683 -846[1714 -846 1718 -812!1718 -812[1723 -786 1723 -729!1723
+ -729[1726 -695 1723 -674!1723 -674[1719 -637 1697 -634!1697 -634[1689 -624 1673 -624!1673 -624[1669 -624 1665 -625!1665 -625[1662 -621 1660 -617!1660 -617[1652 -604 1638 -604!1638 -604[1612 -604 1606 -656!1606 -656[1605 -673 1605 -689
+!1605 -689[1602 -710 1601 -732!3173 -1842[3233 -1858 3262 -1857!3262 -1857[3298 -1854 3298 -1824!3298 -1824[3298 -1819 3297 -1815!3297 -1815[3301 -1811 3306 -1806!3306 -1806[3328 -1780 3328 -1764!3328 -1764[3328 -1747 3311 -1738!3311
+ -1738[3287 -1727 3273 -1719!3273 -1719|3114 -1719!3114 -1719[3104 -1703 3068 -1699!3068 -1699|2828 -1699!2828 -1699|2813 -1702!2813 -1702|2563 -1704!2563 -1704[2551 -1703 2543 -1709!2543 -1709|2418 -1709!2418 -1709[2394 -1732 2376 -1747
+!2376 -1747[2371 -1754 2371 -1779!2371 -1779[2371 -1799 2373 -1804!2373 -1804[2376 -1811 2386 -1815!2386 -1815|2386 -1816!2386 -1816[2386 -1844 2418 -1846!2418 -1846|2474 -1846!2474 -1846[2495 -1868 2576 -1855!2576 -1855[2674 -1839 2736
+ -1828!2736 -1828[2751 -1827 2763 -1827!2763 -1827[2807 -1827 3003 -1841!3003 -1841|3173 -1842!1978 -886[1983 -790 1983 -777!1983 -777|1983 -736!1983 -736[1980 -720 1973 -711!1973 -711[1973 -704 1973 -696!1973 -696[1973 -647 1972 -637
+!1972 -637[1965 -594 1938 -594!1938 -594[1920 -594 1912 -605!1912 -605[1908 -604 1903 -604!1903 -604[1889 -604 1880 -622!1880 -622[1872 -609 1853 -609!1853 -609[1831 -609 1821 -661!1821 -661[1819 -672 1818 -682!1818 -682[1806 -604 1788
+ -604!1788 -604[1757 -604 1751 -634!1751 -634[1750 -641 1750 -648!1750 -648[1747 -658 1746 -670!1746 -670[1744 -698 1746 -725!1746 -725[1746 -844 1777 -845!1777 -845[1794 -846 1802 -808!1802 -808[1810 -812 1816 -809!1816 -809[1828 -803
+ 1828 -774!1828 -774[1827 -761 1826 -749!1826 -749[1843 -800 1859 -793!1859 -793[1863 -811 1875 -817!1875 -817[1896 -828 1917 -764!1917 -764[1917 -784 1921 -809!1921 -809[1906 -895 1906 -916!1906 -916[1906 -961 1938 -942!1938 -942|1938
+ -1401!1938 -1401|5338 -1401!5338 -1401|5338 -921!5338 -921|1964 -921!1964 -921[1978 -904 1978 -886!5318 2559|2398 2559!2398 2559|2398 1759!2398 1759|5318 1759!5318 1759|5318 2559!718 1759|-682 1759!-682 1759|-682 979!-682 979|718 979
+!718 979|718 1759!718 5278|-2141 5278!-2141 5278|-2141 4538!-2141 4538|718 4538!718 4538|718 5278!358 4218|-2101 4218!-2101 4218|-2101 3338!-2101 3338|358 3338!358 3338|358 4218"/>
+                        <Edge fillStyle1="1" edges="
+!5360 5478|-5680 5478!-5680 5478|-5680 -3762!-5680 -3762|5360 -3762!5360 -3762|5360 5478"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="
+!-5301 -3161|-1581 -3161!-1581 -3161|-1581 -2421!-1581 -2421|-5301 -2421!-5301 -2421|-5301 -3161!-2821 2059|-5521 2059!-5521 2059|-5521 1439!-5521 1439|-5461 1439!-5461 1439|-5461 1319!-5461 1319|-5241 1319!-5241 1319|-5241 1439!-5241
+ 1439|-2821 1439!-2821 1439|-2821 2059"/>
+                        <Edge cubics="!1880 -622(;1876,-615 1868,-609 1853,-609q1880 -622Q1872 -609q1853 -609);"/>
+                        <Edge cubics="!1853 -609(;1832,-609 1823,-645 1818,-682q1853 -609Q1831 -609q1821 -661 1818 -682);"/>
+                        <Edge cubics="!1826 -749(;1833,-774 1846,-802 1859,-793q1826 -749Q1843 -800q1859 -793);"/>
+                        <Edge cubics="!1912 -605(;1912,-605 1908,-604 1903,-604q1912 -605 1903 -604);"/>
+                        <Edge cubics="!1903 -604(;1895,-604 1888,-609 1880,-622q1903 -604Q1889 -604q1880 -622);"/>
+                        <Edge cubics="!1859 -793(;1868,-824 1892,-842 1917,-764q1859 -793Q1863 -811q1875 -817Q1896 -828q1917 -764);"/>
+                        <Edge cubics="!1973 -696(;1973,-676 1981,-594 1938,-594q1973 -696Q1973 -647q1972 -637Q1965 -594q1938 -594);"/>
+                        <Edge cubics="!1938 -594(;1926,-594 1919,-597 1912,-605q1938 -594Q1920 -594q1912 -605);"/>
+                        <Edge cubics="!1973 -711(;1973,-706 1973,-701 1973,-696q1973 -711 1973 -696);"/>
+                        <Edge cubics="!1983 -777(;1983,-768 1988,-731 1973,-711q1983 -777 1983 -736 1973 -711);"/>
+                        <Edge cubics="!1917 -764(;1918,-781 1922,-802 1921,-809q1917 -764 1921 -809);"/>
+                        <Edge cubics="!1921 -809(;1914,-849 1906,-884 1906,-916q1921 -809Q1906 -895q1906 -916);"/>
+                        <Edge cubics="!1906 -916(;1906,-953 1925,-952 1938,-942q1906 -916Q1906 -961q1938 -942);"/>
+                        <Edge cubics="!1964 -921(;1972,-907 1978,-895 1978,-886q1964 -921Q1978 -904q1978 -886);"/>
+                        <Edge cubics="!1978 -886(;1978,-852 1983,-790 1983,-777q1978 -886Q1983 -790q1983 -777);"/>
+                        <Edge cubics="!1828 -774(;1828,-771 1828,-762 1826,-749q1828 -774 1826 -749);"/>
+                        <Edge cubics="!1818 -682(;1812,-644 1802,-604 1788,-604q1818 -682Q1806 -604q1788 -604);"/>
+                        <Edge cubics="!1788 -604(;1757,-604 1751,-628 1750,-648q1788 -604Q1757 -604q1751 -634 1750 -648);"/>
+                        <Edge cubics="!1802 -808(;1817,-815 1828,-804 1828,-774q1802 -808 1816 -809Q1828 -803q1828 -774);"/>
+                        <Edge cubics="!1318 -1481(;1318,-1481 1318,-1181 1318,-1181q1318 -1481 1318 -1181);"/>
+                        <Edge cubics="!1938 -942(;1938,-942 1938,-1401 1938,-1401q1938 -942 1938 -1401);"/>
+                        <Edge cubics="!5338 -1401(;5338,-1401 5338,-921 5338,-921q5338 -1401 5338 -921);"/>
+                        <Edge cubics="!5338 -921(;5338,-921 1964,-921 1964,-921q5338 -921 1964 -921);"/>
+                        <Edge cubics="!1938 -1401(;1938,-1401 5338,-1401 5338,-1401q1938 -1401 5338 -1401);"/>
+                        <Edge cubics="!-5301 -2421(;-5301,-2421 -5301,-3161 -5301,-3161q-5301 -2421 -5301 -3161);"/>
+                        <Edge cubics="!-1581 -3161(;-1581,-3161 -1581,-2421 -1581,-2421q-1581 -3161 -1581 -2421);"/>
+                        <Edge cubics="!-581 -1181(;-581,-1181 -581,-1481 -581,-1481q-581 -1181 -581 -1481);"/>
+                        <Edge cubics="!938 -1521(;938,-1521 938,-1481 938,-1481q938 -1521 938 -1481);"/>
+                        <Edge cubics="!-161 -1181(;-161,-1181 -161,-1081 -161,-1081q-161 -1181 -161 -1081);"/>
+                        <Edge cubics="!-161 -1081(;-161,-1081 -361,-1081 -361,-1081q-161 -1081 -361 -1081);"/>
+                        <Edge cubics="!-361 -1081(;-361,-1081 -361,-1181 -361,-1181q-361 -1081 -361 -1181);"/>
+                        <Edge cubics="!138 -1481(;138,-1481 138,-1521 138,-1521q138 -1481 138 -1521);"/>
+                        <Edge cubics="!138 -1521(;138,-1521 938,-1521 938,-1521q138 -1521 938 -1521);"/>
+                        <Edge cubics="!-361 -1181(;-361,-1181 -581,-1181 -581,-1181q-361 -1181 -581 -1181);"/>
+                        <Edge cubics="!-581 -1481(;-581,-1481 138,-1481 138,-1481q-581 -1481 138 -1481);"/>
+                        <Edge cubics="!-1581 -2421(;-1581,-2421 -5301,-2421 -5301,-2421q-1581 -2421 -5301 -2421);"/>
+                        <Edge cubics="!-5301 -3161(;-5301,-3161 -1581,-3161 -1581,-3161q-5301 -3161 -1581 -3161);"/>
+                        <Edge cubics="!-2101 3338(;-2101,3338 358,3338 358,3338q-2101 3338 358 3338);"/>
+                        <Edge cubics="!-5241 1319(;-5241,1319 -5241,1439 -5241,1439q-5241 1319 -5241 1439);"/>
+                        <Edge cubics="!-2821 1439(;-2821,1439 -2821,2059 -2821,2059q-2821 1439 -2821 2059);"/>
+                        <Edge cubics="!-5241 1439(;-5241,1439 -2821,1439 -2821,1439q-5241 1439 -2821 1439);"/>
+                        <Edge cubics="!-2141 5278(;-2141,5278 -2141,4538 -2141,4538q-2141 5278 -2141 4538);"/>
+                        <Edge cubics="!718 4538(;718,4538 718,5278 718,5278q718 4538 718 5278);"/>
+                        <Edge cubics="!358 4218(;358,4218 -2101,4218 -2101,4218q358 4218 -2101 4218);"/>
+                        <Edge cubics="!-2141 4538(;-2141,4538 718,4538 718,4538q-2141 4538 718 4538);"/>
+                        <Edge cubics="!718 5278(;718,5278 -2141,5278 -2141,5278q718 5278 -2141 5278);"/>
+                        <Edge cubics="!358 3338(;358,3338 358,4218 358,4218q358 3338 358 4218);"/>
+                        <Edge cubics="!-2101 4218(;-2101,4218 -2101,3338 -2101,3338q-2101 4218 -2101 3338);"/>
+                        <Edge cubics="!-5461 1439(;-5461,1439 -5461,1319 -5461,1319q-5461 1439 -5461 1319);"/>
+                        <Edge cubics="!-5521 1439(;-5521,1439 -5461,1439 -5461,1439q-5521 1439 -5461 1439);"/>
+                        <Edge cubics="!-5521 2059(;-5521,2059 -5521,1439 -5521,1439q-5521 2059 -5521 1439);"/>
+                        <Edge cubics="!-5461 1319(;-5461,1319 -5241,1319 -5241,1319q-5461 1319 -5241 1319);"/>
+                        <Edge cubics="!-2821 2059(;-2821,2059 -5521,2059 -5521,2059q-2821 2059 -5521 2059);"/>
+                        <Edge cubics="!5318 1759(;5318,1759 5318,2559 5318,2559q5318 1759 5318 2559);"/>
+                        <Edge cubics="!2398 2559(;2398,2559 2398,1759 2398,1759q2398 2559 2398 1759);"/>
+                        <Edge cubics="!2398 1759(;2398,1759 5318,1759 5318,1759q2398 1759 5318 1759);"/>
+                        <Edge cubics="!5318 2559(;5318,2559 2398,2559 2398,2559q5318 2559 2398 2559);"/>
+                        <Edge cubics="!1318 -1181(;1318,-1181 -161,-1181 -161,-1181q1318 -1181 -161 -1181);"/>
+                        <Edge cubics="!938 -1481(;938,-1481 1318,-1481 1318,-1481q938 -1481 1318 -1481);"/>
+                        <Edge cubics="!5360 5478(;5360,5478 -5680,5478 -5680,5478q5360 5478 -5680 5478);"/>
+                        <Edge cubics="!-5680 5478(;-5680,5478 -5680,-3762 -5680,-3762q-5680 5478 -5680 -3762);"/>
+                        <Edge cubics="!-5680 -3762(;-5680,-3762 5360,-3762 5360,-3762q-5680 -3762 5360 -3762);"/>
+                        <Edge cubics="!5360 -3762(;5360,-3762 5360,5478 5360,5478q5360 -3762 5360 5478);"/>
+                        <Edge cubics="!1750 -648(;1741,-676 1746,-726 1746,-725q1750 -648 1746 -670 1746 -725);"/>
+                        <Edge cubics="!1746 -725(;1746,-848 1783,-878 1802,-808q1746 -725Q1746 -844q1777 -845Q1794 -846q1802 -808);"/>
+                        <Edge cubics="!1665 -625(;1663,-622 1661,-620 1660,-617q1665 -625 1660 -617);"/>
+                        <Edge cubics="!1629 -816(;1633,-847 1648,-849 1659,-838q1629 -816Q1634 -854q1657 -840 1659 -838);"/>
+                        <Edge cubics="!1697 -634(;1694,-630 1686,-624 1673,-624q1697 -634Q1689 -624q1673 -624);"/>
+                        <Edge cubics="!1673 -624(;1672,-624 1671,-624 1665,-625q1673 -624 1665 -625);"/>
+                        <Edge cubics="!1723 -729(;1723,-710 1732,-643 1697,-634q1723 -729 1723 -674Q1719 -637q1697 -634);"/>
+                        <Edge cubics="!1659 -838(;1678,-853 1714,-847 1718,-812q1659 -838Q1667 -846q1683 -846Q1714 -846q1718 -812)1718,-812;"/>
+                        <Edge cubics="!1718 -812(;1723,-786 1723,-741 1723,-729q1718 -812Q1723 -786q1723 -729);"/>
+                        <Edge cubics="!1660 -617(;1655,-610 1648,-604 1638,-604q1660 -617Q1652 -604q1638 -604);"/>
+                        <Edge cubics="!1638 -604(;1609,-604 1605,-654 1605,-689q1638 -604Q1612 -604q1606 -656 1605 -689);"/>
+                        <Edge cubics="!1616 -796(;1620,-803 1624,-811 1629,-816q1616 -796 1629 -816);"/>
+                        <Edge cubics="!1605 -689(;1601,-709 1601,-732 1601,-732q1605 -689 1601 -732);"/>
+                        <Edge cubics="!1601 -732(;1601,-767 1608,-787 1616,-796q1601 -732Q1601 -788q1616 -796);"/>
+                        <Edge cubics="!3328 -1764(;3328,-1737 3301,-1736 3273,-1719q3328 -1764Q3328 -1747q3311 -1738Q3287 -1727q3273 -1719);"/>
+                        <Edge cubics="!3273 -1719(;3273,-1719 3118,-1719 3118,-1719q3273 -1719 3118 -1719);"/>
+                        <Edge cubics="!3118 -1719(;3118,-1719 3118,-1719 3114,-1719q3118 -1719 3114 -1719);"/>
+                        <Edge cubics="!2543 -1709(;2543,-1709 2418,-1709 2418,-1709q2543 -1709 2418 -1709);"/>
+                        <Edge cubics="!2418 -1709(;2369,-1756 2371,-1741 2371,-1779q2418 -1709Q2394 -1732q2376 -1747Q2371 -1754q2371 -1779);"/>
+                        <Edge cubics="!2371 -1779(;2371,-1793 2368,-1808 2386,-1815q2371 -1779 2373 -1804 2386 -1815);"/>
+                        <Edge cubics="!3297 -1815(;3317,-1795 3328,-1770 3328,-1764q3297 -1815 3306 -1806Q3328 -1780q3328 -1764);"/>
+                        <Edge cubics="!3298 -1824(;3298,-1820 3298,-1816 3297,-1815q3298 -1824 3297 -1815);"/>
+                        <Edge cubics="!2386 -1815(;2386,-1814 2386,-1815 2386,-1816q2386 -1815 2386 -1816);"/>
+                        <Edge cubics="!2386 -1816(2386,-1816;2386,-1829 2390,-1844 2418,-1846q2386 -1816Q2386 -1844q2418 -1846);"/>
+                        <Edge cubics="!2418 -1846(;2418,-1846 2474,-1846 2474,-1846q2418 -1846 2474 -1846);"/>
+                        <Edge cubics="!2736 -1828(;2747,-1827 2755,-1827 2763,-1827q2736 -1828 2763 -1827);"/>
+                        <Edge cubics="!2763 -1827(2763,-1827;2803,-1827 2961,-1838 3003,-1841q2763 -1827Q2807 -1827q3003 -1841);"/>
+                        <Edge cubics="!3003 -1841(;3003,-1841 3173,-1842 3173,-1842q3003 -1841 3173 -1842);"/>
+                        <Edge cubics="!3173 -1842(;3243,-1861 3298,-1868 3298,-1824q3173 -1842Q3233 -1858q3262 -1857Q3298 -1854q3298 -1824);"/>
+                        <Edge cubics="!3114 -1719(;3109,-1710 3093,-1702 3068,-1699q3114 -1719Q3104 -1703q3068 -1699);"/>
+                        <Edge cubics="!3068 -1699(;3068,-1699 2828,-1699 2828,-1699q3068 -1699 2828 -1699);"/>
+                        <Edge cubics="!2828 -1699(;2820,-1701 2815,-1701 2813,-1702q2828 -1699 2813 -1702);"/>
+                        <Edge cubics="!2813 -1702(;2813,-1702 2563,-1704 2563,-1704q2813 -1702 2563 -1704);"/>
+                        <Edge cubics="!2563 -1704(;2557,-1704 2552,-1705 2543,-1709q2563 -1704 2543 -1709);"/>
+                        <Edge cubics="!2474 -1846(;2502,-1879 2607,-1846 2736,-1828q2474 -1846Q2495 -1868q2576 -1855 2736 -1828);"/>
+                        <Edge cubics="!718 979(;718,979 718,1759 718,1759q718 979 718 1759);"/>
+                        <Edge cubics="!-682 1759(;-682,1759 -682,979 -682,979q-682 1759 -682 979);"/>
+                        <Edge cubics="!-682 979(;-682,979 718,979 718,979q-682 979 718 979);"/>
+                        <Edge cubics="!718 1759(;718,1759 -682,1759 -682,1759q718 1759 -682 1759);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText fontRenderingMode="standard" width="405.05" height="52.5" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-196" ty="-242.6"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>СХЕМА ПРОЕЗДА</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="47" bitmapSize="940" face="ArialMT" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMDynamicText fontRenderingMode="standard" width="116" height="61" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="-272.05" ty="-181.4"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Памятник покорителям Самотлора</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMStaticText fontRenderingMode="standard" width="147" height="19.45" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-276.05" ty="75.95"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>в Нижневартовск</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana-Italic" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMDynamicText fontRenderingMode="standard" width="158" height="47" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="105.9" ty="91.95"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>в Нижневартовск -восточный объезд</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana-Italic" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="134" height="23" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="-124.05" ty="162.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Белозерное УТТ</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText selected="true" fontRenderingMode="standard" width="122.05" height="34.1" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="-68.1" ty="-80.05"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Рекламный щит "ЗМC"</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="14" bitmapSize="280" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="113" height="52.8" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="90" ty="-45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Нижневартовское ПРС-1</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" bitmapSize="240" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="116" height="21.9" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="150" ty="-122.15"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>в Радужный</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana-Italic" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="150.95" height="34.1" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="-115.95" ty="46.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>ЗАПСИБ-МАШЗАВОД</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="14" bitmapSize="280" face="Verdana" fillColor="#FF0000"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="155.9" height="22.1" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="-125.95" ty="225.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Самотлорское КРС</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="16" bitmapSize="320" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                    <DOMDynamicText fontRenderingMode="standard" width="64" height="27" border="true" lineType="multiline">
+                      <matrix>
+                        <Matrix tx="3" ty="-16"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>магазин "Соболь+"</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="11" bitmapSize="220" face="Verdana" fillColor="#333333"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMDynamicText>
+                  </members>
+                </DOMGroup>
+                <DOMDynamicText fontRenderingMode="standard" width="279" height="146" border="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-416.95" ty="131.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>НАШ АДРЕС:&#xD;12 км. Самотлорской дороги, Северный промышленный узел, ул.4ПС, стр.11</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="24" bitmapSize="480" face="Verdana-Italic"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Jx1" centerPoint3DX="21.85" centerPoint3DY="45.45">
+                  <matrix>
+                    <Matrix tx="21.9" ty="45.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!9300 6920|-9260 6920!-9260 6920|-9260 -5060!-9260 -5060|9300 -5060!9300 -5060|9300 6920"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="288.95" height="36.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-193.9" ty="-147.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Склад в Когалыме</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Tahoma-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="612.45" height="87.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-307.85" ty="-87.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>телефон: 45-007, 8-922-783-0012 &#xD;адрес: ул. Широкая 3, база КогУТТ Пирност</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="15" size="30" bitmapSize="600" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-226.5" width="542.8" height="255.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-112.95" ty="-178.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Реализуем и устанавливаем &#xD;на шасси с переоформлением &#xD;новые крано-манипуляторные &#xD;установки производства «ВЕЛМАШ»: &#xD;КМУ-130, КМУ-90, КМУ-55. &#xD;&#xD;Тел. 64-13-70, 630-003.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" autoKern="false" lineSpacing="-1" size="31" bitmapSize="620" face="Tahoma"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 107" itemID="4debac18-000000a2" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 107">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E4EDF5"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#C5CDD5"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#ECF3F7"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#9099A3"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#F9FEFF"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#C0C9D3"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!19420 4155|19780 4125!19780 4125[20011 3936 20130 3445!20130 3445[20360 2130 20025 1630!20025 1630[19355 1538 15000 1415"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!15000 1415|13130 1385!13130 1385|10620 1380!10620 1380|8070 1415"/>
+                    <Edge fillStyle0="2" edges="!8070 1415|5395 1495!5395 1495|4360 1540!4360 1540|3165 1605!3165 1605[3010 1620 3005 1650!3005 1650[2695 2290 2940 3505!2940 3505[3025 3847 3185 4055!3185 4055|3280 4125!3280 4125|3630 4155"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!3630 4155[8275 4506 10420 4545!10420 4545|11605 4555!11605 4555|13500 4525!13500 4525|15075 4455!15075 4455|19420 4155"/>
+                    <Edge fillStyle0="3" edges="!20310 6585[20120 6570 19810 5925!19810 5925|19725 5700!19725 5700|19580 5175!19580 5175|19505 4800!19505 4800|19420 4155"/>
+                    <Edge fillStyle0="4" edges="!19665 6815|20530 6615!20530 6615|20660 6555!20660 6555[20745 6510 20725 6480!20725 6480|20610 6495!20610 6495|20310 6585"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!20310 6585|19525 6815!19525 6815|18260 7135"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="!18260 7135|19665 6815"/>
+                    <Edge fillStyle0="5" fillStyle1="3" edges="!18260 7135|18255 7135!18255 7135|18230 7140!18230 7140|18215 7145!18215 7145|18170 7155!18170 7155[16568 7519 14505 7765!14505 7765[12256 7941 10550 7900!10550 7900[9009 7851 6855 7535!6855 7535|6060 7395!6060 7395|5090 7190!5090 7190
+|5075 7190!5075 7190|5055 7185!5055 7185|5045 7180!5045 7180|5025 7180"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!5025 7180|5020 7180!5020 7180|5015 7175"/>
+                    <Edge fillStyle0="5" fillStyle1="3" edges="
+!5015 7175|5010 7175!5010 7175|4995 7170!4995 7170|4980 7170!4980 7170|4960 7165!4960 7165|4950 7160!4950 7160|4935 7160!4935 7160|4900 7150"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!4900 7150|4890 7150!4890 7150|4880 7145"/>
+                    <Edge fillStyle0="5" fillStyle1="3" edges="
+!4880 7145|4870 7145!4870 7145|4830 7135!4830 7135|4820 7135!4820 7135|4805 7130"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!4805 7130|3385 6805"/>
+                    <Edge fillStyle0="5" edges="
+!3385 6805|3285 7440!3285 7440|3150 8115!3150 8115|3015 8675!3015 8675|2800 9395!2800 9395[2785 9460 2825 9495!2825 9495|2890 9535!2890 9535|3035 9550!3035 9550|8130 9585!8130 9585|13400 9590!13400 9590|20075 9550!20075 9550|20175 9530
+!20175 9530[20235 9505 20255 9455!20255 9455|20250 9375!20250 9375[19981 8627 19665 6815"/>
+                    <Edge fillStyle0="1" edges="
+!15000 1415[12869 1228 10960 1250!10960 1250|9775 1290!9775 1290|9090 1330!9090 1330|8070 1415"/>
+                    <Edge fillStyle0="4" edges="
+!2760 6580|2400 6475!2400 6475|2320 6470!2320 6470[2310 6495 2430 6570!2430 6570|2555 6615!2555 6615|3385 6805"/>
+                    <Edge fillStyle0="3" edges="
+!3630 4155[3558 4953 3330 5690!3330 5690[3065 6435 2760 6580"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!2760 6580|3825 6885!3825 6885|4805 7130"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!4900 7150|4880 7145!5025 7180|5015 7175"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

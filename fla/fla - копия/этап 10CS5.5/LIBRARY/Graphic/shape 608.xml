@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 608" itemID="4debac18-00000261" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 608">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D5DDE4"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#ABB4BE"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#C4CBD1"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3210 3350|2935 3345!2935 3345|2890 3340!2890 3340|2870 3340!2870 3340|2825 3335!2825 3335|2760 3315!2760 3315|2685 3275!2685 3275|2630 3215!2630 3215|2555 2935!2555 2935|2495 2565!2495 2565|2470 2115!2470 2115|2480 1775!2480 1775|2520
+ 1460!2520 1460|2590 1210!2590 1210|2690 1030!2690 1030|2795 975!2795 975|5560 880!5560 880|6705 865!6705 865|8040 820!8040 820|10005 790!10005 790|11775 785!11775 785|14080 805!14080 805|15965 840!15965 840|16290 860!16290 860|18010
+ 895!18010 895|20245 970!20245 970|20355 1020!20355 1020|20455 1185!20455 1185|20530 1450!20530 1450|20575 1810!20575 1810|20580 2215!20580 2215|20555 2570!20555 2570|20500 2910!20500 2910|20420 3215!20420 3215|20385 3265!20385 3265|20295
+ 3315!20295 3315|20290 3315!20290 3315|20260 3325!20260 3325|20185 3340!20185 3340|20165 3340!20165 3340|20140 3345!20140 3345|19835 3350"/>
+                    <Edge fillStyle1="2" edges="
+!19835 3350|19815 3365"/>
+                    <Edge fillStyle1="4" edges="
+!19815 3365|20135 3360!20135 3360|20225 3375!20225 3375|20310 3440!20310 3440|20345 3490!20345 3490|20360 3560!20360 3560|20350 6725!20350 6725|20360 10300!20360 10300|20345 10375!20345 10375|20300 10440!20300 10440|20250 10475!20250
+ 10475|20150 10505!20150 10505|6480 10510!6480 10510|2905 10505!2905 10505|2825 10490!2825 10490|2785 10465!2785 10465|2705 10375!2705 10375|2685 10285!2685 10285|2700 5540!2700 5540|2685 3595!2685 3595|2705 3495!2705 3495|2745 3430!2745
+ 3430|2815 3380!2815 3380|2905 3360!2905 3360|3215 3365"/>
+                    <Edge fillStyle1="2" edges="
+!3215 3365|3210 3350"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!19820 3350|19815 3365"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!19835 3350|19820 3350"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!19250 3360|19410 3375"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!19410 3375|19815 3365"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!3830 3360|4040 3360!4040 3360|4060 3365!4060 3365|9075 3420!9075 3420|13115 3425!13115 3425|19020 3365!19020 3365|19040 3360!19040 3360|19250 3360"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!19250 3360|19820 3350"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!3670 3375|6940 3420!6940 3420|9855 3440!9855 3440|13265 3440!13265 3440|16635 3415!16635 3415|19410 3375"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!3670 3375|3830 3360"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!3830 3360|3710 3355!3710 3355|3225 3350"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!3225 3350|3230 3365"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!3230 3365|3670 3375"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!3225 3350|3210 3350"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!3215 3365|3230 3365"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

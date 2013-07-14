@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 104" itemID="4debac18-0000009f" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 104">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D2DAE1"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#A7B0BA"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#EDF5F9"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#F8FCFD"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!19435 5585|19870 5540!19870 5540[19975 5510 20080 5360!20080 5360[20355 4830 20385 4295!20385 4295|20400 3860!20400 3860[20395 3815 20350 3805!20350 3805[20270 3785 20185 3805!20185 3805|19620 3940"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!19620 3940|18340 4205!18340 4205|17645 4325!17645 4325|16385 4505"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="!16385 4505|15850 4570!15850 4570[13984 4774 11905 4805!11905 4805|10825 4800!10825 4800|9530 4755!9530 4755|8325 4675!8325 4675|7715 4620!7715 4620|6695 4500"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!6695 4500|6210 4440!6210 4440|5115 4270!5115 4270|4330 4125!4330 4125|3430 3930"/>
+                    <Edge fillStyle0="2" edges="!3430 3930|2825 3790!2825 3790[2680 3780 2675 3820!2675 3820[2642 4029 2680 4350!2680 4350[2785 5145 3030 5430!3030 5430[3090 5510 3210 5545!3210 5545|3620 5585"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!3620 5585|7640 6035!7640 6035|8740 6125!8740 6125|9650 6180!9650 6180|10995 6220!10995 6220|12240 6220!12240 6220|13210 6190!13210 6190|14130 6140!14130 6140|15280 6050!15280 6050|16650 5910!16650 5910|19435 5585"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="!16385 4505|14665 4440!14665 4440|11465 4415!11465 4415|7920 4450!7920 4450|7695 4470!7695 4470|6695 4500"/>
+                    <Edge fillStyle0="1" edges="!19620 3940[19745 2730 19430 2495!19430 2495[16819 2019 14440 1785!14440 1785[11921 1622 10060 1695!10060 1695[7972 1755 3615 2500!3615 2500[3315 2735 3430 3930"/>
+                    <Edge fillStyle0="3" edges="!3620 5585[3440 6560 3090 7385!3090 7385[2655 8225 2280 8245!2280 8245[4005 8607 6525 8920!6525 8920[9091 9172 11110 9200!11110 9200[13186 9195 14575 9100!14575 9100[15945 9020 18360 8685!18360 8685[20147 8398 20785 8250!20785 8250[19880
+ 7980 19435 5585"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

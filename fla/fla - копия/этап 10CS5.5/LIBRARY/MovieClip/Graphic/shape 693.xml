@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/Graphic/shape 693" itemID="4debac18-000002b6" symbolType="graphic" lastModified="1307857410">
+  <timeline>
+    <DOMTimeline name="shape 693">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!228 -1758S1|304 -1755!304 -1755[609 -1868 960 -1868!960 -1868[1734 -1868 2281 -1321!2281 -1321[2828 -774 2828 0!2828 0[2828 766 2231 1239!2231 1239[1632 1712 1012 1635!1012 1635[418 1550 227 762!227 762[217 721 182 700!182 700[147 678
+ 107 688!107 688[66 698 45 733!45 733[23 768 33 809!33 809[260 1748 986 1833!986 1833[1684 1926 2355 1396!2355 1396[3028 864 3028 0!3028 0[3028 -856 2422 -1462!2422 -1462[1816 -2068 960 -2068!960 -2068[571 -2068 234 -1943!234 -1943[195
+ -1928 178 -1890!178 -1890[161 -1853 176 -1814!176 -1814[190 -1775 228 -1758"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

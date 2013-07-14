@@ -1,0 +1,392 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 363" itemID="4debac18-000001a2" lastModified="1310069963">
+  <timeline>
+    <DOMTimeline name="sprite 363" currentFrame="9">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[stop ();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[stop ();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Label Layer" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="9" name="s1" labelType="name" motionTweenScale="false" keyMode="8192" soundName="Sound/sound142" soundLoop="0" soundZoomLevel="65535">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" name="s2" labelType="name" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="20" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button 362" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.639892578125" d="5.68212890625" tx="3.65" ty="29.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on (rollOver)
+{
+    gotoAndPlay("s1");
+}
+on (releaseOutside, rollOut)
+{
+    gotoAndPlay("s2");
+}
+on(press){
+	_parent.gotoAndStop(4)
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#1883BD" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10.4942321777344" blurY="10.4942321777344" color="#000000" inner="true" strength="0.2"/>
+                    <GlowFilter blurX="3.358154296875" blurY="3.358154296875" color="#2075A2" inner="true" strength="2.09"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="19.7532653808594" blurY="19.7532653808594" color="#000000" inner="true" strength="0.39"/>
+                    <GlowFilter blurX="6.321044921875" blurY="6.321044921875" color="#27698B" inner="true" strength="3.95"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="27.777099609375" blurY="27.777099609375" color="#000000" inner="true" strength="0.55"/>
+                    <GlowFilter blurX="8.888671875" blurY="8.888671875" color="#2D5E76" inner="true" strength="5.55"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="34.5680236816406" blurY="34.5680236816406" color="#000000" inner="true" strength="0.69"/>
+                    <GlowFilter blurX="11.061767578125" blurY="11.061767578125" color="#325464" inner="true" strength="6.91"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="40.1237487792969" blurY="40.1237487792969" color="#000000" inner="true" strength="0.8"/>
+                    <GlowFilter blurX="12.839599609375" blurY="12.839599609375" color="#374D56" inner="true" strength="8.02"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="44.4442749023438" blurY="44.4442749023438" color="#000000" inner="true" strength="0.88"/>
+                    <GlowFilter blurX="14.22216796875" blurY="14.22216796875" color="#3A474B" inner="true" strength="8.88"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="47.5303649902344" blurY="47.5303649902344" color="#000000" inner="true" strength="0.95"/>
+                    <GlowFilter blurX="15.209716796875" blurY="15.209716796875" color="#3D4343" inner="true" strength="9.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="49.3827819824219" blurY="49.3827819824219" color="#000000" inner="true" strength="0.98"/>
+                    <GlowFilter blurX="15.802490234375" blurY="15.802490234375" color="#3E403E" inner="true" strength="9.87"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="50" blurY="50" color="#000000" inner="true"/>
+                    <GlowFilter blurX="16" blurY="16" color="#3F3F3C" inner="true" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="40.4991149902344" blurY="40.4991149902344" color="#000000" inner="true" strength="0.8"/>
+                    <GlowFilter blurX="12.959716796875" blurY="12.959716796875" color="#384B54" inner="true" strength="8.09"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="31.9999694824219" blurY="31.9999694824219" color="#000000" inner="true" strength="0.63"/>
+                    <GlowFilter blurX="10.239990234375" blurY="10.239990234375" color="#31576A" inner="true" strength="6.39"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="24.49951171875" blurY="24.49951171875" color="#000000" inner="true" strength="0.48"/>
+                    <GlowFilter blurX="7.83984375" blurY="7.83984375" color="#2C617D" inner="true" strength="4.88"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="18.0000305175781" blurY="18.0000305175781" color="#000000" inner="true" strength="0.36"/>
+                    <GlowFilter blurX="5.760009765625" blurY="5.760009765625" color="#276A8E" inner="true" strength="3.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="12.5" blurY="12.5" color="#000000" inner="true" strength="0.25"/>
+                    <GlowFilter blurX="4" blurY="4" color="#22729C" inner="true" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="7.99942016601563" blurY="7.99942016601563" color="#000000" inner="true" strength="0.15"/>
+                    <GlowFilter blurX="2.559814453125" blurY="2.559814453125" color="#1F78A8" inner="true" strength="1.59"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4.49981689453125" blurY="4.49981689453125" color="#000000" inner="true" strength="0.08"/>
+                    <GlowFilter blurX="1.43994140625" blurY="1.43994140625" color="#1C7CB1" inner="true" strength="0.89"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.99966430664063" blurY="1.99966430664063" color="#000000" inner="true" strength="0.03"/>
+                    <GlowFilter blurX="0.639892578125" blurY="0.639892578125" color="#1A80B7" inner="true" strength="0.39"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0.499725341796875" blurY="0.499725341796875" color="#000000" inner="true" strength="0"/>
+                    <GlowFilter blurX="0.159912109375" blurY="0.159912109375" color="#1982BB" inner="true" strength="0.09"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 361">
+                  <matrix>
+                    <Matrix tx="-50" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#1883BD" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

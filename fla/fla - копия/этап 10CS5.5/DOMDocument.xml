@@ -1,0 +1,920 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999966" gridColor="#C0C0C0" guidesColor="#FF0000" width="980" height="800" frameRate="31" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" gridSpacingX="18" gridSpacingY="18" guidesLocked="true" gridVisible="true" snapAlignBorderSpacing="18" objectsSnapTo="false" sharedLibraryURL="1 дополнительная.JPG" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Button" itemID="4debac0a-00000306"/>
+          <DOMFolderItem name="Graphic" itemID="4debac0a-00000304"/>
+          <DOMFolderItem name="Image" itemID="4debac0a-0000030a"/>
+          <DOMFolderItem name="MovieClip" itemID="4debac0a-00000308"/>
+          <DOMFolderItem name="MovieClip/Graphic" itemID="4df13114-000033cf"/>
+          <DOMFolderItem name="MovieClip/Image" itemID="4df13114-000033d0"/>
+          <DOMFolderItem name="Sound" itemID="4debac0a-0000030c"/>
+          <DOMFolderItem name="Бегущая строка на главной" itemID="501a4990-00001661" isExpanded="true"/>
+          <DOMFolderItem name="Общий бэкграунд" itemID="50249208-000003f2"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Image/1301.jpg" itemID="501a47d2-00001626" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/1301.jpg" sourceLastImported="1343898108" externalFileCRC32="2905349421" externalFileSize="9270" quality="50" href="Image/1301.jpg" bitmapDataHRef="M 212 1327937944.dat" frameRight="4000" frameBottom="2980" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/2кнопка.jpg" itemID="4dff6d31-00000613" sourceExternalFilepath="./LIBRARY/MovieClip/Image/2кнопка.jpg" sourceLastImported="1308585079" externalFileCRC32="156481243" externalFileSize="10776" originalCompressionType="lossless" quality="50" href="MovieClip/Image/2кнопка.jpg" bitmapDataHRef="M 131 1308585265.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="MovieClip/Image/5(1)кнопка.jpg" itemID="501a47d2-00001627" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/5(1)кнопка.jpg" sourceLastImported="1343897794" externalFileCRC32="1416831841" externalFileSize="12698" originalCompressionType="lossless" quality="50" href="MovieClip/Image/5(1)кнопка.jpg" bitmapDataHRef="M 134 1308585265.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="MovieClip/Image/8878e61c31234321db5490580444a9d6kl.gif" itemID="501a47d2-00001628" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/8878e61c31234321db5490580444a9d6kl.gif" sourceLastImported="1343897794" externalFileCRC32="4063486712" externalFileSize="138345" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="MovieClip/Image/8878e61c31234321db5490580444a9d6kl.gif" bitmapDataHRef="M 1 1308238258.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 129" itemID="4debac18-000000b8" sourceExternalFilepath="./LIBRARY/Image/image 129" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="Image/image 129./LIBRARY/Image/image 129" bitmapDataHRef="Media 15.dat" frameRight="18540" frameBottom="11800"/>
+          <DOMBitmapItem name="Image/image 144" itemID="4debac18-000000c7" sourceExternalFilepath="./LIBRARY/Image/image 144" sourceLastImported="1307290648" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="Image/image 144./LIBRARY/Image/image 144" bitmapDataHRef="Media 18.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 148" itemID="4debac18-000000cb" sourceExternalFilepath="./LIBRARY/Image/image 148" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="Image/image 148./LIBRARY/Image/image 148" bitmapDataHRef="Media 19.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 15" itemID="4debac0f-00000046" sourceExternalFilepath="./LIBRARY/Image/image 15" sourceLastImported="1307290639" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 15./LIBRARY/Image/image 15" bitmapDataHRef="Media 3.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 156" itemID="4debac18-000000d3" sourceExternalFilepath="./LIBRARY/Image/image 156" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 156./LIBRARY/Image/image 156" bitmapDataHRef="Media 21.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 196" itemID="4debac18-000000fb" sourceExternalFilepath="./LIBRARY/Image/image 196" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 196./LIBRARY/Image/image 196" bitmapDataHRef="Media 22.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 214" itemID="4debac18-0000010d" sourceExternalFilepath="./LIBRARY/Image/image 214" sourceLastImported="1307290648" allowSmoothing="true" quality="100" href="Image/image 214./LIBRARY/Image/image 214" bitmapDataHRef="Media 23.dat" frameRight="16880" frameBottom="20" isJPEG="true"/>
+          <DOMBitmapItem name="Image/image 217" itemID="4debac18-00000110" sourceExternalFilepath="./LIBRARY/Image/image 217" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 217./LIBRARY/Image/image 217" bitmapDataHRef="Media 24.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 291" itemID="4debac18-0000015a" sourceExternalFilepath="./LIBRARY/Image/image 291" sourceLastImported="1307290648" allowSmoothing="true" quality="100" href="Image/image 291./LIBRARY/Image/image 291" bitmapDataHRef="Media 30.dat" frameRight="16880" frameBottom="20" isJPEG="true"/>
+          <DOMBitmapItem name="Image/image 329" itemID="4debac18-00000180" sourceExternalFilepath="./LIBRARY/Image/image 329" sourceLastImported="1307290648" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="Image/image 329./LIBRARY/Image/image 329" bitmapDataHRef="Media 32.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 35" itemID="4debac14-0000005a" sourceExternalFilepath="./LIBRARY/Image/image 35" sourceLastImported="1307290644" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 35./LIBRARY/Image/image 35" bitmapDataHRef="Media 6.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 389" itemID="4debac18-000001bc" sourceExternalFilepath="./LIBRARY/Image/image 389" sourceLastImported="1307290648" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="Image/image 389./LIBRARY/Image/image 389" bitmapDataHRef="Media 35.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 416" itemID="4debac18-000001d7" sourceExternalFilepath="./LIBRARY/Image/image 416" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 416./LIBRARY/Image/image 416" bitmapDataHRef="Media 36.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 54" itemID="4debac14-0000006d" sourceExternalFilepath="./LIBRARY/Image/image 54" sourceLastImported="1307290644" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 54./LIBRARY/Image/image 54" bitmapDataHRef="Media 10.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="MovieClip/Image/image 715" itemID="4debac18-000002cc" sourceExternalFilepath="./LIBRARY/MovieClip/Image/image 715" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="MovieClip/Image/image 715./LIBRARY/MovieClip/Image/image 715" bitmapDataHRef="Media 39.dat" frameRight="320" frameBottom="180"/>
+          <DOMBitmapItem name="Image/image 715" itemID="4df13114-000033f4" sourceExternalFilepath="./LIBRARY/Image/image 715" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="Image/image 715./LIBRARY/Image/image 715" bitmapDataHRef="Media 39.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 721" itemID="4debac18-000002d2" sourceExternalFilepath="./LIBRARY/Image/image 721" sourceLastImported="1307290648" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="Image/image 721./LIBRARY/Image/image 721" bitmapDataHRef="Media 40.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 725" itemID="4debac18-000002d6" sourceExternalFilepath="./LIBRARY/Image/image 725" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 725./LIBRARY/Image/image 725" bitmapDataHRef="Media 41.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 738" itemID="4debac18-000002e3" sourceExternalFilepath="./LIBRARY/Image/image 738" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 738./LIBRARY/Image/image 738" bitmapDataHRef="Media 43.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/image 744" itemID="4debac18-000002e9" sourceExternalFilepath="./LIBRARY/Image/image 744" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 744./LIBRARY/Image/image 744" bitmapDataHRef="Media 44.dat" frameRight="18500" frameBottom="20"/>
+          <DOMBitmapItem name="Image/image 750" itemID="4debac18-000002ef" sourceExternalFilepath="./LIBRARY/Image/image 750" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 750./LIBRARY/Image/image 750" bitmapDataHRef="Media 45.dat" frameRight="460" frameBottom="380"/>
+          <DOMBitmapItem name="Image/image 755" itemID="4debac18-000002f4" sourceExternalFilepath="./LIBRARY/Image/image 755" sourceLastImported="1307290648" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="Image/image 755./LIBRARY/Image/image 755" bitmapDataHRef="Media 46.dat" frameRight="460" frameBottom="460"/>
+          <DOMBitmapItem name="Бегущая строка на главной/№1миниатюра для бегущей строки .JPG" itemID="501c1689-0000066f" sourceExternalFilepath="./LIBRARY/Бегущая строка на главной/№1миниатюра для бегущей строки .JPG" sourceLastImported="1344017806" externalFileSize="33090" quality="50" href="Бегущая строка на главной/№1миниатюра для бегущей строки .JPG" bitmapDataHRef="M 88 1345697567.dat" frameRight="3200" frameBottom="2860" isJPEG="true"/>
+          <DOMBitmapItem name="Бегущая строка на главной/№2миниатюра для бегущей строки .JPG" itemID="501c1689-00000670" sourceExternalFilepath="./LIBRARY/Бегущая строка на главной/№2миниатюра для бегущей строки .JPG" sourceLastImported="1344017806" externalFileSize="35131" quality="50" href="Бегущая строка на главной/№2миниатюра для бегущей строки .JPG" bitmapDataHRef="M 89 1345697567.dat" frameRight="3200" frameBottom="2160" isJPEG="true"/>
+          <DOMBitmapItem name="Бегущая строка на главной/№3миниатюра для бегущей строки .JPG" itemID="501c1689-00000671" sourceExternalFilepath="./LIBRARY/Бегущая строка на главной/№3миниатюра для бегущей строки .JPG" sourceLastImported="1344017806" externalFileSize="23771" quality="50" href="Бегущая строка на главной/№3миниатюра для бегущей строки .JPG" bitmapDataHRef="M 90 1345697567.dat" frameRight="3200" frameBottom="2860" isJPEG="true"/>
+          <DOMBitmapItem name="Бегущая строка на главной/№4миниатюра для бегущей строки .JPG" itemID="501c1689-00000672" sourceExternalFilepath="./LIBRARY/Бегущая строка на главной/№4миниатюра для бегущей строки .JPG" sourceLastImported="1344017806" externalFileSize="33076" quality="50" href="Бегущая строка на главной/№4миниатюра для бегущей строки .JPG" bitmapDataHRef="M 91 1345697567.dat" frameRight="3200" frameBottom="2160" isJPEG="true"/>
+          <DOMBitmapItem name="Image/PPUA-1600-100M.jpg" itemID="4df8c8cd-00000610" sourceExternalFilepath="./LIBRARY/Image/PPUA-1600-100M.jpg" sourceLastImported="1308149575" quality="50" href="Image/PPUA-1600-100M.jpg" bitmapDataHRef="M 86 1308149965.dat" frameRight="7000" frameBottom="4560" isJPEG="true"/>
+          <DOMBitmapItem name="Image/SERT8k.jpg" itemID="501a47d2-00001629" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/SERT8k.jpg" sourceLastImported="1343898108" externalFileCRC32="4118721068" externalFileSize="12004" quality="50" href="Image/SERT8k.jpg" bitmapDataHRef="M 211 1334478658.dat" frameRight="2180" frameBottom="3200" isJPEG="true"/>
+          <DOMSoundItem name="Sound/sound 15.mp3" itemID="501a47d2-0000162a" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Sound/sound 15.mp3" sourceLastImported="1343898108" externalFileCRC32="926814345" externalFileSize="259355" href="Sound/sound 15.mp3" soundDataHRef="M 147 1308668289.dat" format="22kHz 16bit Stereo" sampleCount="708480" exportFormat="1" exportBits="7" dataLength="255847" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="177120"/>
+          <DOMSoundItem name="Sound/sound 34" itemID="4debac12-00000059" sourceExternalFilepath="./LIBRARY/Sound/sound 34" sourceLastImported="1307290642" href="Sound/sound 34./LIBRARY/Sound/sound 34" soundDataHRef="Media 5.dat" format="22kHz 16bit Stereo" sampleCount="62208" exportFormat="3" exportBits="13" dataLength="24241" cachedSampleCount="32544"/>
+          <DOMSoundItem name="Sound/sound142" itemID="501f9aa1-0000092d" linkageExportForAS="true" linkageIdentifier="sound142" sourceExternalFilepath="./LIBRARY/Sound/sound 142" sourceLastImported="1307290648" href="Sound/sound142./LIBRARY/Sound/sound 142" soundDataHRef="Media 17.dat" format="22kHz 16bit Stereo" sampleCount="4550" exportFormat="3" exportBits="13" dataLength="3343" cachedSampleCount="3744"/>
+          <DOMSoundItem name="Sound/sound63" itemID="501f9cf3-00000950" linkageExportForAS="true" linkageIdentifier="sound63" sourceExternalFilepath="./LIBRARY/Sound/sound 63" sourceLastImported="1307290645" href="Sound/sound63./LIBRARY/Sound/sound 63" soundDataHRef="Media 11.dat" format="22kHz 16bit Stereo" sampleCount="13230" exportFormat="3" exportBits="13" dataLength="6478" cachedSampleCount="8064"/>
+          <DOMSoundItem name="Sound/sound714" itemID="501f9af4-0000092f" linkageExportForAS="true" linkageIdentifier="sound714" sourceExternalFilepath="./LIBRARY/Sound/sound 714" sourceLastImported="1307290648" href="Sound/sound714./LIBRARY/Sound/sound 714" soundDataHRef="Media 38.dat" format="22kHz 16bit Stereo" sampleCount="6990" exportFormat="3" exportBits="13" dataLength="4179" cachedSampleCount="4896"/>
+          <DOMSoundItem name="Sound/sound86" itemID="501f9d54-00000957" linkageExportForAS="true" linkageIdentifier="sound86" sourceExternalFilepath="./LIBRARY/Sound/sound 86" sourceLastImported="1307290648" href="Sound/sound86./LIBRARY/Sound/sound 86" soundDataHRef="Media 14.dat" format="22kHz 16bit Stereo" sampleCount="25357" exportFormat="3" exportBits="13" dataLength="10866" cachedSampleCount="14112"/>
+          <DOMBitmapItem name="Image/ugra0000.png" itemID="501a47d3-0000162b" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/ugra0000.png" sourceLastImported="1343898108" externalFileSize="24682" originalCompressionType="lossless" quality="50" href="Image/ugra0000.png" bitmapDataHRef="M 50 1307572607.dat" frameRight="2260" frameBottom="2300"/>
+          <DOMBitmapItem name="Image/запчасти.jpg" itemID="501a47d3-0000162c" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/запчасти.jpg" sourceLastImported="1343898108" externalFileCRC32="2357693326" externalFileSize="14927" quality="50" href="Image/запчасти.jpg" bitmapDataHRef="M 113 1308573020.dat" frameRight="12800" frameBottom="8140" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/камаз-перед-блик-обрезанный 640х480.png" itemID="501a47d3-0000162d" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/камаз-перед-блик-обрезанный 640х480.png" sourceLastImported="1343897794" externalFileCRC32="3441224431" externalFileSize="331385" originalCompressionType="lossless" quality="50" href="MovieClip/Image/камаз-перед-блик-обрезанный 640х480.png" bitmapDataHRef="M 69 1307865270.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/КАМАЗ-ППУАок.png" itemID="501a47d3-0000162e" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/КАМАЗ-ППУАок.png" sourceLastImported="1343898108" externalFileCRC32="1186929071" externalFileSize="115498" originalCompressionType="lossless" quality="50" href="Image/КАМАЗ-ППУАок.png" bitmapDataHRef="M 198 1309125283.dat" frameRight="7920" frameBottom="5820"/>
+          <DOMBitmapItem name="Image/Копия (2) вместо первой фото в верхнем ряду на 1 странице.JPG" itemID="502497f0-00000488" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/Копия (2) вместо первой фото в верхнем ряду на 1 странице.JPG" sourceLastImported="1344575471" externalFileSize="39301" quality="50" href="Image/Копия (2) вместо первой фото в верхнем ряду на 1 странице.JPG" bitmapDataHRef="M 85 1344574049.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/Копия (2) вместо четвёртой фото в верхнем ряду на 2 странице.JPG" itemID="502497f0-00000489" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/Копия (2) вместо четвёртой фото в верхнем ряду на 2 странице.JPG" sourceLastImported="1344575471" externalFileSize="36100" quality="50" href="Image/Копия (2) вместо четвёртой фото в верхнем ряду на 2 странице.JPG" bitmapDataHRef="M 86 1344574049.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/Копия (2) вместо четвёртой фото в о втором ряду от низа на 2 странице.JPG" itemID="502497f0-0000048a" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/Копия (2) вместо четвёртой фото в о втором ряду от низа на 2 странице.JPG" sourceLastImported="1344575471" externalFileSize="37783" quality="50" href="Image/Копия (2) вместо четвёртой фото в о втором ряду от низа на 2 странице.JPG" bitmapDataHRef="M 87 1344574049.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/краз-подъемник.jpg" itemID="501a47d3-0000162f" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/краз-подъемник.jpg" sourceLastImported="1343897794" externalFileCRC32="1051636626" externalFileSize="19782" quality="50" href="MovieClip/Image/краз-подъемник.jpg" bitmapDataHRef="M 108 1308329509.dat" frameRight="12800" frameBottom="8840" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин1.jpg" itemID="501a47d3-00001630" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин1.jpg" sourceLastImported="1343898108" externalFileCRC32="3379764241" externalFileSize="2937" originalCompressionType="lossless" quality="50" href="Image/мин1.jpg" bitmapDataHRef="M 183 1310371102.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/мин10.jpg" itemID="501a47d3-00001631" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин10.jpg" sourceLastImported="1343898108" externalFileCRC32="2819112537" externalFileSize="5077" quality="50" href="Image/мин10.jpg" bitmapDataHRef="M 192 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин11.jpg" itemID="501a47d3-00001632" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин11.jpg" sourceLastImported="1343898108" externalFileCRC32="1728926541" externalFileSize="4729" quality="50" href="Image/мин11.jpg" bitmapDataHRef="M 193 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин12.jpg" itemID="501a47d3-00001633" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин12.jpg" sourceLastImported="1343898108" externalFileCRC32="2994188704" externalFileSize="5171" originalCompressionType="lossless" quality="50" href="Image/мин12.jpg" bitmapDataHRef="M 194 1310392753.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/мин13.jpg" itemID="501a47d3-00001634" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин13.jpg" sourceLastImported="1343898108" externalFileCRC32="620779560" externalFileSize="4868" quality="50" href="Image/мин13.jpg" bitmapDataHRef="M 195 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин14.jpg" itemID="501a47d3-00001635" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин14.jpg" sourceLastImported="1343898108" externalFileCRC32="3152767271" externalFileSize="4974" quality="50" href="Image/мин14.jpg" bitmapDataHRef="M 196 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин15.jpg" itemID="501a47d3-00001636" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин15.jpg" sourceLastImported="1343898108" externalFileCRC32="2661568624" externalFileSize="3335" quality="50" href="Image/мин15.jpg" bitmapDataHRef="M 197 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин16.jpg" itemID="501a47d3-00001637" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин16.jpg" sourceLastImported="1343898108" externalFileCRC32="910000075" externalFileSize="4217" quality="50" href="Image/мин16.jpg" bitmapDataHRef="M 198 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин17.jpg" itemID="501a47d3-00001638" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин17.jpg" sourceLastImported="1343898108" externalFileCRC32="609059306" externalFileSize="6615" quality="50" href="Image/мин17.jpg" bitmapDataHRef="M 199 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин18.jpg" itemID="501a47d3-00001639" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин18.jpg" sourceLastImported="1343898108" externalFileCRC32="2152728604" externalFileSize="4301" quality="50" href="Image/мин18.jpg" bitmapDataHRef="M 200 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин19.jpg" itemID="501a47d3-0000163a" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин19.jpg" sourceLastImported="1343898108" externalFileCRC32="3711411763" externalFileSize="6171" quality="50" href="Image/мин19.jpg" bitmapDataHRef="M 201 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин2.jpg" itemID="501a47d3-0000163b" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин2.jpg" sourceLastImported="1343898108" externalFileCRC32="231595559" externalFileSize="3750" quality="50" href="Image/мин2.jpg" bitmapDataHRef="M 184 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин20.jpg" itemID="501a47d3-0000163c" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин20.jpg" sourceLastImported="1343898108" externalFileCRC32="820291131" externalFileSize="5453" originalCompressionType="lossless" quality="50" href="Image/мин20.jpg" bitmapDataHRef="M 202 1310392754.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Image/мин21.jpg" itemID="501a47d3-0000163d" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин21.jpg" sourceLastImported="1343898108" externalFileCRC32="2418080759" externalFileSize="5661" quality="50" href="Image/мин21.jpg" bitmapDataHRef="M 203 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин22.jpg" itemID="501a47d3-0000163e" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин22.jpg" sourceLastImported="1343898108" externalFileCRC32="3814154341" externalFileSize="5908" quality="50" href="Image/мин22.jpg" bitmapDataHRef="M 204 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин23.jpg" itemID="501a47d3-0000163f" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин23.jpg" sourceLastImported="1343898108" externalFileCRC32="1047527898" externalFileSize="5359" quality="50" href="Image/мин23.jpg" bitmapDataHRef="M 205 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин24.jpg" itemID="501a47d3-00001640" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин24.jpg" sourceLastImported="1343898108" externalFileCRC32="3352378133" externalFileSize="7516" quality="50" href="Image/мин24.jpg" bitmapDataHRef="M 206 1310392754.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин3.jpg" itemID="501a47d3-00001641" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин3.jpg" sourceLastImported="1343898108" externalFileCRC32="903838620" externalFileSize="3941" quality="50" href="Image/мин3.jpg" bitmapDataHRef="M 185 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин4.jpg" itemID="501a47d3-00001642" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин4.jpg" sourceLastImported="1343898108" externalFileCRC32="1498042080" externalFileSize="5726" quality="50" href="Image/мин4.jpg" bitmapDataHRef="M 186 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин5.jpg" itemID="501a47d3-00001643" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин5.jpg" sourceLastImported="1343898108" externalFileCRC32="40628914" externalFileSize="6000" quality="50" href="Image/мин5.jpg" bitmapDataHRef="M 187 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин6.jpg" itemID="501a47d3-00001644" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин6.jpg" sourceLastImported="1343898108" externalFileCRC32="2538951426" externalFileSize="3684" quality="50" href="Image/мин6.jpg" bitmapDataHRef="M 188 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин7.jpg" itemID="501a47d3-00001645" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин7.jpg" sourceLastImported="1343898108" externalFileCRC32="2392720390" externalFileSize="5325" quality="50" href="Image/мин7.jpg" bitmapDataHRef="M 189 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин8.jpg" itemID="501a47d3-00001646" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин8.jpg" sourceLastImported="1343898108" externalFileCRC32="2352205585" externalFileSize="5818" quality="50" href="Image/мин8.jpg" bitmapDataHRef="M 190 1310371102.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/мин9.jpg" itemID="501a47d3-00001647" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/мин9.jpg" sourceLastImported="1343898108" externalFileCRC32="679339837" externalFileSize="4487" quality="50" href="Image/мин9.jpg" bitmapDataHRef="M 191 1310392753.dat" frameRight="3200" frameBottom="2400" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/окончание 640х480.png" itemID="501a47d3-00001648" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/окончание 640х480.png" sourceLastImported="1343897794" externalFileCRC32="4100049649" externalFileSize="392013" originalCompressionType="lossless" quality="50" href="MovieClip/Image/окончание 640х480.png" bitmapDataHRef="M 74 1307962052.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="MovieClip/Image/подъемник.jpg" itemID="501a47d4-00001649" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/подъемник.jpg" sourceLastImported="1343897794" externalFileCRC32="4120340291" externalFileSize="8202" quality="50" href="MovieClip/Image/подъемник.jpg" bitmapDataHRef="M 152 1308772186.dat" frameRight="15060" frameBottom="8620" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ1КНОПКА.jpg" itemID="501a47d4-0000164a" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ1КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="1426136456" externalFileSize="11205" quality="50" href="Image/СЕРТ1КНОПКА.jpg" bitmapDataHRef="M 118 1308578935.dat" frameRight="2200" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ2КНОПКА.jpg" itemID="501a47d4-0000164b" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ2КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="3444663062" externalFileSize="12777" quality="50" href="Image/СЕРТ2КНОПКА.jpg" bitmapDataHRef="M 119 1308578935.dat" frameRight="2160" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ3КНОПКА.jpg" itemID="501a47d4-0000164c" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ3КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="698603096" externalFileSize="12245" quality="50" href="Image/СЕРТ3КНОПКА.jpg" bitmapDataHRef="M 120 1308578935.dat" frameRight="2220" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ4КНОПКА.jpg" itemID="501a47d4-0000164d" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ4КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="129807603" externalFileSize="12486" quality="50" href="Image/СЕРТ4КНОПКА.jpg" bitmapDataHRef="M 121 1308578935.dat" frameRight="2180" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ5КНОПКА.jpg" itemID="501a47d4-0000164e" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ5КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="860259520" externalFileSize="4209" quality="50" href="Image/СЕРТ5КНОПКА.jpg" bitmapDataHRef="M 215 1310070228.dat" frameRight="2200" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ6КНОПКА.jpg" itemID="501a47d4-0000164f" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ6КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="922596588" externalFileSize="5838" quality="50" href="Image/СЕРТ6КНОПКА.jpg" bitmapDataHRef="M 208 1312402178.dat" frameRight="2200" frameBottom="1520" isJPEG="true"/>
+          <DOMBitmapItem name="Image/СЕРТ7КНОПКА.jpg" itemID="501a47d4-00001650" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/СЕРТ7КНОПКА.jpg" sourceLastImported="1343898108" externalFileCRC32="1176406223" externalFileSize="7748" quality="50" href="Image/СЕРТ7КНОПКА.jpg" bitmapDataHRef="M 209 1312403150.dat" frameRight="2200" frameBottom="3200" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/СХЕМА ПРОЕЗДА.gif" itemID="501a47d4-00001651" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/СХЕМА ПРОЕЗДА.gif" sourceLastImported="1343897794" externalFileCRC32="590271350" externalFileSize="30839" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="MovieClip/Image/СХЕМА ПРОЕЗДА.gif" bitmapDataHRef="M 72 1307888315.dat" frameRight="11040" frameBottom="9240"/>
+          <DOMBitmapItem name="MovieClip/Image/УПА-100-Идель.jpg" itemID="501a47d4-00001652" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/УПА-100-Идель.jpg" sourceLastImported="1343897794" externalFileCRC32="488776793" externalFileSize="21962" quality="50" href="MovieClip/Image/УПА-100-Идель.jpg" bitmapDataHRef="M 104 1308213017.dat" frameRight="6280" frameBottom="4460" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/урал-кран.jpg" itemID="501a47d4-00001653" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/урал-кран.jpg" sourceLastImported="1343897794" externalFileCRC32="129755125" externalFileSize="16126" quality="50" href="MovieClip/Image/урал-кран.jpg" bitmapDataHRef="M 110 1308329509.dat" frameRight="12800" frameBottom="7380" isJPEG="true"/>
+          <DOMBitmapItem name="Image/УРАЛФОН.jpg" itemID="4e00976d-00000d6d" sourceExternalFilepath="../../ИСПОЛЬЗУЕМЫЕ ФОТКИ/фоны/УРАЛФОН.jpg" sourceLastImported="1308661600" externalFileSize="17070" quality="50" href="Image/УРАЛФОН.jpg" bitmapDataHRef="M 144 1308661613.dat" frameRight="13000" frameBottom="9920" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/урал-ца320-бежевый.jpg" itemID="501a47d4-00001655" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/MovieClip/Image/урал-ца320-бежевый.jpg" sourceLastImported="1343897794" externalFileCRC32="2754523559" externalFileSize="13230" quality="50" href="MovieClip/Image/урал-ца320-бежевый.jpg" bitmapDataHRef="M 150 1308762680.dat" frameRight="12800" frameBottom="6400" isJPEG="true"/>
+          <DOMBitmapItem name="Image/ЦА 320.jpg" itemID="4df8c8cd-0000061f" sourceExternalFilepath="./LIBRARY/Image/ЦА 320.jpg" sourceLastImported="1308149521" quality="50" href="Image/ЦА 320.jpg" bitmapDataHRef="M 89 1308149965.dat" frameRight="6000" frameBottom="3000" isJPEG="true"/>
+          <DOMBitmapItem name="MovieClip/Image/ЧЕЛ 40Т.jpg" itemID="4df8c8cd-00000624" sourceExternalFilepath="./LIBRARY/MovieClip/Image/ЧЕЛ 40Т.jpg" sourceLastImported="1308149767" quality="50" href="MovieClip/Image/ЧЕЛ 40Т.jpg" bitmapDataHRef="M 90 1308149965.dat" frameRight="4000" frameBottom="2680" isJPEG="true"/>
+          <DOMBitmapItem name="Image/эмблема.gif" itemID="501a47d4-00001656" sourceExternalFilepath="F:/Рабочая папка/САЙТЫ/ZMS-UGRA.RU/fla/fla - копия/этап 10CS5.5/LIBRARY/Image/эмблема.gif" sourceLastImported="1343898108" externalFileSize="3580" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Image/эмблема.gif" bitmapDataHRef="M 107 1308219590.dat" frameRight="2000" frameBottom="2740"/>
+     </media>
+     <symbols>
+          <Include href="Button/button 58.xml" itemIcon="0" loadImmediate="false" itemID="4debac14-00000071" lastModified="1307290644"/>
+          <Include href="Button/button 70.xml" itemIcon="0" loadImmediate="false" itemID="4debac15-0000007d" lastModified="1307290645"/>
+          <Include href="Button/button 362.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000001a1" lastModified="1307290648"/>
+          <Include href="Button/button 366.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000001a5" lastModified="1307290648"/>
+          <Include href="Button/button 370.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000001a9" lastModified="1307290648"/>
+          <Include href="Button/button 374.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000001ad" lastModified="1307290648"/>
+          <Include href="Button/button 761.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000002fa" lastModified="1307290648"/>
+          <Include href="Button/button 762.xml" itemIcon="0" loadImmediate="false" itemID="4debac18-000002fb" lastModified="1308670211"/>
+          <Include href="Button/button1.xml" itemIcon="0" loadImmediate="false" itemID="4e1ac944-0000078a" lastModified="1344574772"/>
+          <Include href="Button/button2.xml" itemIcon="0" loadImmediate="false" itemID="4e1ac953-0000078f" lastModified="1310459592"/>
+          <Include href="Button/button3.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad3f4-0000097f" lastModified="1310459701"/>
+          <Include href="Button/button4.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad403-00000984" lastModified="1310459781"/>
+          <Include href="Button/button5.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad40c-00000989" lastModified="1310459804"/>
+          <Include href="Button/button6.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad415-0000098e" lastModified="1310459832"/>
+          <Include href="Button/button7.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad41f-00000993" lastModified="1310459854"/>
+          <Include href="Button/button8.xml" itemIcon="0" loadImmediate="false" itemID="4e1ad42b-00000998" lastModified="1310459880"/>
+          <Include href="Button/button9.xml" itemIcon="0" loadImmediate="false" itemID="4e1b063a-00001474" lastModified="1310461447"/>
+          <Include href="Button/button10.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0646-00001479" lastModified="1310461481"/>
+          <Include href="Button/button11.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0651-0000147e" lastModified="1310461516"/>
+          <Include href="Button/button12.xml" itemIcon="0" loadImmediate="false" itemID="4e1b065d-00001483" lastModified="1344574716"/>
+          <Include href="Button/button13.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0665-00001488" lastModified="1310461567"/>
+          <Include href="Button/button14.xml" itemIcon="0" loadImmediate="false" itemID="4e1b066c-0000148d" lastModified="1310461584"/>
+          <Include href="Button/button15.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0674-00001492" lastModified="1310461608"/>
+          <Include href="Button/button16.xml" itemIcon="0" loadImmediate="false" itemID="4e1b067c-00001497" lastModified="1310461639"/>
+          <Include href="Button/button17.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0684-0000149c" lastModified="1310461658"/>
+          <Include href="Button/button18.xml" itemIcon="0" loadImmediate="false" itemID="4e1b068b-000014a1" lastModified="1310461674"/>
+          <Include href="Button/button19.xml" itemIcon="0" loadImmediate="false" itemID="4e1b0695-000014a6" lastModified="1310461706"/>
+          <Include href="Button/button20.xml" itemIcon="0" loadImmediate="false" itemID="4e1b069e-000014ab" lastModified="1344574674"/>
+          <Include href="Button/button21.xml" itemIcon="0" loadImmediate="false" itemID="4e1b06a5-000014b0" lastModified="1310461747"/>
+          <Include href="Button/button22.xml" itemIcon="0" loadImmediate="false" itemID="4e1b06b0-000014b5" lastModified="1310461773"/>
+          <Include href="Button/button23.xml" itemIcon="0" loadImmediate="false" itemID="4e1b06b8-000014ba" lastModified="1310461790"/>
+          <Include href="Button/button24.xml" itemIcon="0" loadImmediate="false" itemID="4e1b06bf-000014bf" lastModified="1310461807"/>
+          <Include href="Button/engrus1.xml" itemIcon="0" loadImmediate="false" itemID="4e0dbb97-00000a72" lastModified="1309522840"/>
+          <Include href="Button/more.xml" itemIcon="0" loadImmediate="false" itemID="4e1af475-000011a5" lastModified="1310390957"/>
+          <Include href="Button/ruseng2.xml" itemIcon="0" loadImmediate="false" itemID="4e0dbf4f-00000b73" lastModified="1309803001"/>
+          <Include href="Button/ЗАКРЫТЬ.xml" itemIcon="0" loadImmediate="false" itemID="4e006e9d-00000cb5" lastModified="1309801346"/>
+          <Include href="Graphic/12.xml" itemIcon="1" loadImmediate="false" itemID="4df8e78f-00000668" lastModified="1308573029"/>
+          <Include href="Graphic/PPUA.xml" itemIcon="1" loadImmediate="false" itemID="4df8cbdf-00000639" lastModified="1308150751"/>
+          <Include href="Graphic/ruseng1.xml" itemIcon="1" loadImmediate="false" itemID="4e0dbce9-00000a7b" lastModified="1309523716"/>
+          <Include href="Graphic/shape 10.xml" itemIcon="1" loadImmediate="false" itemID="4debac0f-00000041" lastModified="1307854544"/>
+          <Include href="Graphic/shape 44 (Hit).xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000063" lastModified="1307290644"/>
+          <Include href="Graphic/shape 46.xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000065" lastModified="1308243152"/>
+          <Include href="Graphic/shape 55.xml" itemIcon="1" loadImmediate="false" itemID="4debac14-0000006e" lastModified="1344164123"/>
+          <Include href="Graphic/shape 57 (Hit).xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000070" lastModified="1307290644"/>
+          <Include href="Graphic/shape 59.xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000072" lastModified="1307290644"/>
+          <Include href="Graphic/shape 60.xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000073" lastModified="1307290644"/>
+          <Include href="Graphic/shape 84.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000008b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 85.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000008c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 87.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000008e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 88.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000008f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 89.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000090" lastModified="1307290648"/>
+          <Include href="Graphic/shape 90.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000091" lastModified="1307290648"/>
+          <Include href="Graphic/shape 91.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000092" lastModified="1307290648"/>
+          <Include href="Graphic/shape 92.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000093" lastModified="1307290648"/>
+          <Include href="Graphic/shape 93.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000094" lastModified="1307290648"/>
+          <Include href="Graphic/shape 94.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000095" lastModified="1307290648"/>
+          <Include href="Graphic/shape 95.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000096" lastModified="1307290648"/>
+          <Include href="Graphic/shape 96.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000097" lastModified="1307290648"/>
+          <Include href="Graphic/shape 97.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000098" lastModified="1307290648"/>
+          <Include href="Graphic/shape 98.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000099" lastModified="1307290648"/>
+          <Include href="Graphic/shape 99.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 100.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 101.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 102.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 103.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 104.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000009f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 105.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a0" lastModified="1307290648"/>
+          <Include href="Graphic/shape 106.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a1" lastModified="1307290648"/>
+          <Include href="Graphic/shape 107.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a2" lastModified="1307290648"/>
+          <Include href="Graphic/shape 108.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a3" lastModified="1307290648"/>
+          <Include href="Graphic/shape 109.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a4" lastModified="1307290648"/>
+          <Include href="Graphic/shape 110.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a5" lastModified="1307290648"/>
+          <Include href="Graphic/shape 111.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a6" lastModified="1307290648"/>
+          <Include href="Graphic/shape 112.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a7" lastModified="1307290648"/>
+          <Include href="Graphic/shape 113.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a8" lastModified="1307290648"/>
+          <Include href="Graphic/shape 114.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000a9" lastModified="1307290648"/>
+          <Include href="Graphic/shape 115.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000aa" lastModified="1307290648"/>
+          <Include href="Graphic/shape 116.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000ab" lastModified="1307290648"/>
+          <Include href="Graphic/shape 117.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000ac" lastModified="1307290648"/>
+          <Include href="Graphic/shape 118.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000ad" lastModified="1307290648"/>
+          <Include href="Graphic/shape 119.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000ae" lastModified="1307290648"/>
+          <Include href="Graphic/shape 120.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000af" lastModified="1307290648"/>
+          <Include href="Graphic/shape 121.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b0" lastModified="1307290648"/>
+          <Include href="Graphic/shape 122.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b1" lastModified="1307290648"/>
+          <Include href="Graphic/shape 123.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b2" lastModified="1307290648"/>
+          <Include href="Graphic/shape 124.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b3" lastModified="1307290648"/>
+          <Include href="Graphic/shape 125.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b4" lastModified="1307290648"/>
+          <Include href="Graphic/shape 126.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b5" lastModified="1307290648"/>
+          <Include href="Graphic/shape 127.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b6" lastModified="1307290648"/>
+          <Include href="Graphic/shape 128.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b7" lastModified="1307290648"/>
+          <Include href="Graphic/shape 130.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000b9" lastModified="1308335951"/>
+          <Include href="Graphic/shape 132.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000bb" lastModified="1307290648"/>
+          <Include href="Graphic/shape 133.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000bc" lastModified="1307290648"/>
+          <Include href="Graphic/shape 134.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000bd" lastModified="1307290648"/>
+          <Include href="Graphic/shape 135.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000be" lastModified="1307290648"/>
+          <Include href="Graphic/shape 215.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000010e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 223.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000116" lastModified="1308580102"/>
+          <Include href="Graphic/shape 230.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000011d" lastModified="1308579934"/>
+          <Include href="Graphic/shape 237.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000124" lastModified="1308579584"/>
+          <Include href="Graphic/shape 244.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000012b" lastModified="1308648059"/>
+          <Include href="Graphic/shape 292.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000015b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 583.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000248" lastModified="1307290648"/>
+          <Include href="Graphic/shape 584.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000249" lastModified="1307290648"/>
+          <Include href="Graphic/shape 585.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000024a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 586.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000024b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 587.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000024c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 588.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000024d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 591.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000250" lastModified="1307290648"/>
+          <Include href="Graphic/shape 593.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000252" lastModified="1307290648"/>
+          <Include href="Graphic/shape 594.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000253" lastModified="1307290648"/>
+          <Include href="Graphic/shape 595.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000254" lastModified="1307290648"/>
+          <Include href="Graphic/shape 596.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000255" lastModified="1307290648"/>
+          <Include href="Graphic/shape 597.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000256" lastModified="1307290648"/>
+          <Include href="Graphic/shape 598.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000257" lastModified="1307290648"/>
+          <Include href="Graphic/shape 599.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000258" lastModified="1307290648"/>
+          <Include href="Graphic/shape 600.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000259" lastModified="1307290648"/>
+          <Include href="Graphic/shape 601.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 602.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 603.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 604.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 605.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 606.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000025f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 607.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000260" lastModified="1307290648"/>
+          <Include href="Graphic/shape 608.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000261" lastModified="1307290648"/>
+          <Include href="Graphic/shape 609.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000262" lastModified="1307290648"/>
+          <Include href="Graphic/shape 610.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000263" lastModified="1307290648"/>
+          <Include href="Graphic/shape 611.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000264" lastModified="1307290648"/>
+          <Include href="Graphic/shape 612.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000265" lastModified="1307290648"/>
+          <Include href="Graphic/shape 613.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000266" lastModified="1307290648"/>
+          <Include href="Graphic/shape 614.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000267" lastModified="1307290648"/>
+          <Include href="Graphic/shape 615.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000268" lastModified="1307290648"/>
+          <Include href="Graphic/shape 616.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000269" lastModified="1307290648"/>
+          <Include href="Graphic/shape 617.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 618.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 619.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 620.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 621.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 622.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000026f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 623.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000270" lastModified="1307290648"/>
+          <Include href="Graphic/shape 624.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000271" lastModified="1307290648"/>
+          <Include href="Graphic/shape 625.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000272" lastModified="1307290648"/>
+          <Include href="Graphic/shape 626.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000273" lastModified="1307290648"/>
+          <Include href="Graphic/shape 627.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000274" lastModified="1307290648"/>
+          <Include href="Graphic/shape 628.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000275" lastModified="1307290648"/>
+          <Include href="Graphic/shape 629.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000276" lastModified="1307290648"/>
+          <Include href="Graphic/shape 630.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000277" lastModified="1307290648"/>
+          <Include href="Graphic/shape 631.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000278" lastModified="1307290648"/>
+          <Include href="Graphic/shape 632.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000279" lastModified="1307290648"/>
+          <Include href="Graphic/shape 633.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 634.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 635.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 636.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 637.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 638.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000027f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 639.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000280" lastModified="1307290648"/>
+          <Include href="Graphic/shape 640.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000281" lastModified="1307290648"/>
+          <Include href="Graphic/shape 641.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000282" lastModified="1307290648"/>
+          <Include href="Graphic/shape 642.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000283" lastModified="1307290648"/>
+          <Include href="Graphic/shape 643.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000284" lastModified="1307290648"/>
+          <Include href="Graphic/shape 644.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000285" lastModified="1307290648"/>
+          <Include href="Graphic/shape 645.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000286" lastModified="1307290648"/>
+          <Include href="Graphic/shape 646.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000287" lastModified="1307290648"/>
+          <Include href="Graphic/shape 647.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000288" lastModified="1307290648"/>
+          <Include href="Graphic/shape 648.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000289" lastModified="1307290648"/>
+          <Include href="Graphic/shape 649.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 650.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 651.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 652.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 653.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 654.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000028f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 655.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000290" lastModified="1307290648"/>
+          <Include href="Graphic/shape 656.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000291" lastModified="1307290648"/>
+          <Include href="Graphic/shape 657.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000292" lastModified="1307290648"/>
+          <Include href="Graphic/shape 658.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000293" lastModified="1307290648"/>
+          <Include href="Graphic/shape 660.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000295" lastModified="1307290648"/>
+          <Include href="Graphic/shape 661.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000296" lastModified="1307290648"/>
+          <Include href="Graphic/shape 662.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000297" lastModified="1307290648"/>
+          <Include href="Graphic/shape 663.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000298" lastModified="1307290648"/>
+          <Include href="Graphic/shape 664.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000299" lastModified="1307290648"/>
+          <Include href="Graphic/shape 665.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029a" lastModified="1307290648"/>
+          <Include href="Graphic/shape 666.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029b" lastModified="1307290648"/>
+          <Include href="Graphic/shape 667.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029c" lastModified="1307290648"/>
+          <Include href="Graphic/shape 668.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029d" lastModified="1307290648"/>
+          <Include href="Graphic/shape 669.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029e" lastModified="1307290648"/>
+          <Include href="Graphic/shape 670.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000029f" lastModified="1307290648"/>
+          <Include href="Graphic/shape 671.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a0" lastModified="1307290648"/>
+          <Include href="Graphic/shape 672.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a1" lastModified="1307290648"/>
+          <Include href="Graphic/shape 673.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a2" lastModified="1307290648"/>
+          <Include href="Graphic/shape 674.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a3" lastModified="1307290648"/>
+          <Include href="Graphic/shape 675.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a4" lastModified="1307290648"/>
+          <Include href="Graphic/shape 676.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a5" lastModified="1307290648"/>
+          <Include href="Graphic/shape 677.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a6" lastModified="1307290648"/>
+          <Include href="Graphic/shape 680.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002a9" lastModified="1344055488"/>
+          <Include href="Graphic/shape 736.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002e1" lastModified="1308769764"/>
+          <Include href="Graphic/shape 745.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002ea" lastModified="1307290648"/>
+          <Include href="Graphic/shape 751.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002f0" lastModified="1307290648"/>
+          <Include href="Graphic/shape 756.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002f5" lastModified="1307290648"/>
+          <Include href="Graphic/shape 758.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002f7" lastModified="1307290648"/>
+          <Include href="Graphic/shape 760 (Hit).xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002f9" lastModified="1307290648"/>
+          <Include href="Graphic/shape 765.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002fe" lastModified="1307290648"/>
+          <Include href="Graphic/text 49.xml" itemIcon="1" loadImmediate="false" itemID="4debac14-00000068" lastModified="1308567917"/>
+          <Include href="Graphic/text 65.xml" itemIcon="1" loadImmediate="false" itemID="4debac15-00000078" lastModified="1308242688"/>
+          <Include href="Graphic/text 136.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000000bf" lastModified="1307802890"/>
+          <Include href="Graphic/text 212.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-0000010b" lastModified="1308570694"/>
+          <Include href="Graphic/text 284.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000153" lastModified="1308153141"/>
+          <Include href="Graphic/text 319.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-00000176" lastModified="1308155735"/>
+          <Include href="Graphic/Анимация 1.xml" itemIcon="1" loadImmediate="false" itemID="4eeb4aab-00000659" lastModified="1344214910"/>
+          <Include href="Graphic/ДЭК.xml" itemIcon="1" loadImmediate="false" itemID="4df8cd41-00000649" lastModified="1327939256"/>
+          <Include href="Graphic/ЗАПСИБМАШЗАВОДСЕРВИС.xml" itemIcon="1" loadImmediate="false" itemID="4df3819c-0000061e" lastModified="1324040941"/>
+          <Include href="Graphic/камаз ппуа.xml" itemIcon="1" loadImmediate="false" itemID="4dff0b72-00000549" lastModified="1309456866"/>
+          <Include href="Graphic/краз подъёмник.xml" itemIcon="1" loadImmediate="false" itemID="4dff0aff-0000051d" lastModified="1309446167"/>
+          <Include href="Graphic/линия1.xml" itemIcon="1" loadImmediate="false" itemID="4e023c22-0000059b" lastModified="1308889386"/>
+          <Include href="Graphic/ЛОГОТИП.xml" itemIcon="1" loadImmediate="false" itemID="4df38a51-00000633" lastModified="1308889191"/>
+          <Include href="Graphic/МБУ125.xml" itemIcon="1" loadImmediate="false" itemID="4df8c9aa-00000629" lastModified="1308214323"/>
+          <Include href="Graphic/подложка меню.xml" itemIcon="1" loadImmediate="false" itemID="4df22f81-00000ee6" lastModified="1344055552"/>
+          <Include href="Graphic/серт5кнопка.xml" itemIcon="1" loadImmediate="false" itemID="4e1615fc-00001360" lastModified="1310070268"/>
+          <Include href="Graphic/Сиангл.xml" itemIcon="1" loadImmediate="false" itemID="4e0daeed-000009e3" lastModified="1309522566"/>
+          <Include href="Graphic/Символ 1086.xml" itemIcon="1" loadImmediate="false" itemID="4deff97f-00000e09" lastModified="1307632455"/>
+          <Include href="Graphic/урал-кран.xml" itemIcon="1" loadImmediate="false" itemID="4dff09cf-00000504" lastModified="1309463665"/>
+          <Include href="Graphic/урал ца32.xml" itemIcon="1" loadImmediate="false" itemID="4dff0b34-00000533" lastModified="1309457927"/>
+          <Include href="Graphic/фон контакты.xml" itemIcon="1" loadImmediate="false" itemID="4dff3712-00000607" lastModified="1308661858"/>
+          <Include href="Graphic/фон услуги.xml" itemIcon="1" loadImmediate="false" itemID="4dff33a4-000005cf" lastModified="1308772505"/>
+          <Include href="Graphic/ЦА320.xml" itemIcon="1" loadImmediate="false" itemID="4df8cb62-00000631" lastModified="1308150626"/>
+          <Include href="Graphic/ЧЕЛ 40Т.xml" itemIcon="1" loadImmediate="false" itemID="4df8cc6a-00000641" lastModified="1308152999"/>
+          <Include href="Graphic/эмблема.xml" itemIcon="1" loadImmediate="false" itemID="4e02403a-0000059f" lastModified="1308770363"/>
+          <Include href="MovieClip/ тень урал кран.xml" loadImmediate="false" itemID="4dff14c4-0000059e" lastModified="1308562628"/>
+          <Include href="MovieClip/1barClip.xml" loadImmediate="false" itemID="49b717e7-000001b9" lastModified="1257947976"/>
+          <Include href="MovieClip/1loaderClip.xml" loadImmediate="false" itemID="49b717e5-000001b8" lastModified="1326479280"/>
+          <Include href="MovieClip/cont.xml" loadImmediate="false" itemID="4e0b6d88-0000061d" lastModified="1309371784"/>
+          <Include href="MovieClip/df.xml" loadImmediate="false" itemID="4df2fb5a-000004a0" lastModified="1370163292"/>
+          <Include href="MovieClip/Graphic/shape 44 (Hit).xml" itemIcon="1" loadImmediate="false" itemID="4df444be-0000076f" lastModified="1307290644"/>
+          <Include href="MovieClip/Graphic/shape 689.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b2" lastModified="1307290648"/>
+          <Include href="MovieClip/Graphic/shape 691.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b4" lastModified="1307856337"/>
+          <Include href="MovieClip/Graphic/shape 692.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b5" lastModified="1307856295"/>
+          <Include href="MovieClip/Graphic/shape 693.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b6" lastModified="1307857410"/>
+          <Include href="MovieClip/Graphic/shape 694.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b7" lastModified="1307856360"/>
+          <Include href="MovieClip/Graphic/shape 695.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b8" lastModified="1307856378"/>
+          <Include href="MovieClip/Graphic/shape 696.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002b9" lastModified="1307856578"/>
+          <Include href="MovieClip/Graphic/shape 697.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002ba" lastModified="1307856588"/>
+          <Include href="MovieClip/Graphic/shape 698.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002bb" lastModified="1307856517"/>
+          <Include href="MovieClip/Graphic/shape 699.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002bc" lastModified="1307856795"/>
+          <Include href="MovieClip/Graphic/shape 700.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002bd" lastModified="1307854798"/>
+          <Include href="MovieClip/Graphic/shape 701.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002be" lastModified="1307856392"/>
+          <Include href="MovieClip/Graphic/shape 702.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002bf" lastModified="1307856599"/>
+          <Include href="MovieClip/Graphic/shape 703.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c0" lastModified="1307856734"/>
+          <Include href="MovieClip/Graphic/shape 704.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c1" lastModified="1307856610"/>
+          <Include href="MovieClip/Graphic/shape 705.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c2" lastModified="1307856745"/>
+          <Include href="MovieClip/Graphic/shape 706.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c3" lastModified="1307856621"/>
+          <Include href="MovieClip/Graphic/shape 707.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c4" lastModified="1307856633"/>
+          <Include href="MovieClip/Graphic/shape 708.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c5" lastModified="1307856645"/>
+          <Include href="MovieClip/Graphic/shape 709.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c6" lastModified="1307856406"/>
+          <Include href="MovieClip/Graphic/shape 710.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c7" lastModified="1307856653"/>
+          <Include href="MovieClip/Graphic/shape 711.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c8" lastModified="1307856663"/>
+          <Include href="MovieClip/Graphic/shape 712.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002c9" lastModified="1307856419"/>
+          <Include href="MovieClip/Graphic/shape 716.xml" itemIcon="1" loadImmediate="false" itemID="4debac18-000002cd" lastModified="1307855268"/>
+          <Include href="MovieClip/Graphic/text 682.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076a" lastModified="1307820484"/>
+          <Include href="MovieClip/Graphic/text 683.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076b" lastModified="1307820513"/>
+          <Include href="MovieClip/Graphic/text 684.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076c" lastModified="1307820530"/>
+          <Include href="MovieClip/Graphic/text 685.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076d" lastModified="1308148634"/>
+          <Include href="MovieClip/Graphic/text 686.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076e" lastModified="1308148726"/>
+          <Include href="MovieClip/Graphic/text 687.xml" itemIcon="1" loadImmediate="false" itemID="4df1d274-0000076f" lastModified="1307820578"/>
+          <Include href="MovieClip/Jx.xml" loadImmediate="false" itemID="4e1abd8d-000006e7" lastModified="1344066797"/>
+          <Include href="MovieClip/Jx1.xml" loadImmediate="false" itemID="4e1b05df-00001460" lastModified="1311578699"/>
+          <Include href="MovieClip/maskOfRow.xml" loadImmediate="false" itemID="4eeb8ca4-000006a7" lastModified="1324458393"/>
+          <Include href="MovieClip/S5B.xml" loadImmediate="false" itemID="4e161677-0000136b" lastModified="1312406495"/>
+          <Include href="MovieClip/SERT6.xml" loadImmediate="false" itemID="4e39bc05-0000066f" lastModified="1312406534"/>
+          <Include href="MovieClip/SERT6K.xml" loadImmediate="false" itemID="4e39b0e6-0000064e" lastModified="1312406220"/>
+          <Include href="MovieClip/SERT7.xml" loadImmediate="false" itemID="4e39b11c-00000653" lastModified="1312403740"/>
+          <Include href="MovieClip/SERT7K.xml" loadImmediate="false" itemID="4e39bbb3-00000665" lastModified="1334478782"/>
+          <Include href="MovieClip/SERT8.xml" loadImmediate="false" itemID="4f8a8830-00000af1" lastModified="1334478896"/>
+          <Include href="MovieClip/SERT8k.xml" loadImmediate="false" itemID="4f8a8790-00000ae5" lastModified="1334479288"/>
+          <Include href="MovieClip/sprite 8.xml" loadImmediate="false" itemID="4debac0d-00000009" lastModified="1326478948"/>
+          <Include href="MovieClip/sprite 11.xml" loadImmediate="false" itemID="4debac0f-00000042" lastModified="1307854211"/>
+          <Include href="MovieClip/sprite 12.xml" loadImmediate="false" itemID="4debac0f-00000043" lastModified="1344212326"/>
+          <Include href="MovieClip/sprite 13.xml" loadImmediate="false" itemID="4debac0f-00000044" lastModified="1307290639"/>
+          <Include href="MovieClip/sprite 47.xml" loadImmediate="false" itemID="4debac14-00000066" lastModified="1308242544"/>
+          <Include href="MovieClip/sprite 56.xml" loadImmediate="false" itemID="4debac14-0000006f" lastModified="1307290644"/>
+          <Include href="MovieClip/sprite 61.xml" loadImmediate="false" itemID="4debac14-00000074" lastModified="1307290644"/>
+          <Include href="MovieClip/sprite 62.xml" loadImmediate="false" itemID="4debac14-00000075" lastModified="1307290644"/>
+          <Include href="MovieClip/sprite 71.xml" loadImmediate="false" itemID="4debac15-0000007e" lastModified="1344163882"/>
+          <Include href="MovieClip/sprite 76.xml" loadImmediate="false" itemID="4debac18-00000083" lastModified="1307816454"/>
+          <Include href="MovieClip/sprite 131.xml" loadImmediate="false" itemID="4debac18-000000ba" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 216.xml" loadImmediate="false" itemID="4debac18-0000010f" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 293.xml" loadImmediate="false" itemID="4debac18-0000015c" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 361.xml" loadImmediate="false" itemID="4debac18-000001a0" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 363.xml" loadImmediate="false" itemID="4debac18-000001a2" lastModified="1310069963"/>
+          <Include href="MovieClip/sprite 365.xml" loadImmediate="false" itemID="4debac18-000001a4" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 367.xml" loadImmediate="false" itemID="4debac18-000001a6" lastModified="1310069932"/>
+          <Include href="MovieClip/sprite 369.xml" loadImmediate="false" itemID="4debac18-000001a8" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 371.xml" loadImmediate="false" itemID="4debac18-000001aa" lastModified="1312402178"/>
+          <Include href="MovieClip/sprite 373.xml" loadImmediate="false" itemID="4debac18-000001ac" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 375.xml" loadImmediate="false" itemID="4debac18-000001ae" lastModified="1312406821"/>
+          <Include href="MovieClip/sprite 589.xml" loadImmediate="false" itemID="4debac18-0000024e" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 590.xml" loadImmediate="false" itemID="4debac18-0000024f" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 592.xml" loadImmediate="false" itemID="4debac18-00000251" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 659.xml" loadImmediate="false" itemID="4debac18-00000294" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 681.xml" loadImmediate="false" itemID="4debac18-000002aa" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 688.xml" loadImmediate="false" itemID="4debac18-000002b1" lastModified="1307704031"/>
+          <Include href="MovieClip/sprite 690.xml" loadImmediate="false" itemID="4debac18-000002b3" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 713.xml" loadImmediate="false" itemID="4debac18-000002ca" lastModified="1307967539"/>
+          <Include href="MovieClip/sprite 717.xml" loadImmediate="false" itemID="4debac18-000002ce" lastModified="1307967703"/>
+          <Include href="MovieClip/sprite 734.xml" loadImmediate="false" itemID="4debac18-000002df" lastModified="1312920672"/>
+          <Include href="MovieClip/sprite 737.xml" loadImmediate="false" itemID="4debac18-000002e2" lastModified="1308136179"/>
+          <Include href="MovieClip/sprite 746.xml" loadImmediate="false" itemID="4debac18-000002eb" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 748.xml" loadImmediate="false" itemID="4debac18-000002ed" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 752.xml" loadImmediate="false" itemID="4debac18-000002f1" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 753.xml" loadImmediate="false" itemID="4debac18-000002f2" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 754.xml" loadImmediate="false" itemID="4debac18-000002f3" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 757.xml" loadImmediate="false" itemID="4debac18-000002f6" lastModified="1307892724"/>
+          <Include href="MovieClip/sprite 759.xml" loadImmediate="false" itemID="4debac18-000002f8" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 766.xml" loadImmediate="false" itemID="4debac18-000002ff" lastModified="1307290648"/>
+          <Include href="MovieClip/sprite 767.xml" loadImmediate="false" itemID="4debac18-00000300" lastModified="1344246959"/>
+          <Include href="MovieClip/sprite 768.xml" loadImmediate="false" itemID="4debac18-00000301" lastModified="1344066243"/>
+          <Include href="MovieClip/втораякнопка.xml" loadImmediate="false" itemID="4f1038b8-00000678" lastModified="1344214821"/>
+          <Include href="MovieClip/главная.xml" loadImmediate="false" itemID="4df0e2fb-00000720" lastModified="1354541744"/>
+          <Include href="MovieClip/звук.xml" loadImmediate="false" itemID="4df0c7d0-00000487" lastModified="1307968088"/>
+          <Include href="MovieClip/звук1.xml" loadImmediate="false" itemID="4df0c9c6-0000048b" lastModified="1307966655"/>
+          <Include href="MovieClip/копия sprite 216.xml" loadImmediate="false" itemID="4df8bc1e-00000600" lastModified="1308146718"/>
+          <Include href="MovieClip/краз.xml" loadImmediate="false" itemID="4e0ccc06-00000eb8" lastModified="1309461510"/>
+          <Include href="MovieClip/меню.xml" loadImmediate="false" itemID="4df0c950-00000489" lastModified="1308653800"/>
+          <Include href="MovieClip/название меню.xml" loadImmediate="false" itemID="4df1317b-000033fd" lastModified="1326478149"/>
+          <Include href="MovieClip/наши предложения.xml" loadImmediate="false" itemID="4df2922c-0000078e" lastModified="1324043936"/>
+          <Include href="MovieClip/серт5К.xml" loadImmediate="false" itemID="4e161649-00001365" lastModified="1310070345"/>
+          <Include href="MovieClip/СЕРТИКИ.xml" loadImmediate="false" itemID="4df9a197-00000535" lastModified="1311530772"/>
+          <Include href="MovieClip/СЕРТИФИКАТЫ1.xml" loadImmediate="false" itemID="4dff5618-00000549" lastModified="1334479436"/>
+          <Include href="MovieClip/Символ 1.xml" loadImmediate="false" itemID="4df8719c-000004bc" lastModified="1311526036"/>
+          <Include href="MovieClip/Символ 4.xml" loadImmediate="false" itemID="4e0c7e18-00000cf0" lastModified="1309441560"/>
+          <Include href="MovieClip/Символ 5.xml" loadImmediate="false" itemID="4e1afa50-00001273" lastModified="1310390907"/>
+          <Include href="MovieClip/Символ 6.xml" loadImmediate="false" itemID="4e1afa7b-00001277" lastModified="1310390907"/>
+          <Include href="MovieClip/Символ 9.xml" loadImmediate="false" itemID="4ef1078e-000006fd" lastModified="1324459204"/>
+          <Include href="MovieClip/тень камаза.xml" loadImmediate="false" itemID="4e0233d4-00000580" lastModified="1308767188"/>
+          <Include href="MovieClip/тень краз.xml" loadImmediate="false" itemID="4dff126f-00000589" lastModified="1308562031"/>
+          <Include href="MovieClip/тень урала.xml" loadImmediate="false" itemID="4e022f9f-0000057c" lastModified="1308766112"/>
+          <Include href="MovieClip/фара камаза.xml" loadImmediate="false" itemID="4e0cb683-00000e19" lastModified="1309457405"/>
+          <Include href="MovieClip/фара краза.xml" loadImmediate="false" itemID="4e0c79e0-00000ccf" lastModified="1309457533"/>
+          <Include href="MovieClip/фара нижнего урала.xml" loadImmediate="false" itemID="4e0cb8c7-00000e2c" lastModified="1309457808"/>
+          <Include href="MovieClip/фара урала.xml" loadImmediate="false" itemID="4e0c937e-00000de1" lastModified="1309457495"/>
+          <Include href="MovieClip/ФОН.xml" loadImmediate="false" itemID="4e079cbc-00000687" lastModified="1309173173"/>
+          <Include href="MovieClip/фон.xml" loadImmediate="false" itemID="4df0e52a-00000724" lastModified="1344211839"/>
+          <Include href="MovieClip/фотки малые.xml" loadImmediate="false" itemID="4df8d6d0-0000064f" lastModified="1327935280"/>
+          <Include href="MovieClip/чтото.xml" loadImmediate="false" itemID="4df0c990-0000048a" lastModified="1344211507"/>
+          <Include href="MovieClip/шапка.xml" loadImmediate="false" itemID="4df0d3c7-00000491" lastModified="1344161829"/>
+          <Include href="Бегущая строка на главной/maska.xml" loadImmediate="false" itemID="5031c23c-000001f8" lastModified="1345438268"/>
+          <Include href="Бегущая строка на главной/masku.xml" itemID="503201f6-00000285" lastModified="1345638063"/>
+          <Include href="Бегущая строка на главной/TeXT.xml" loadImmediate="false" itemID="5030f43e-000001e5" lastModified="1354534470"/>
+          <Include href="Бегущая строка на главной/ttextwithmask.xml" loadImmediate="false" itemID="5030f944-0000022c" lastModified="1354542117"/>
+          <Include href="Бегущая строка на главной/vkladka.xml" itemID="5031d1ab-00000257" lastModified="1354545708"/>
+          <Include href="Бегущая строка на главной/Анимация 2.xml" itemIcon="1" loadImmediate="false" itemID="501a69be-00001d1a" lastModified="1345697363"/>
+          <Include href="Бегущая строка на главной/Верхний мувиклип.xml" loadImmediate="false" itemID="501a4990-0000165f" lastModified="1345697636"/>
+          <Include href="Бегущая строка на главной/Закрывалка для бегущей строки.xml" itemIcon="0" loadImmediate="false" itemID="501e42a0-000006f9" lastModified="1344237247"/>
+          <Include href="Бегущая строка на главной/Кнопка миниатюра для бегущей строки.xml" itemIcon="0" loadImmediate="false" itemID="501d1ce6-000006fd" lastModified="1344248136"/>
+          <Include href="Бегущая строка на главной/Кнопка миниатюра1 для бегущей строки.xml" itemIcon="0" loadImmediate="false" itemID="501cadf5-0000047e" lastModified="1344056821"/>
+          <Include href="Бегущая строка на главной/Кнопка миниатюра2 для бегущей строки.xml" itemIcon="0" loadImmediate="false" itemID="501cae1c-0000048c" lastModified="1344056860"/>
+          <Include href="Бегущая строка на главной/Кнопка миниатюра3 для бегущей строки.xml" itemIcon="0" loadImmediate="false" itemID="501cae36-0000049a" lastModified="1344056886"/>
+          <Include href="Общий бэкграунд/Анимация 4.xml" itemIcon="1" loadImmediate="false" itemID="501f0fad-00000590" lastModified="1344214038"/>
+          <Include href="Общий бэкграунд/Общий фон.xml" loadImmediate="false" itemID="501f0d66-00000574" lastModified="1344212338"/>
+          <Include href="Общий бэкграунд/фон.xml" loadImmediate="false" itemID="501f0f6c-0000058a" lastModified="1344214311"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;124&lt;/guideline&gt;&lt;guideline direction="h"&gt;76&lt;/guideline&gt;&lt;guideline direction="v"&gt;51&lt;/guideline&gt;&lt;guideline direction="v"&gt;926&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Action Layer" color="#FFFF00" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[Stage.showMenu = false;
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+                                   <Actionscript>
+                                        <script><![CDATA[stop ();
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="анимация загрузчика" color="#FFFF00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/sprite 768" name="preloader" centerPoint3DX="490" centerPoint3DY="405.75">
+                                             <matrix>
+                                                  <Matrix tx="490" ty="399.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="главная" color="#FFFF00" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/главная" name="pages_mov" selected="true" centerPoint3DX="493.95" centerPoint3DY="328.3">
+                                             <matrix>
+                                                  <Matrix tx="489.95" ty="400"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="фон" color="#FFFF00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/sprite 767" name="priv_mov" centerPoint3DX="514.55" centerPoint3DY="776.6">
+                                             <matrix>
+                                                  <Matrix tx="490" ty="800"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="шапка" color="#FFFF00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/шапка" name="menu_mov" centerPoint3DX="489.45" centerPoint3DY="59.3">
+                                             <matrix>
+                                                  <Matrix tx="489.95" ty="400"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="хз" color="#FFFF00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/sprite 8" name="load0" centerPoint3DX="490" centerPoint3DY="405.8">
+                                             <matrix>
+                                                  <Matrix tx="490" ty="399.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[onClipEvent (enterFrame)
+{
+    
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Общий бэкграунд/фон" centerPoint3DX="272.05" centerPoint3DY="154.05">
+                                             <transformationPoint>
+                                                  <Point x="272.05" y="154.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <swatchLists>
+          <swatchList>
+               <swatches>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatches>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="DebugMovieChecked" v="FlashPro"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1362294" publishTime="1370163571"/>
+          <PublishItem publishSize="1362294" publishTime="1370163446"/>
+          <PublishItem publishSize="1362294" publishTime="1370163297"/>
+          <PublishItem publishSize="1362294" publishTime="1370163206"/>
+          <PublishItem publishSize="1362293" publishTime="1370163002"/>
+          <PublishItem publishSize="1362161" publishTime="1370162099"/>
+          <PublishItem publishSize="1362138" publishTime="1354544974"/>
+          <PublishItem publishSize="1362138" publishTime="1354544124"/>
+          <PublishItem publishSize="1362138" publishTime="1354544030"/>
+          <PublishItem publishSize="1362138" publishTime="1354542537"/>
+          <PublishItem publishSize="1362138" publishTime="1354542121"/>
+          <PublishItem publishSize="1362140" publishTime="1354542052"/>
+          <PublishItem publishSize="1362140" publishTime="1354542011"/>
+          <PublishItem publishSize="1362148" publishTime="1354541909"/>
+          <PublishItem publishSize="1362227" publishTime="1354541420"/>
+          <PublishItem publishSize="1362227" publishTime="1354540930"/>
+          <PublishItem publishSize="1362221" publishTime="1354540796"/>
+          <PublishItem publishSize="1362227" publishTime="1354540620"/>
+          <PublishItem publishSize="1362179" publishTime="1354539457"/>
+          <PublishItem publishSize="1362179" publishTime="1354538949"/>
+     </publishHistory>
+</DOMDocument>

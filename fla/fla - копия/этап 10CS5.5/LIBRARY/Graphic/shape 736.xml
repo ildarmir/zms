@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 736" itemID="4debac18-000002e1" symbolType="graphic" lastModified="1308769764">
+  <timeline>
+    <DOMTimeline name="shape 736">
+      <layers>
+        <DOMLayer name="Слой 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/ЛОГОТИП" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.09332275390625" d="1.1851806640625" tx="-33.65" ty="6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-20.2" y="-24.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

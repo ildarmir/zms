@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 600" itemID="4debac18-00000259" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 600">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#9FA8B2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2515 3210|2455 3305!2455 3305|2440 3380!2440 3380|2440 10270!2440 10270|2465 10370!2465 10370|2505 10425!2505 10425|2580 10480!2580 10480|2660 10495!2660 10495|20395 10495!20395 10495|20470 10480!20470 10480|20535 10435!20535 10435|20590
+ 10360!20590 10360|20610 10260!20610 10260|20610 3375!20610 3375|20590 3285!20590 3285|20540 3215"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!20540 3215|20475 3170!20475 3170|20390 3150"/>
+                    <Edge fillStyle0="1" edges="
+!20390 3150|2660 3150!2660 3150|2640 3155!2640 3155|2635 3155"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2635 3155|2575 3170!2575 3170|2515 3210"/>
+                    <Edge fillStyle0="2" edges="
+!20540 3215|20475 3165!20475 3165|20390 3150!2635 3155|2575 3165!2575 3165|2515 3210"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

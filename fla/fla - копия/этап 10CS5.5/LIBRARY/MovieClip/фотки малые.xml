@@ -1,0 +1,125 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/фотки малые" itemID="4df8d6d0-0000064f" lastModified="1327935280">
+  <timeline>
+    <DOMTimeline name="фотки малые">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="210" objectHeight="558.05" x="-105" y="0" lockFlag="true" topLeftRadius="15" topRightRadius="15" bottomLeftRadius="15" bottomRightRadius="15">
+                  <matrix>
+                    <Matrix d="1.056884765625" ty="-31.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="279.05"/>
+                  </transformationPoint>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4.4">
+                      <fill>
+                        <SolidColor color="#006600"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ЦА320" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/ЦА320" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.686660766601563" d="0.653335571289063" tx="0.15" ty="96.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="75.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ЧЕЛ 40Т" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/ЧЕЛ 40Т" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.02960205078125" tx="-0.65" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="67"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ДЭК" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/ДЭК" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.029541015625" tx="-0.75" ty="407.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="74.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PPUA" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/PPUA" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.58856201171875" d="0.526260375976563" tx="0.15" ty="194.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="114"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="МБУ125" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/МБУ125" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.832260131835938" d="1.232666015625" tx="1.2" ty="-116.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="87.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

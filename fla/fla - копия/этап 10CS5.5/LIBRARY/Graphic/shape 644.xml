@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 644" itemID="4debac18-00000285" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 644">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F8FEFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2250 10505|1580 10500!1580 10500|1495 10485!1495 10485|1415 10435!1415 10435|1380 10370!1380 10370|1380 10310!1380 10310|1615 9390!1615 9390|1780 8595!1780 8595|1930 7700!1930 7700|2005 7140!2005 7140|2135 5850!2135 5850|2190 5015!2190
+ 5015|2230 3825!2230 3825|2230 3380!2230 3380|2250 3285!2250 3285|2300 3210!2300 3210|2375 3160!2375 3160|2450 3145!2450 3145|20575 3145!20575 3145|20675 3160!20675 3160|20735 3200!20735 3200|20800 3285!20800 3285|20815 3355!20815 3355
+|20850 4800!20850 4800|20900 5650!20900 5650|20975 6515!20975 6515|21075 7365!21075 7365|21185 8105!21185 8105|21315 8820!21315 8820|21445 9425!21445 9425|21670 10270!21670 10270|21675 10350!21675 10350|21640 10435!21640 10435|21540 10490
+!21540 10490|20800 10505"/>
+                    <Edge fillStyle1="2" edges="
+!20800 10505|20750 10585!20750 10585|20675 10640!20675 10640|20580 10655!20580 10655|5615 10645!5615 10645|2450 10655!2450 10655|2375 10640!2375 10640|2300 10590!2300 10590|2250 10505"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!20800 10505|13265 10540!13265 10540|6190 10530!6190 10530|2250 10505"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

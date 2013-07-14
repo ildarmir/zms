@@ -1,0 +1,1128 @@
+﻿index.swf Отчет о ролике
+-------------------------
+
+Кадр #    Байты кадра    Всего байт    Монтажный кадр
+------    -----------    ----------    --------------
+     1         136056        136056    Scene 1 (кадр экспорта классов AS 2.0)
+     2         824636        960692    
+
+Монтажный кадр     Байты графики    Байты текста    Байты ActionScript
+---------------    -------------    ------------    ------------------
+Scene 1                        0               0                    38
+
+Символ                                                                               Байты графики    Байты текста    Байты ActionScript
+---------------------------------------------------------------------------------    -------------    ------------    ------------------
+втораякнопка                                                                        38             505                   280
+Вторая кнопка                                                                        0               0                     0
+SeekBarHandle                                                                                    0               0                     0
+SeekBarHandleHit                                                                                 0               0                     0
+SeekBarProgress                                                                                  0               0                     0
+1barClip                                                                                        31               0                     0
+1loaderClip                                                                                     31              28                     0
+1доп                                                                                          0               0                     0
+1допк                                                                                        0               0                     0
+1допр                                                                                        0               0                     0
+1допув                                                                                      0               0                     0
+1рисунок                                                                                  0               0                     0
+2доп                                                                                          0               0                     0
+2допк                                                                                        0               0                     0
+2допр                                                                                        0               0                     0
+2допув                                                                                      0               0                     0
+2кадр                                                                                        0               0                     0
+2кар                                                                                          0               0                     0
+2кно                                                                                          0               0                     0
+3доп                                                                                          0               0                     0
+3допк                                                                                        0               0                     0
+3допр                                                                                        0               0                     0
+3допув                                                                                      0               0                     0
+4доп                                                                                          0               0                     0
+4допк                                                                                        0               0                     0
+4допр                                                                                        0               0                     0
+4допув                                                                                      0               0                     0
+5доп                                                                                          0               0                     0
+5допк                                                                                        0               0                     0
+5допр                                                                                        0               0                     0
+5допув                                                                                      0               0                     0
+6доп                                                                                          0               0                     0
+6допк                                                                                        0               0                     0
+6допр                                                                                        0               0                     0
+6допув                                                                                      0               0                     0
+7доп                                                                                          0               0                     0
+7допк                                                                                        0               0                     0
+7допр                                                                                        0               0                     0
+7допув                                                                                      0               0                     0
+12                                                                                               0               0                     0
+button 52                                                                                        0               0                     0
+button 58                                                                                        0               0                     0
+button 68                                                                                        0               0                     0
+button 70                                                                                        0               0                     0
+button 80                                                                                        0               0                     0
+button 82                                                                                        0               0                     0
+button 141                                                                                       0               0                     0
+button 201                                                                                       0               0                     0
+button 206                                                                                       0               0                     0
+button 209                                                                                       0               0                     0
+button 225                                                                                       0               0                     0
+button 232                                                                                       0               0                     0
+button 239                                                                                       0               0                     0
+button 246                                                                                       0               0                     0
+button 259                                                                                       0               0                     0
+button 263                                                                                       0               0                     0
+button 267                                                                                       0               0                     0
+button 271                                                                                       0               0                     0
+button 289                                                                                       0               0                     0
+button 325                                                                                       0               0                     0
+button 333                                                                                       0               0                     0
+button 341                                                                                       0               0                     0
+button 349                                                                                       0               0                     0
+button 362                                                                                       0               0                     0
+button 366                                                                                       0               0                     0
+button 370                                                                                       0               0                     0
+button 374                                                                                       0               0                     0
+button 403                                                                                       0               0                     0
+button 494                                                                                       0               0                     0
+button 730                                                                                       0               0                     0
+button 761                                                                                       0               0                     0
+button 762                                                                                       0               0                     0
+button1                                                                                          0               0                     0
+button2                                                                                          0               0                     0
+button3                                                                                          0               0                     0
+button4                                                                                          0               0                     0
+button5                                                                                          0               0                     0
+button6                                                                                          0               0                     0
+button7                                                                                          0               0                     0
+button8                                                                                          0               0                     0
+button9                                                                                          0               0                     0
+button10                                                                                         0               0                     0
+button11                                                                                         0               0                     0
+button12                                                                                         0               0                     0
+button13                                                                                         0               0                     0
+button14                                                                                         0               0                     0
+button15                                                                                         0               0                     0
+button16                                                                                         0               0                     0
+button17                                                                                         0               0                     0
+button18                                                                                         0               0                     0
+button19                                                                                         0               0                     0
+button20                                                                                         0               0                     0
+button21                                                                                         0               0                     0
+button22                                                                                         0               0                     0
+button23                                                                                         0               0                     0
+button24                                                                                         0               0                     0
+fader - mixer                                                                                    0               0                     0
+fader                                                                                            0               0                     0
+fader button                                                                                     0               0                     0
+fader details                                                                                    0               0                     0
+fader shadow                                                                                     0               0                     0
+cont                                                                                             0               0                     0
+cont_mc                                                                                          0               0                     0
+eng                                                                                              0               0                     0
+engrus1                                                                                          0               0                     0
+foto_mc1                                                                                         0               0                     0
+foto_mc2                                                                                         0               0                     0
+foto_mc3                                                                                         0               0                     0
+foto_mc4                                                                                         0               0                     0
+foto_mc5                                                                                         0               0                     0
+foto_mc6                                                                                         0               0                     0
+foto_mc7                                                                                         0               0                     0
+foto_mc8                                                                                         0               0                     0
+foto1b                                                                                           0               0                     0
+foto2b                                                                                           0               0                     0
+fotol1                                                                                           0               0                     0
+fotol2                                                                                           0               0                     0
+fotol3                                                                                           0               0                     0
+fotol4                                                                                           0               0                     0
+fotol5                                                                                           0               0                     0
+fotol6                                                                                           0               0                     0
+fotol7                                                                                           0               0                     0
+fotol8                                                                                           0               0                     0
+fotol9                                                                                           0               0                     0
+fotol10                                                                                          0               0                     0
+fotol11                                                                                          0               0                     0
+fotol12                                                                                          0               0                     0
+fotol13                                                                                          0               0                     0
+fotol14                                                                                          0               0                     0
+fotol15                                                                                          0               0                     0
+fotol16                                                                                          0               0                     0
+fotol17                                                                                          0               0                     0
+fotol18                                                                                          0               0                     0
+fotol19                                                                                          0               0                     0
+fotol20                                                                                          0               0                     0
+fotol21                                                                                          0               0                     0
+fotol22                                                                                          0               0                     0
+fotol23                                                                                          0               0                     0
+fotol24                                                                                          0               0                     0
+fotoloop1                                                                                        0               0                     0
+fotoloop2                                                                                        0               0                     0
+fotoloop3                                                                                        0               0                     0
+fotoloop4                                                                                        0               0                     0
+fotoloop5                                                                                        0               0                     0
+fotoloop6                                                                                        0               0                     0
+fotoloop7                                                                                        0               0                     0
+fotoloop8                                                                                        0               0                     0
+fotoloop9                                                                                        0               0                     0
+fotoloop10                                                                                       0               0                     0
+fotoloop11                                                                                       0               0                     0
+fotoloop12                                                                                       0               0                     0
+fotoloop13                                                                                       0               0                     0
+fotoloop14                                                                                       0               0                     0
+fotoloop15                                                                                       0               0                     0
+fotoloop16                                                                                       0               0                     0
+fotoloop17                                                                                       0               0                     0
+fotoloop18                                                                                       0               0                     0
+fotoloop19                                                                                       0               0                     0
+fotoloop20                                                                                       0               0                     0
+fotoloop21                                                                                       0               0                     0
+fotoloop22                                                                                       0               0                     0
+fotoloop23                                                                                       0               0                     0
+fotoloop24                                                                                       0               0                     0
+gelery                                                                                           0               0                     0
+gelery2                                                                                          0               0                     0
+shape 4                                                                                          0               0                     0
+shape 7                                                                                          0               0                     0
+shape 10                                                                                        62               0                     0
+shape 16                                                                                         0               0                     0
+shape 19                                                                                         0               0                     0
+shape 20                                                                                         0               0                     0
+shape 21                                                                                         0               0                     0
+shape 25                                                                                         0               0                     0
+shape 30                                                                                         0               0                     0
+shape 31                                                                                         0               0                     0
+shape 32                                                                                         0               0                     0
+shape 36                                                                                         0               0                     0
+shape 39                                                                                         0               0                     0
+shape 42                                                                                         0               0                     0
+shape 44 (Hit)                                                                                  27               0                     0
+shape 46                                                                                        62               0                     0
+shape 51                                                                                         0               0                     0
+shape 55                                                                                        30               0                     0
+shape 57 (Hit)                                                                                   0               0                     0
+shape 59                                                                                        46               0                     0
+shape 60                                                                                        57               0                     0
+shape 67                                                                                         0               0                     0
+shape 74                                                                                         0               0                     0
+shape 79                                                                                         0               0                     0
+shape 84                                                                                        44               0                     0
+shape 85                                                                                        82               0                     0
+shape 87                                                                                       136               0                     0
+shape 88                                                                                       118               0                     0
+shape 89                                                                                        91               0                     0
+shape 90                                                                                        88               0                     0
+shape 91                                                                                       145               0                     0
+shape 92                                                                                       557               0                     0
+shape 93                                                                                       505               0                     0
+shape 94                                                                                       579               0                     0
+shape 95                                                                                       497               0                     0
+shape 96                                                                                       571               0                     0
+shape 97                                                                                       462               0                     0
+shape 98                                                                                       211               0                     0
+shape 99                                                                                       295               0                     0
+shape 100                                                                                      321               0                     0
+shape 101                                                                                      391               0                     0
+shape 102                                                                                      297               0                     0
+shape 103                                                                                      273               0                     0
+shape 104                                                                                      258               0                     0
+shape 105                                                                                      293               0                     0
+shape 106                                                                                      272               0                     0
+shape 107                                                                                      352               0                     0
+shape 108                                                                                      280               0                     0
+shape 109                                                                                      336               0                     0
+shape 110                                                                                      403               0                     0
+shape 111                                                                                      361               0                     0
+shape 112                                                                                      298               0                     0
+shape 113                                                                                      250               0                     0
+shape 114                                                                                      234               0                     0
+shape 115                                                                                      240               0                     0
+shape 116                                                                                      247               0                     0
+shape 117                                                                                      233               0                     0
+shape 118                                                                                      221               0                     0
+shape 119                                                                                      216               0                     0
+shape 120                                                                                      268               0                     0
+shape 121                                                                                      298               0                     0
+shape 122                                                                                      162               0                     0
+shape 123                                                                                      190               0                     0
+shape 124                                                                                      194               0                     0
+shape 125                                                                                      181               0                     0
+shape 126                                                                                      173               0                     0
+shape 127                                                                                      113               0                     0
+shape 128                                                                                      112               0                     0
+shape 130                                                                                       41               0                     0
+shape 132                                                                                       94               0                     0
+shape 133                                                                                       93               0                     0
+shape 134                                                                                       86               0                     0
+shape 135                                                                                      741               0                     0
+shape 139                                                                                        0               0                     0
+shape 145                                                                                        0               0                     0
+shape 149                                                                                        0               0                     0
+shape 157                                                                                        0               0                     0
+shape 159                                                                                        0               0                     0
+shape 191                                                                                        0               0                     0
+shape 194                                                                                        0               0                     0
+shape 197 (Hit)                                                                                  0               0                     0
+shape 199 (Hit)                                                                                  0               0                     0
+shape 204                                                                                        0               0                     0
+shape 205 (Hit)                                                                                  0               0                     0
+shape 208                                                                                        0               0                     0
+shape 215                                                                                       36               0                     0
+shape 218                                                                                        0               0                     0
+shape 223                                                                                        0               0                     0
+shape 230                                                                                        0               0                     0
+shape 237                                                                                        0               0                     0
+shape 244                                                                                        0               0                     0
+shape 287                                                                                        0               0                     0
+shape 292                                                                                       36               0                     0
+shape 313 (Hit)                                                                                  0               0                     0
+shape 322                                                                                        0               0                     0
+shape 330                                                                                        0               0                     0
+shape 338                                                                                        0               0                     0
+shape 346                                                                                        0               0                     0
+shape 390                                                                                        0               0                     0
+shape 402                                                                                        0               0                     0
+shape 417                                                                                        0               0                     0
+shape 430                                                                                        0               0                     0
+shape 488                                                                                        0               0                     0
+shape 583                                                                                       81               0                     0
+shape 584                                                                                       82               0                     0
+shape 585                                                                                       72               0                     0
+shape 586                                                                                       64               0                     0
+shape 587                                                                                       61               0                     0
+shape 588                                                                                      136               0                     0
+shape 591                                                                                       68               0                     0
+shape 593                                                                                       81               0                     0
+shape 594                                                                                      119               0                     0
+shape 595                                                                                      160               0                     0
+shape 596                                                                                      176               0                     0
+shape 597                                                                                      216               0                     0
+shape 598                                                                                       66               0                     0
+shape 599                                                                                       71               0                     0
+shape 600                                                                                       92               0                     0
+shape 601                                                                                       91               0                     0
+shape 602                                                                                      118               0                     0
+shape 603                                                                                      160               0                     0
+shape 604                                                                                      180               0                     0
+shape 605                                                                                      246               0                     0
+shape 606                                                                                      238               0                     0
+shape 607                                                                                      278               0                     0
+shape 608                                                                                      287               0                     0
+shape 609                                                                                      286               0                     0
+shape 610                                                                                      263               0                     0
+shape 611                                                                                      214               0                     0
+shape 612                                                                                      180               0                     0
+shape 613                                                                                      187               0                     0
+shape 614                                                                                      269               0                     0
+shape 615                                                                                      312               0                     0
+shape 616                                                                                      397               0                     0
+shape 617                                                                                      410               0                     0
+shape 618                                                                                      493               0                     0
+shape 619                                                                                      351               0                     0
+shape 620                                                                                      341               0                     0
+shape 621                                                                                      403               0                     0
+shape 622                                                                                      387               0                     0
+shape 623                                                                                      470               0                     0
+shape 624                                                                                      402               0                     0
+shape 625                                                                                      418               0                     0
+shape 626                                                                                      479               0                     0
+shape 627                                                                                      614               0                     0
+shape 628                                                                                      546               0                     0
+shape 629                                                                                      403               0                     0
+shape 630                                                                                      333               0                     0
+shape 631                                                                                      305               0                     0
+shape 632                                                                                      274               0                     0
+shape 633                                                                                      289               0                     0
+shape 634                                                                                      269               0                     0
+shape 635                                                                                      274               0                     0
+shape 636                                                                                      290               0                     0
+shape 637                                                                                      359               0                     0
+shape 638                                                                                      390               0                     0
+shape 639                                                                                      207               0                     0
+shape 640                                                                                      238               0                     0
+shape 641                                                                                      218               0                     0
+shape 642                                                                                      216               0                     0
+shape 643                                                                                      209               0                     0
+shape 644                                                                                      147               0                     0
+shape 645                                                                                      133               0                     0
+shape 646                                                                                       99               0                     0
+shape 647                                                                                      100               0                     0
+shape 648                                                                                       92               0                     0
+shape 649                                                                                      105               0                     0
+shape 650                                                                                       88               0                     0
+shape 651                                                                                       82               0                     0
+shape 652                                                                                       74               0                     0
+shape 653                                                                                       68               0                     0
+shape 654                                                                                       68               0                     0
+shape 655                                                                                       68               0                     0
+shape 656                                                                                       78               0                     0
+shape 657                                                                                       73               0                     0
+shape 658                                                                                       66               0                     0
+shape 660                                                                                      259               0                     0
+shape 661                                                                                      211               0                     0
+shape 662                                                                                      207               0                     0
+shape 663                                                                                      202               0                     0
+shape 664                                                                                      203               0                     0
+shape 665                                                                                      196               0                     0
+shape 666                                                                                      144               0                     0
+shape 667                                                                                       86               0                     0
+shape 668                                                                                       71               0                     0
+shape 669                                                                                       86               0                     0
+shape 670                                                                                       55               0                     0
+shape 671                                                                                       70               0                     0
+shape 672                                                                                       75               0                     0
+shape 673                                                                                       54               0                     0
+shape 674                                                                                       56               0                     0
+shape 675                                                                                       56               0                     0
+shape 676                                                                                      298               0                     0
+shape 677                                                                                      570               0                     0
+shape 680                                                                                        0               0                     0
+shape 689                                                                                       29               0                     0
+shape 691                                                                                        0               0                     0
+shape 692                                                                                       58               0                     0
+shape 693                                                                                      108               0                     0
+shape 694                                                                                       35               0                     0
+shape 695                                                                                       53               0                     0
+shape 696                                                                                       37               0                     0
+shape 697                                                                                       47               0                     0
+shape 698                                                                                       46               0                     0
+shape 699                                                                                       35               0                     0
+shape 700                                                                                       42               0                     0
+shape 701                                                                                       46               0                     0
+shape 702                                                                                       36               0                     0
+shape 703                                                                                       43               0                     0
+shape 704                                                                                       36               0                     0
+shape 705                                                                                       44               0                     0
+shape 706                                                                                       35               0                     0
+shape 707                                                                                       45               0                     0
+shape 708                                                                                       49               0                     0
+shape 709                                                                                       51               0                     0
+shape 710                                                                                       54               0                     0
+shape 711                                                                                       63               0                     0
+shape 712                                                                                       72               0                     0
+shape 716                                                                                       51               0                     0
+shape 722                                                                                        0               0                     0
+shape 726                                                                                        0               0                     0
+shape 736                                                                                        0               0                     0
+shape 739                                                                                        0               0                     0
+shape 745                                                                                       36               0                     0
+shape 751                                                                                       35               0                     0
+shape 756                                                                                       30               0                     0
+shape 758                                                                                       27               0                     0
+shape 760 (Hit)                                                                                 28               0                     0
+shape 765                                                                                       27               0                     0
+text 2                                                                                           0               0                     0
+text 49                                                                                          0             190                     0
+text 50                                                                                          0               0                     0
+text 65                                                                                          0              43                     0
+text 66                                                                                          0               0                     0
+text 77                                                                                          0               0                     0
+text 78                                                                                          0               0                     0
+text 136                                                                                         0              46                     0
+text 161                                                                                         0               0                     0
+text 212                                                                                         0              43                     0
+text 227                                                                                         0               0                     0
+text 234                                                                                         0               0                     0
+text 241                                                                                         0               0                     0
+text 248                                                                                         0               0                     0
+text 284                                                                                         0              56                     0
+text 311                                                                                         0               0                     0
+text 312                                                                                         0               0                     0
+text 319                                                                                         0              38                     0
+text 327                                                                                         0               0                     0
+text 335                                                                                         0               0                     0
+text 343                                                                                         0               0                     0
+text 351                                                                                         0               0                     0
+text 387                                                                                         0               0                     0
+text 392                                                                                         0               0                     0
+text 395                                                                                         0               0                     0
+text 401                                                                                         0               0                     0
+text 432                                                                                         0               0                     0
+text 433                                                                                         0               0                     0
+text 491                                                                                         0               0                     0
+text 577                                                                                         0               0                     0
+text 682                                                                                         0              50                     0
+text 683                                                                                         0              61                     0
+text 684                                                                                         0              50                     0
+text 685                                                                                         0              57                     0
+text 686                                                                                         0              52                     0
+text 687                                                                                         0              53                     0
+text 728                                                                                         0               0                     0
+text 733                                                                                         0               0                     0
+ЗАПСИБМАШЗАВОДСЕРВИС                                                         0              50                     0
+КАМАЗ РЫЖИЙ                                                                            0               0                     0
+ЛОГОТИП                                                                                  21               0                     0
+jkl                                                                                              0               0                     0
+Jx                                                                                               0               0                  2428
+Jx1                                                                                              0               0                  4434
+mask                                                                                             0               0                     0
+maskOfRow                                                                                       64               0                     0
+min1                                                                                             0               0                     0
+min2                                                                                             0               0                     0
+more                                                                                             0               0                     0
+df                                                                                             440           13762                   374
+shape 44 (Hit)                                                                                  27               0                     0
+shape 689                                                                                       29               0                     0
+shape 691                                                                                        0               0                     0
+shape 692                                                                                       58               0                     0
+shape 693                                                                                      108               0                     0
+shape 694                                                                                       35               0                     0
+shape 695                                                                                       53               0                     0
+shape 696                                                                                       37               0                     0
+shape 697                                                                                       47               0                     0
+shape 698                                                                                       46               0                     0
+shape 699                                                                                       35               0                     0
+shape 700                                                                                       42               0                     0
+shape 701                                                                                       46               0                     0
+shape 702                                                                                       36               0                     0
+shape 703                                                                                       43               0                     0
+shape 704                                                                                       36               0                     0
+shape 705                                                                                       44               0                     0
+shape 706                                                                                       35               0                     0
+shape 707                                                                                       45               0                     0
+shape 708                                                                                       49               0                     0
+shape 709                                                                                       51               0                     0
+shape 710                                                                                       54               0                     0
+shape 711                                                                                       63               0                     0
+shape 712                                                                                       72               0                     0
+shape 716                                                                                       51               0                     0
+text 682                                                                                         0              50                     0
+text 683                                                                                         0              61                     0
+text 684                                                                                         0              50                     0
+text 685                                                                                         0              57                     0
+text 686                                                                                         0              52                     0
+text 687                                                                                         0              53                     0
+sprite 688                                                                                       0               0                    21
+sprite 690                                                                                       0               0                     0
+sprite 713                                                                                       0               0                     1
+sprite 717                                                                                       0               0                     0
+название меню                                                                        0               0                   130
+sertificat                                                                                       0               0                     0
+sprite 3                                                                                         0               0                     0
+sprite 8                                                                                         0              83                   306
+sprite 11                                                                                        0               0                     0
+sprite 12                                                                                        0               0                     0
+sprite 13                                                                                        0               0                     0
+sprite 17                                                                                        0               0                     0
+sprite 22                                                                                        0               0                     0
+sprite 23                                                                                        0               0                     0
+sprite 24                                                                                        0               0                     0
+sprite 26                                                                                        0               0                     0
+sprite 27                                                                                        0               0                     0
+sprite 28                                                                                        0               0                     0
+sprite 29                                                                                        0               0                     0
+sprite 37                                                                                        0               0                     0
+sprite 40                                                                                        0               0                     0
+sprite 43                                                                                        0               0                     0
+sprite 47                                                                                        0               0                     0
+sprite 53                                                                                        0               0                     0
+sprite 56                                                                                        0               0                     0
+sprite 61                                                                                        0               0                     0
+sprite 62                                                                                        0               0                     0
+sprite 69                                                                                        0               0                     0
+sprite 71                                                                                        0               0                   249
+sprite 75                                                                                        0               0                     0
+sprite 76                                                                                        0               0                     0
+sprite 81                                                                                        0               0                     0
+sprite 131                                                                                       0               0                     0
+sprite 140                                                                                       0               0                     0
+sprite 143                                                                                       0               0                     0
+sprite 146                                                                                       0               0                     0
+sprite 150                                                                                       0               0                     0
+sprite 151                                                                                       0               0                     0
+sprite 152                                                                                       0               0                     0
+sprite 153                                                                                       0               0                     0
+sprite 155                                                                                       0               0                     0
+sprite 158                                                                                       0               0                     0
+sprite 160                                                                                       0               0                     0
+sprite 174                                                                                       0               0                     0
+sprite 175                                                                                       0               0                     0
+sprite 176                                                                                       0               0                     0
+sprite 177                                                                                       0               0                     0
+sprite 184                                                                                       0               0                     0
+sprite 192                                                                                       0               0                     0
+sprite 193                                                                                       0               0                     0
+sprite 195                                                                                       0               0                     0
+sprite 198 (Up Over Down)                                                                        0               0                     0
+sprite 200 (Up Over Down)                                                                        0               0                     0
+sprite 202                                                                                       0               0                     0
+sprite 203                                                                                       0               0                     0
+sprite 207                                                                                       0               0                     0
+sprite 210                                                                                       0               0                     0
+sprite 211                                                                                       0               0                     0
+sprite 216                                                                                       0               0                     0
+sprite 219                                                                                       0               0                     0
+sprite 221                                                                                       0               0                     0
+sprite 224                                                                                       0               0                     0
+sprite 226                                                                                       0               0                     0
+sprite 231                                                                                       0               0                     0
+sprite 233                                                                                       0               0                     0
+sprite 238                                                                                       0               0                     0
+sprite 240                                                                                       0               0                     0
+sprite 245                                                                                       0               0                     0
+sprite 247                                                                                       0               0                     0
+sprite 251                                                                                       0               0                     0
+sprite 253                                                                                       0               0                     0
+sprite 255                                                                                       0               0                     0
+sprite 257                                                                                       0               0                     0
+sprite 258                                                                                       0               0                     0
+sprite 260                                                                                       0               0                     0
+sprite 262                                                                                       0               0                     0
+sprite 264                                                                                       0               0                     0
+sprite 266                                                                                       0               0                     0
+sprite 268                                                                                       0               0                     0
+sprite 270                                                                                       0               0                     0
+sprite 272                                                                                       0               0                     0
+sprite 275                                                                                       0               0                     0
+sprite 277                                                                                       0               0                     0
+sprite 279                                                                                       0               0                     0
+sprite 281                                                                                       0               0                     0
+sprite 282                                                                                       0               0                     0
+sprite 283                                                                                       0               0                     0
+sprite 288                                                                                       0               0                     0
+sprite 290                                                                                       0               0                     0
+sprite 293                                                                                       0               0                     0
+sprite 304                                                                                       0               0                     0
+sprite 305                                                                                       0               0                     0
+sprite 306                                                                                       0               0                     0
+sprite 314                                                                                       0               0                     0
+sprite 315                                                                                       0               0                     0
+sprite 316                                                                                       0               0                     0
+sprite 318                                                                                       0               0                     0
+sprite 323                                                                                       0               0                     0
+sprite 324                                                                                       0               0                     0
+sprite 326                                                                                       0               0                     0
+sprite 331                                                                                       0               0                     0
+sprite 332                                                                                       0               0                     0
+sprite 334                                                                                       0               0                     0
+sprite 339                                                                                       0               0                     0
+sprite 340                                                                                       0               0                     0
+sprite 342                                                                                       0               0                     0
+sprite 347                                                                                       0               0                     0
+sprite 348                                                                                       0               0                     0
+sprite 350                                                                                       0               0                     0
+sprite 354                                                                                       0               0                     0
+sprite 356                                                                                       0               0                     0
+sprite 358                                                                                       0               0                     0
+sprite 360                                                                                       0               0                     0
+sprite 361                                                                                       0               0                     0
+sprite 363                                                                                       0               0                    57
+sprite 365                                                                                       0               0                     0
+sprite 367                                                                                       0               0                    57
+sprite 369                                                                                       0               0                     0
+sprite 371                                                                                       0               0                    57
+sprite 373                                                                                       0               0                     0
+sprite 375                                                                                       0               0                     2
+sprite 378                                                                                       0               0                     0
+sprite 380                                                                                       0               0                     0
+sprite 382                                                                                       0               0                     0
+sprite 384                                                                                       0               0                     0
+sprite 386                                                                                       0               0                     0
+sprite 391                                                                                       0               0                     0
+sprite 411                                                                                       0               0                     0
+sprite 412                                                                                       0               0                     0
+sprite 413                                                                                       0               0                     0
+sprite 415                                                                                       0               0                     0
+sprite 418                                                                                       0               0                     0
+sprite 420                                                                                       0               0                     0
+sprite 422                                                                                       0               0                     0
+sprite 429 (__Packages.tm.freshComponents.forms.Form)                                            0               0                     0
+sprite 434 (Form)                                                                                0               0                     0
+sprite 435 (__Packages.mx.events.EventDispatcher)                                                0               0                     0
+sprite 436 (__Packages.tm.utils.Delegate)                                                        0               0                     0
+sprite 437 (__Packages.tm.utils.Utils)                                                           0               0                     0
+sprite 438 (__Packages.tm.utils.XMLParser)                                                       0               0                     0
+sprite 439 (__Packages.tm.freshComponents.tabFixer.TabManager)                                   0               0                     0
+sprite 440 (__Packages.tm.freshComponents.forms.FormManager)                                     0               0                     0
+sprite 441 (__Packages.tm.freshComponents.forms.formItems.FormItem)                              0               0                     0
+sprite 442 (__Packages.tm.freshComponents.forms.formItems.FormItemType)                          0               0                     0
+sprite 443 (__Packages.tm.freshComponents.forms.formItems.FormItemsGroup)                        0               0                     0
+sprite 444 (__Packages.tm.freshComponents.forms.validators.IFormValidator)                       0               0                     0
+sprite 445 (__Packages.tm.freshComponents.forms.validators.FormValidatorType)                    0               0                     0
+sprite 446 (__Packages.tm.utils.RegExp)                                                          0               0                     0
+sprite 447 (__Packages.tm.freshComponents.forms.validators.StringValidator)                      0               0                     0
+sprite 448 (__Packages.tm.freshComponents.forms.validators.NumberValidator)                      0               0                     0
+sprite 449 (__Packages.tm.freshComponents.forms.validators.EmailValidator)                       0               0                     0
+sprite 450 (__Packages.tm.freshComponents.forms.validators.DateValidator)                        0               0                     0
+sprite 451 (__Packages.tm.freshComponents.forms.validators.FormValidatorsFactory)                0               0                     0
+sprite 452 (__Packages.tm.freshComponents.forms.formItems.TextItem)                              0               0                     0
+sprite 453 (__Packages.mx.skins.SkinElement)                                                     0               0                     0
+sprite 454 (__Packages.mx.styles.CSSTextStyles)                                                  0               0                     0
+sprite 455 (__Packages.mx.styles.StyleManager)                                                   0               0                     0
+sprite 456 (__Packages.mx.styles.CSSStyleDeclaration)                                            0               0                     0
+sprite 457 (__Packages.mx.core.UIObject)                                                         0               0                     0
+sprite 458 (__Packages.mx.core.UIComponent)                                                      0               0                     0
+sprite 459 (__Packages.mx.controls.listclasses.DataSelector)                                     0               0                     0
+sprite 460 (__Packages.mx.skins.Border)                                                          0               0                     0
+sprite 461 (__Packages.mx.skins.RectBorder)                                                      0               0                     0
+sprite 462 (__Packages.mx.controls.TextInput)                                                    0               0                     0
+sprite 463 (__Packages.mx.controls.SimpleButton)                                                 0               0                     0
+sprite 464 (__Packages.mx.controls.ComboBase)                                                    0               0                     0
+sprite 465 (__Packages.mx.managers.DepthManager)                                                 0               0                     0
+sprite 466 (__Packages.mx.managers.SystemManager)                                                0               0                     0
+sprite 467 (__Packages.mx.managers.PopUpManager)                                                 0               0                     0
+sprite 468 (__Packages.mx.core.View)                                                             0               0                     0
+sprite 469 (__Packages.mx.events.UIEventDispatcher)                                              0               0                     0
+sprite 470 (__Packages.mx.core.ExternalContent)                                                  0               0                     0
+sprite 471 (__Packages.mx.skins.CustomBorder)                                                    0               0                     0
+sprite 472 (__Packages.mx.controls.scrollClasses.ScrollThumb)                                    0               0                     0
+sprite 473 (__Packages.mx.controls.scrollClasses.ScrollBar)                                      0               0                     0
+sprite 474 (__Packages.mx.core.ScrollView)                                                       0               0                     0
+sprite 475 (__Packages.mx.controls.listclasses.DataProvider)                                     0               0                     0
+sprite 476 (__Packages.mx.controls.listclasses.ScrollSelectList)                                 0               0                     0
+sprite 477 (__Packages.mx.controls.List)                                                         0               0                     0
+sprite 478 (__Packages.mx.effects.Tween)                                                         0               0                     0
+sprite 479 (__Packages.mx.controls.ComboBox)                                                     0               0                     0
+sprite 480 (__Packages.tm.freshComponents.forms.formItems.SelectItem)                            0               0                     0
+sprite 481 (__Packages.mx.controls.Button)                                                       0               0                     0
+sprite 482 (__Packages.mx.controls.CheckBox)                                                     0               0                     0
+sprite 483 (__Packages.tm.freshComponents.forms.formItems.CheckboxItem)                          0               0                     0
+sprite 484 (__Packages.mx.controls.RadioButtonGroup)                                             0               0                     0
+sprite 485 (__Packages.mx.controls.RadioButton)                                                  0               0                     0
+sprite 486 (__Packages.tm.freshComponents.forms.formItems.RadiobuttonItem)                       0               0                     0
+sprite 487 (__Packages.tm.freshComponents.forms.formItems.FormItemsFactory)                      0               0                     0
+sprite 489                                                                                       0               0                     0
+sprite 490                                                                                       0               0                     0
+sprite 495                                                                                       0               0                     0
+sprite 496                                                                                       0               0                     0
+sprite 499                                                                                       0               0                     0
+sprite 500                                                                                       0               0                     0
+sprite 503                                                                                       0               0                     0
+sprite 504                                                                                       0               0                     0
+sprite 508                                                                                       0               0                     0
+sprite 511                                                                                       0               0                     0
+sprite 512                                                                                       0               0                     0
+sprite 515                                                                                       0               0                     0
+sprite 516                                                                                       0               0                     0
+sprite 519                                                                                       0               0                     0
+sprite 520                                                                                       0               0                     0
+sprite 523                                                                                       0               0                     0
+sprite 524                                                                                       0               0                     0
+sprite 527                                                                                       0               0                     0
+sprite 528                                                                                       0               0                     0
+sprite 531                                                                                       0               0                     0
+sprite 532                                                                                       0               0                     0
+sprite 535                                                                                       0               0                     0
+sprite 536                                                                                       0               0                     0
+sprite 539                                                                                       0               0                     0
+sprite 540                                                                                       0               0                     0
+sprite 543                                                                                       0               0                     0
+sprite 544                                                                                       0               0                     0
+sprite 547                                                                                       0               0                     0
+sprite 548                                                                                       0               0                     0
+sprite 551                                                                                       0               0                     0
+sprite 552                                                                                       0               0                     0
+sprite 555                                                                                       0               0                     0
+sprite 556                                                                                       0               0                     0
+sprite 559                                                                                       0               0                     0
+sprite 560                                                                                       0               0                     0
+sprite 563                                                                                       0               0                     0
+sprite 564                                                                                       0               0                     0
+sprite 567                                                                                       0               0                     0
+sprite 568                                                                                       0               0                     0
+sprite 571                                                                                       0               0                     0
+sprite 572                                                                                       0               0                     0
+sprite 575                                                                                       0               0                     0
+sprite 576                                                                                       0               0                     0
+sprite 580                                                                                       0               0                     0
+sprite 581                                                                                       0               0                     0
+sprite 589                                                                                       0               0                     0
+sprite 590                                                                                       0               0                     0
+sprite 592                                                                                       0               0                     0
+sprite 659                                                                                       0               0                     1
+sprite 681                                                                                       0               0                     0
+sprite 690                                                                                       0               0                     0
+sprite 713                                                                                       0               0                     1
+sprite 717                                                                                       0               0                     0
+sprite 718                                                                                       0               0                     0
+sprite 719                                                                                       0               0                     0
+sprite 724                                                                                       0               0                     0
+sprite 727                                                                                       0               0                     0
+sprite 729                                                                                       0               0                     0
+sprite 734                                                                                       0               0                     0
+sprite 737                                                                                       0               0                     0
+sprite 740                                                                                       0               0                     0
+sprite 742                                                                                       0               0                     0
+sprite 746                                                                                       0               0                     0
+sprite 748                                                                                       0               0                     0
+sprite 752                                                                                       0               0                     0
+sprite 753                                                                                       0               0                     0
+sprite 754                                                                                       0               0                     2
+sprite 757                                                                                       0               0                     0
+sprite 759                                                                                       0               0                     0
+sprite 766                                                                                       0               0                     0
+sprite 767                                                                                       0               0                    57
+sprite 768                                                                                       0               0                    46
+start                                                                                            0               0                     0
+блик                                                                                         0               0                     0
+главная                                                                                  38               0                   251
+ГЛАВНАЯ                                                                                   0               0                     0
+ДОПОЛНИТЕЛЬНЫЙ СЕРВИС                                                        0               0                     0
+ЗАПЧАСТИ                                                                                 0               0                     0
+звук                                                                                         0               0                    85
+звук1                                                                                        0               0                     0
+КОНТАКТЫ                                                                                 0               0                     0
+копия sprite 216                                                                            0               0                     0
+копия sprite 367                                                                            0               0                     0
+Кто мы                                                                                      0               0                     0
+кто мы                                                                                      0               0                     0
+меню                                                                                         0               0                  2664
+наши предложения                                                                  0               0                   141
+поменял                                                                                   0               0                     0
+СЕРВИС                                                                                     0               0                     0
+СЕРТИФИКАТЫ                                                                           0               0                     0
+фон                                                                                           0               0                     1
+чтото                                                                                       0             376                   167
+шапка                                                                                       0               0                     1
+ЭЛЕМЕНТ МЕНЮ 2                                                                        0               0                     0
+PPUA                                                                                             0               0                     0
+ruseng1                                                                                         78               0                     0
+ruseng2                                                                                          0               0                     0
+s1кнопка                                                                                   0               0                     0
+S5B                                                                                              0               0                     2
+SeekBar                                                                                          0               0                     0
+SERT6                                                                                            0               0                     0
+SERT6K                                                                                           0               0                     2
+SERT7                                                                                            0               0                     0
+SERT7K                                                                                           0               0                     2
+sprite 8                                                                                         0              83                   306
+Symbol 1                                                                                         0               0                     0
+Symbol 3                                                                                         0               0                     0
+Symbol 5                                                                                         0               0                     0
+Symbol 7                                                                                         0               0                     0
+Symbol 8                                                                                         0               0                     0
+амаска                                                                                     0               0                     0
+Анимация 1                                                                               0             349                   197
+Анимация 2                                                                               0               0                     0
+Анимация 3                                                                               0               0                     0
+Анимация 4                                                                               0               0                     0
+Анимация 5                                                                               0               0                     0
+фон контакты                                                                          0               0                     0
+фон услуги                                                                           4190               0                     0
+галерея                                                                                   0               0                     0
+галерея1                                                                                  0               0                     0
+галерея2                                                                                  0               0                     0
+Галереясупер                                                                         0               0                     0
+ДЭК                                                                                           0               0                     0
+еще фото                                                                                  0               0                     0
+ЕЩЕфото                                                                                   0               0                     0
+загрузчик                                                                               0               0                     0
+закрыть                                                                                   0               0                     0
+ЗАКРЫТЬ                                                                                 150               0                     0
+закрыть1                                                                                  0               0                     0
+зеленый подъемник                                                                0               0                     0
+инструктаж                                                                             0               0                     0
+инструктор                                                                             0               0                     0
+ тень урал кран                                                                      0               0                     0
+камаз ппуа                                                                           2319               0                     0
+краз подъёмник                                                                   1867               0                     0
+тень камаза                                                                           31               0                     0
+тень краз                                                                                0               0                     0
+тень урала ца                                                                         0               0                     0
+урал-кран                                                                             3195               0                     0
+урал ца32                                                                                  0               0                     0
+кнопка1рисунок                                                                      0               0                     0
+кнопка6                                                                                    0               0                     0
+кнопка6-1                                                                                  0               0                     0
+кнопка7                                                                                    0               0                     0
+кнопка7-1                                                                                  0               0                     0
+кнопка7рисунок                                                                      0               0                     0
+кнопка8                                                                                    0               0                     0
+кнопка8-1                                                                                  0               0                     0
+краз                                                                                         0               0                     0
+купер                                                                                       0               0                     0
+линия                                                                                       0               0                     0
+линия1                                                                                     55               0                     0
+маска                                                                                       0               0                     0
+маска фоток                                                                            0               0                     0
+маска1                                                                                      0               0                     0
+машинки                                                                                   0               0                     0
+МБУ125                                                                                       39               0                     0
+назад                                                                                       0               0                     0
+оп                                                                                             0               0                     0
+плакат                                                                                     0               0                     0
+подложка меню                                                                       65               0                     0
+ПРОКРУТКА СЕРТИКОВ                                                              0               0                     0
+рабочий                                                                                   0               0                     0
+рабочий кнопка                                                                      0               0                     0
+серт5К                                                                                      0               0                     0
+серт5кнопка                                                                            0               0                     0
+СЕРТИКИ                                                                                   0               0                     0
+свидетельство 1                                                                     0               0                     0
+свидетельство1                                                                      0               0                     0
+СЕРТИФИКАТЫ1                                                                          0               0                  2183
+Сиангл                                                                                   240               0                     0
+Символ 1                                                                                   0               0                     0
+Символ 1kl;                                                                                0               0                     0
+Символ 2                                                                                   0               0                     0
+Символ 2jkl                                                                                0               0                     0
+Символ 3                                                                                   0               0                     0
+Символ 4                                                                                  51               0                     0
+Символ 4jkk                                                                                0               0                     0
+Символ 5                                                                                   0               0                     0
+Символ 6                                                                                  61               0                     0
+Символ 7                                                                                   0               0                     0
+Символ 8                                                                                   0               0                     0
+Символ 9                                                                                  61               0                     0
+Символ 21                                                                                  0               0                     0
+Символ 937                                                                                 0               0                     0
+Символ 1086                                                                                0               0                     0
+Символ 1097                                                                                0               0                     0
+Символ 1098                                                                                0               0                     0
+Символ 1099                                                                                0               0                     0
+Символ 1100                                                                                0               0                     0
+Символ 1101                                                                                0               0                     0
+Символ 1102                                                                                0               0                     0
+Символ 1440                                                                                0               0                     0
+Символ 1485                                                                                0               0                     0
+Символ 1486                                                                                0               0                     0
+Символ 1487                                                                                0               0                     0
+Символ 1488                                                                                0               0                     0
+Символ 1489                                                                                0               0                     0
+Символ 1586                                                                                0               0                     0
+Символ 1923                                                                                0               0                     0
+Символ 2306                                                                                0               0                     0
+Символ 2580                                                                                0               0                     0
+Символ 2581                                                                                0               0                     0
+Символ 2674                                                                                0               0                     0
+Символ 2675                                                                                0               0                     0
+Символ 3351                                                                                0               0                     0
+Символ 4222                                                                                0               0                     0
+Символ 4223                                                                                0               0                     0
+склад                                                                                       0               0                     0
+складкнопка                                                                           0               0                     0
+scroll_bg                                                                                        0               0                     0
+линия                                                                                       0               0                     0
+тень                                                                                         0               0                     0
+тень камаза                                                                           31               0                     0
+тень урала                                                                             35               0                     0
+увеличени                                                                               0               0                     0
+улица                                                                                       0               0                     0
+улица1                                                                                      0               0                     0
+улицаподъемниккнопка                                                         0               0                     0
+фара камаза                                                                            0               0                     0
+фара краза                                                                              0               0                     0
+фара нижнего урала                                                               0               0                     0
+фара урала                                                                              0               0                     0
+фг1                                                                                            0               0                     0
+фг2                                                                                            0               0                     0
+фг3                                                                                            0               0                     0
+фг4                                                                                            0               0                     0
+фг5                                                                                            0               0                     0
+фг6                                                                                            0               0                     0
+фг7                                                                                            0               0                     0
+фг8                                                                                            0               0                     0
+ФОН                                                                                           0               0                     0
+фотки                                                                                       0               0                     0
+фотки малые                                                                           62               0                     0
+ЦА320                                                                                          0               0                     0
+цех                                                                                           0               0                     0
+ЧЕЛ 40Т                                                                                     39               0                     0
+эмблема                                                                                   0               0                     0
+
+
+Анимированные формы: 256 bytes
+
+Имя шрифта                              Байты         Символов
+------------------------------------    ----------    --------
+Verdana-Italic Курсив                   3973     ,-.124:АДЕНПРСШабвгдежзийклмнопрстучшъы
+Verdana                                       7912     "+-1CFehmorsАБВДЗИКМНОПРСТУШабвгежзийклмнопрстщыья
+ComicSansMS                                   1891    АЕИКРСТФЫ
+Tahoma-Bold Полужирный              2653     АВЕИКМНРСУавгдезиклмностуы
+Tahoma                                        5603     ,-.0123456789:«»АВГЕКЛМОПРТУШЫЭабвгдезиклмнопрстуфшыя
+Arial-BoldItalicMT Полужирный Курсив          3763     ,.124:АДЕИКНПРСТФШЫавгдезийклмнопрстушы
+Arial-Black                                   4780     SWbceirv©АДЕЖЗИКНОПРСТХЦЧ
+New_Zelek                                     1688    -АБВДЗИМОПСШабвдзимопсш
+ArialMT                                      13095     "(),-./0123456789:;@AILMNRSUZ«»АБВГДЕЗИКЛМНОПРСТУФХЦЧШЫЬЮЯабвгдежзийклмнопрстуфхцчшщъыьюяё№
+Arial-BoldMT Полужирный            11918     "(),-./0123456789:;ADLRmАБВГДЕЗИКЛМНОПРСТУХЦЧШЫЭЯабвгдежзийклмнопрстуфхцчшщъыьэюяё
+_sans                                         6165     ,Пагдежзийклопрсту
+
+Байты ActionScript    Расположение
+------------------    ------------
+                22    Scene 1:Action Layer:1
+               306    sprite 8:AS:1
+                15    Scene 1:хз:1:load0(sprite 8)
+                 1    Scene 1:Action Layer:2
+                 1    фон:Action Layer:26
+                 1    название меню:Action Layer:1
+                21    sprite 688:Action Layer:1
+                35    название меню:Masked Layer 6 - 1:1:name1(sprite 688)
+                 1    sprite 713:Action Layer:25
+                35    название меню:Masked Layer 4 - 1:9:name2(sprite 688)
+                 1    название меню:Action Layer:13
+                58    название меню:Masked Layer 6 - 1:13:name3(sprite 688)
+               371    меню:Layer 1:1:item1(название меню)
+               440    меню:Layer 38:1:item2(название меню)
+               481    меню:Layer 73:1:item3(название меню)
+               440    меню:Layer 108:1:item4(название меню)
+               440    меню:Layer 143:1:item5(название меню)
+               440    меню:Layer 178:1:item6(название меню)
+                52    меню:Action Layer:2
+                 1    шапка:Action Layer:105
+                 1    sprite 767:Слой 2:1
+               167    чтото:Layer 2:1:Имя экземпляра не присвоено(sprite 748)
+                23    sprite 767:Layer 3:1:Имя экземпляра не присвоено(engrus1)
+                 0    звук1:Action Layer:1
+                 1    звук:Action Layer:1
+                15    звук:Layer 3:1:Имя экземпляра не присвоено(sprite 759)
+                35    звук:Layer 5:1:Имя экземпляра не присвоено(button 761)
+                34    звук:Layer 5:5:Имя экземпляра не присвоено(button 762)
+                 1    sprite 754:Action Layer:1
+                 1    sprite 754:Action Layer:10
+                33    sprite 767:Layer 6:2:full_scr(sprite 754)
+                 1    наши предложения:Action Layer:1
+               139    наши предложения:Layer 20:1:Имя экземпляра не присвоено(button 58)
+                 1    наши предложения:Action Layer:10
+               161    Анимация 1:Слой 9:1
+                32    Анимация 1:Слой 9:20
+                 4    Анимация 1:Слой 9:40
+               161    втораякнопка:Слой 7:1
+                42    втораякнопка:Слой 7:2
+                32    втораякнопка:Слой 7:20
+                41    втораякнопка:Слой 7:21
+                 4    втораякнопка:Слой 7:40
+                 1    sprite 71:Action Layer:1
+               247    sprite 71:Layer 20:1:Имя экземпляра не присвоено(button 70)
+                 1    sprite 71:Action Layer:10
+                26    главная:Action Layer:85
+                46    главная:Action Layer:136
+                 1    df:Action Layer:1
+               167    df:Слой 2:1:close(ЗАКРЫТЬ)
+              1567    Jx:Слой 4:1
+                 1    Jx:Слой 5:1
+               103    Jx:but1:1:but1(button1)
+               103    Jx:but2:1:but2(button2)
+               103    Jx:button3:1:but3(button3)
+               103    Jx:button4:1:but4(button4)
+               103    Jx:button5:1:but5(button5)
+               103    Jx:button6:1:but6(button6)
+               103    Jx:button7:1:but7(button7)
+               103    Jx:button8:1:but8(button8)
+                36    Jx:Слой 13:1:Имя экземпляра не присвоено(more)
+                39    df:Layer 1:7:Имя экземпляра не присвоено(ФОН)
+              1409    СЕРТИФИКАТЫ1:Слой 1:1
+                 1    sprite 375:Action Layer:1
+                 1    sprite 375:Action Layer:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load1_mc(sprite 375)
+                 1    sprite 371:Action Layer:1
+                55    sprite 371:Layer 3:1:Имя экземпляра не присвоено(button 370)
+                 1    sprite 371:Action Layer:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load2_mc(sprite 371)
+                 1    sprite 367:Action Layer:1
+                55    sprite 367:Layer 3:1:Имя экземпляра не присвоено(button 366)
+                 1    sprite 367:Action Layer:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load3_mc(sprite 367)
+                 1    sprite 363:Action Layer:1
+                55    sprite 363:Layer 3:1:Имя экземпляра не присвоено(button 362)
+                 1    sprite 363:Action Layer:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load4_mc(sprite 363)
+                 1    S5B:Слой 3:1
+                 1    S5B:Слой 3:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load5_mc(S5B)
+                 1    SERT6K:Слой 4:1
+                 1    SERT6K:Слой 4:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load6_mc(SERT6K)
+                 1    SERT7K:Слой 3:1
+                 1    SERT7K:Слой 3:10
+                81    СЕРТИФИКАТЫ1:sprite 375:1:load7_mc(SERT7K)
+               207    СЕРТИФИКАТЫ1:Слой 2:1:close(ЗАКРЫТЬ)
+               167    df:Слой 2:8:close(ЗАКРЫТЬ)
+              2719    Jx1:Слой 6:1
+                 1    Jx1:Слой 5:1
+               103    Jx1:but9:1:but9(button9)
+               105    Jx1:but10:1:but10(button10)
+               105    Jx1:but11:1:but11(button11)
+               105    Jx1:but12:1:but12(button12)
+               105    Jx1:but13:1:but13(button13)
+               105    Jx1:but14:1:but14(button14)
+               105    Jx1:but15:1:but15(button15)
+               105    Jx1:but16:1:but16(button16)
+               105    Jx1:but17:1:but17(button17)
+               105    Jx1:but18:1:but18(button18)
+               105    Jx1:but19:1:but19(button19)
+               105    Jx1:but20:1:but20(button20)
+               105    Jx1:but21:1:but21(button21)
+               105    Jx1:but22:1:but22(button22)
+               105    Jx1:but23:1:but23(button23)
+               105    Jx1:but24:1:but24(button24)
+                36    Jx1:Слой 3:1:Имя экземпляра не присвоено(more)
+                 0    df:Action Layer:10
+                26    главная:Action Layer:151
+                46    главная:Action Layer:156
+                 1    sprite 659:Action Layer:61
+                46    главная:Action Layer:198
+                26    главная:Action Layer:222
+                29    главная:Action Layer:223
+                 6    главная:Action Layer:275
+                45    sprite 768:Layer 1:1:load0(sprite 8)
+                 1    sprite 768:Action Layer:12
+            100679    Классы ActionScript 2.0
+
+Растровое изображение     Сжатый        Исходный      Сжатие
+----------------------    ----------    ----------    ------
+1 дополнительная.JPG         12230        994560    Импортированный JPEG=102
+image 715                         66           576    Без потерь
+ugra0000.png                    6186         51980    Качество JPEG=80
+эмблема.gif              1697         13700    Без потерь
+image 744                        318          3700    Качество JPEG=100
+image 755                        785          2116    Качество JPEG=100
+image 750                        621          1748    Качество JPEG=100
+КАМАЗ-ППУАок.png         15192        460944    Качество JPEG=80
+краз-подъемник.jpg         22111       1131520    Качество JPEG=80
+урал-кран.jpg          17685        944640    Качество JPEG=80
+урал-ца320-бежевый.jpg         15480        819200    Качество JPEG=80
+image 54                         555           800    Качество JPEG=100
+image 129                       4045       2187720    Без потерь
+мин1.jpg                     2243         76800    Качество JPEG=80
+мин2.jpg                     2991         76800    Качество JPEG=80
+мин3.jpg                     3243         76800    Качество JPEG=80
+мин4.jpg                     4942         76800    Качество JPEG=80
+мин5.jpg                     5523         76800    Качество JPEG=80
+мин6.jpg                     2950         76800    Качество JPEG=80
+мин7.jpg                     4665         76800    Качество JPEG=80
+мин8.jpg                     5300         76800    Качество JPEG=80
+подъемник.jpg          8331       1298172    Качество JPEG=80
+image 214                        674          3376    Импортированный JPEG=102
+image 291                        674          3376    Импортированный JPEG=102
+УПА-100-Идель.jpg         17501        280088    Импортированный JPEG=102
+PPUA-1600-100M.jpg             20304        319200    Импортированный JPEG=102
+ДЭК.jpg                     25857        119200    Импортированный JPEG=102
+ЧЕЛ 40Т.jpg                22515        107200    Импортированный JPEG=102
+ЦА 320.jpg                   39379        180000    Импортированный JPEG=102
+запчасти.jpg           16934       1041920    Качество JPEG=80
+УРАЛФОН.jpg             20078       1289600    Качество JPEG=80
+СЕРТ1КНОПКА.jpg          8932         70400    Импортированный JPEG=102
+СЕРТ2КНОПКА.jpg         10184         69120    Импортированный JPEG=102
+СЕРТ3КНОПКА.jpg          9760         71040    Импортированный JPEG=102
+СЕРТ4КНОПКА.jpg          9952         69760    Импортированный JPEG=102
+СЕРТ5КНОПКА.jpg          3359         70400    Импортированный JPEG=102
+СЕРТ6КНОПКА.jpg          2217         33440    Качество JPEG=80
+СЕРТ7КНОПКА.jpg          2615         70400    Качество JPEG=80
+СХЕМА ПРОЕЗДА.gif         18580        255024    Без потерь
+мин9.jpg                     3682         76800    Качество JPEG=80
+мин10.jpg                    4202         76800    Качество JPEG=80
+мин11.jpg                    3937         76800    Качество JPEG=80
+мин12.jpg                    4331         76800    Качество JPEG=80
+мин13.jpg                    4139         76800    Качество JPEG=80
+мин14.jpg                    4262         76800    Качество JPEG=80
+мин15.jpg                    2688         76800    Качество JPEG=80
+мин16.jpg                    3755         76800    Качество JPEG=80
+мин17.jpg                    6203         76800    Качество JPEG=80
+мин18.jpg                    3511         76800    Качество JPEG=80
+мин19.jpg                    5701         76800    Качество JPEG=80
+мин20.jpg                    4985         76800    Качество JPEG=80
+мин21.jpg                    4789         76800    Качество JPEG=80
+мин22.jpg                    5135         76800    Качество JPEG=80
+мин23.jpg                    4564         76800    Качество JPEG=80
+мин24.jpg                    7040         76800    Качество JPEG=80
+
+Звуки событий: 22KHz Mono 16 kbps MP3
+
+
+Имя звука       Байты         Формат
+------------    ----------    ------
+sound 142             1358    22KHz Mono 64 kbps MP3
+sound 86              5086    22KHz Mono 64 kbps MP3
+sound 63              2911    22KHz Mono 64 kbps MP3
+sound 34             11713    22KHz Mono 64 kbps MP3
+sound 15.mp3        203816    11KHz Mono 16 kbps MP3
+sound 714             1772    22KHz Mono 64 kbps MP3
+
+
+
+

@@ -1,0 +1,289 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/Анимация 1" itemID="4eeb4aab-00000659" symbolType="graphic" lastModified="1344214910" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="Анимация 1" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+	
+mask.onRollOver=function():Void
+{
+	gotoAndPlay(2);
+	
+	
+}
+
+mask.onPress=function():Void
+{
+	
+
+   _root.menu_mov.menu1.item1.gotoAndPlay("s2");
+	   _root.link=10;
+    _root.pages_mov.gotoAndPlay(86);
+}
+
+/*this.onEnterFrame = function():Void {
+	if(item1._x<-510)
+	{
+		item1._x=508
+	}
+	if(item1._x>-510)
+	{
+	item1._x=item1._x-3;
+	}
+	
+	if(item2._x<-510)
+	{
+		item2._x=508
+	}
+	if(item2._x>-510)
+	{
+	item2._x=item2._x-3;
+	}*/
+	
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[mask.onRollOver=function():Void
+{
+	
+	
+}
+mask.onRollOut=function():Void
+{
+	
+	gotoAndStop(1);
+	
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+mask.onRollOut=function():Void
+{
+	gotoAndPlay(21);
+	
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[mask.onRollOut=function():Void
+{
+	
+	
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 4" color="#FF4FFF" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask" selected="true">
+                  <matrix>
+                    <Matrix a="0.496932983398438" d="3.75" tx="-262.85" ty="-107.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.8" y="21.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask">
+                  <matrix>
+                    <Matrix a="0.496932983398438" d="3.75" tx="-262.85" ty="-107.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.8" y="21.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask">
+                  <matrix>
+                    <Matrix a="0.496932983398438" d="8.59375" tx="-262.85" ty="-107.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.8" y="21.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask">
+                  <matrix>
+                    <Matrix a="1.37567138671875" d="9.27069091796875" tx="-264.1" ty="-106"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="262.85" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask" selected="true">
+                  <matrix>
+                    <Matrix a="0.496932983398438" d="8.59375" tx="-262.85" ty="-107.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.8" y="21.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/maskOfRow" name="mask">
+                  <matrix>
+                    <Matrix a="0.496932983398438" d="3.75" tx="-262.85" ty="-107.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.8" y="21.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="текст кнопки" color="#FF800A" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMStaticText left="20.15" width="151.5" height="74.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-268" ty="-98"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ВНИМАНИЕ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="2" lineSpacing="-1" size="21" bitmapSize="420" face="Tahoma-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> &#xD;открылся склад&#xD;в КОГАЛЫМЕ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-1" size="21" bitmapSize="420" face="Tahoma" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="21" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="20.15" width="476.85" height="71.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-268" ty="-98"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ВНИМАНИЕ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="2" lineSpacing="-1" size="30" bitmapSize="600" face="Tahoma-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> открылся склад&#xD;в КОГАЛЫМЕ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-1" size="30" bitmapSize="600" face="Tahoma" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="текст внизу" color="#4F80FF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="39" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="472.35" height="112.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-248.95" ty="-1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>телефон: 45-007, 8-922-783-0012 &#xD;адрес: ул. Широкая 3, &#xD;база КогУТТ Пирност</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Tahoma" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="цвет кнопки" color="#9933CC" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 9" centerPoint3DX="-170.5" centerPoint3DY="-57">
+                  <matrix>
+                    <Matrix tx="-260.95" ty="-105"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.45" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="39" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="фон" color="#4FFFFF" parentLayerIndex="1" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="39" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC3333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6522 -265S2|6522 5116!6522 5116|-5398 5116!-5398 5116|-5398 -2382!-5398 -2382|-5380 -2382!-5380 -2382|-5380 -2385!-5380 -2385|6519 -2385!6519 -2385|6519 -265!6519 -265|6522 -265"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

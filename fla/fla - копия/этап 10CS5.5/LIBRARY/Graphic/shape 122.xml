@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 122" itemID="4debac18-000000b1" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 122">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#EFF6FA"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F4FDFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!20670 8445|22320 8185!22320 8185|22090 8140!22090 8140[21930 8085 21765 7940!21765 7940[21425 7610 21185 7030!21185 7030|21055 6685!21055 6685[20814 5940 20635 4460!20635 4460[20624 3492 20525 3395!20525 3395[20408 3318 20375 3325!20375
+ 3325|5995 3330!5995 3330|2680 3325!2680 3325|2670 3330!2670 3330|2655 3330!2655 3330|2645 3335!2645 3335|2630 3335!2630 3335|2620 3340!2620 3340[2600 3325 2520 3395!2520 3395[2425 3479 2425 4325!2425 4325[2261 5907 1995 6690!1995 6690
+[1758 7335 1455 7760!1455 7760[1120 8170 745 8180!745 8180|2380 8440"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2380 8440|4065 8665!4065 8665|5085 8780!5085 8780|6995 8950!6995 8950|8965 9065!8965 9065|10800 9115!10800 9115|12290 9115!12290 9115|13600 9085!13600 9085|15125 9015!15125 9015|15970 8960!15970 8960|17515 8830!17515 8830|18385 8740
+!18385 8740|19940 8550!19940 8550|20670 8445"/>
+                    <Edge fillStyle0="2" edges="
+!2380 8440|2300 10495!2300 10495[2300 10695 2520 10730!2520 10730|6605 10715!6605 10715|20525 10730!20525 10730[20730 10710 20750 10510!20750 10510|20670 8445"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

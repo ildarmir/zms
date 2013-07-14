@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/урал ца32" itemID="4dff0b34-00000533" symbolType="graphic" lastModified="1309457927" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="урал ца32">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/фара камаза" selected="true" centerPoint3DX="104.7" centerPoint3DY="163.1">
+                  <matrix>
+                    <Matrix tx="104.7" ty="158.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MovieClip/фара камаза" selected="true" centerPoint3DX="152.55" centerPoint3DY="148.05">
+                  <matrix>
+                    <Matrix tx="152.55" ty="143.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Image/КАМАЗ-ППУАок.png">
+                  <matrix>
+                    <Matrix tx="-225.05" ty="-47.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/тень камаза" centerPoint3DX="-44.4" centerPoint3DY="187.8">
+                  <matrix>
+                    <Matrix a="1.12289428710938" b="0.20477294921875" c="-1.5897216796875" d="0.623123168945313" tx="-123.55" ty="146.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.7" y="29.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="172.000004553459" blurX="18" blurY="18" distance="11" hideObject="true"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

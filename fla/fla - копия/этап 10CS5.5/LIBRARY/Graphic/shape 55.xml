@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 55" itemID="4debac14-0000006e" symbolType="graphic" lastModified="1344164123">
+  <timeline>
+    <DOMTimeline name="shape 55">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6 -5|6 384!6 384[#A.13 #17F.F8 13 381!13 381|195 203!195 203[#C5.F6 #C8.1D 198 196!198 196[#C5.FA #BF.EB 195 189!195 189|7 -4!7 -4[#6.85 #FFFFFB.81 6 -5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

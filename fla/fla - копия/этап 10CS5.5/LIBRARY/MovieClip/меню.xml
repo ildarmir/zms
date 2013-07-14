@@ -1,0 +1,353 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/меню" itemID="4df0c950-00000489" lastModified="1308653800" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="меню">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[item1.gotoAndPlay("s1");
+_root.link = 1;
+stop ();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 178" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item6" centerPoint3DX="459.1" centerPoint3DY="-7.65">
+                  <matrix>
+                    <Matrix tx="459.1" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 6;
+	
+	this.name1.gotoAndStop(6);
+}
+on(release)
+{ 
+
+
+   if(_root.link==1)
+   
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+	   _root.link=num;
+    _root.pages_mov.gotoAndPlay(86);}
+	else if(_root.link==num){
+	}
+	
+   else if (_root.link != num)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay("p1");
+   } 
+}
+on (rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+		
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 143" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item5" centerPoint3DX="309.1" centerPoint3DY="-7.65">
+                  <matrix>
+                    <Matrix tx="309.1" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 5;
+	this.name1.gotoAndStop(3);
+}
+on (rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+		
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+on (release)
+{
+   if(_root.link==1)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+	   _root.link=num;
+    _root.pages_mov.gotoAndPlay(86);}
+	else if(_root.link==num){
+	}
+	
+   else if (_root.link != num)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2"); 
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay("p1");
+   } 
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 108" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item4" centerPoint3DX="149.1" centerPoint3DY="-7.65">
+                  <matrix>
+                    <Matrix tx="149.1" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 4;
+	this.name1.gotoAndStop(4);
+}
+on (rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+		
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+on (release)
+{
+   if(_root.link==1)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+	   _root.link=num;
+    _root.pages_mov.gotoAndPlay(86);}
+	else if(_root.link==num){
+	}
+	
+   else if (_root.link != num)
+   { eval("_parent.item" +_root.link).gotoAndPlay("s2");
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay("p1");
+   } 
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 73" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item3" centerPoint3DX="28.05" centerPoint3DY="-7.65">
+                  <matrix>
+                    <Matrix tx="28.05" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 3;
+	this.name1.gotoAndStop(3);
+}
+on(rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+		
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+on (release)
+{    
+
+if(_root.link==1)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+	   _root.link=num;
+    _root.pages_mov.gotoAndPlay(86);}
+	else if(_root.link==num){this.name1.gotoAndStop(3);
+	}
+	
+   else if (_root.link != num)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay("p1");
+   } 
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 38" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item2" centerPoint3DX="-120.9" centerPoint3DY="-7.65">
+                  <matrix>
+                    <Matrix tx="-120.9" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 2;
+	this.name1.gotoAndStop(2);
+}
+on (rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+		
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+on (release)
+{
+	 if(_root.link==1)
+   {eval("_parent.item" +_root.link).gotoAndPlay("s2");
+	   _root.link=num;
+    _root.pages_mov.gotoAndPlay(86);}
+	else if(_root.link==num){
+	}
+	
+   else if (_root.link != num)
+   { eval("_parent.item" +_root.link).gotoAndPlay("s2");
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay("p1");
+   } 
+ 
+   
+   
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/название меню" name="item1" selected="true" centerPoint3DX="-205.35" centerPoint3DY="-33.65">
+                  <matrix>
+                    <Matrix tx="-256.9" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    num = 1;
+	this.name1.gotoAndStop(1);
+}
+on (rollOver)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s1");
+    } // end if
+}
+on (releaseOutside, rollOut)
+{
+    if (_root.link != num)
+    {
+        this.gotoAndPlay("s2");
+    } // end if
+}
+on (release)
+{
+   if (_root.link != num)
+   { eval("_parent.item" +_root.link).gotoAndPlay("s2");
+   _root.link=num;
+    _root.pages_mov.gotoAndPlay(251);
+   }
+   else{
+	   _root.link=num;
+	   _root.pages_mov.gotoAndPlay(84);
+   }
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

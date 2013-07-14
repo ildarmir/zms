@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/ruseng1" itemID="4e0dbce9-00000a7b" symbolType="graphic" lastModified="1309523716">
+  <timeline>
+    <DOMTimeline name="ruseng1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;5&lt;/guideline&gt;&lt;guideline direction="h"&gt;-12&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Слой 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!765 -251|765 -600!765 -600|-635 -600!-635 -600|-635 -251"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-635 -251|765 -251"/>
+                    <Edge fillStyle0="2" edges="!765 -249|765 -251"/>
+                    <Edge fillStyle0="4" edges="!-635 116|-635 474!-635 474|765 474!765 474|765 116"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="!765 116|-635 116"/>
+                    <Edge fillStyle0="2" edges="!765 116|765 109"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!765 109|-635 109"/>
+                    <Edge fillStyle0="2" edges="!-635 109|-635 116"/>
+                    <Edge fillStyle0="3" edges="!765 109|765 -249"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!765 -249|-635 -249"/>
+                    <Edge fillStyle0="3" edges="!-635 -249|-635 109"/>
+                    <Edge fillStyle0="2" edges="!-635 -251|-635 -249"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

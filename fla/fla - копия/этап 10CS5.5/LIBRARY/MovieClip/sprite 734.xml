@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 734" itemID="4debac18-000002df" lastModified="1312920672">
+  <timeline>
+    <DOMTimeline name="sprite 734">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/ЗАПСИБМАШЗАВОДСЕРВИС" selected="true" centerPoint3DX="365.3" centerPoint3DY="35.95">
+                  <matrix>
+                    <Matrix tx="662" ty="56"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-350" y="-45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" inner="true" quality="3"/>
+                    <BevelFilter blurX="4" blurY="4" angle="49.9999988616352" distance="1" highlightColor="#CCCCCC" strength="1.57" type="full"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

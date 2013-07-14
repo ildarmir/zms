@@ -1,0 +1,276 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%; margin-bottom: 1px;
+}
+.clr {
+	clear: both;
+}
+.outline {
+	background: rgb(255, 255, 255); padding: 2px; border: 1px solid rgb(204, 204, 204);
+}
+#buttons_outer {
+	width: 635px; margin-right: 2px; margin-bottom: 2px; float: left;
+}
+#buttons_inner {
+	border: 1px solid rgb(204, 204, 204); height: 21px !important;
+}
+#pathway_text {
+	border: 1px solid rgb(204, 204, 204); height: 25px; line-height: 25px !important; overflow: hidden; padding-left: 4px; margin-bottom: 2px; display: block;
+}
+#pathway_text img {
+	margin-top: 6px; margin-right: 5px; margin-left: 5px;
+}
+#buttons {
+	margin: 0px; padding: 0px; width: auto; float: left;
+}
+ul#mainlevel-nav {
+	list-style: none; margin: 0px; padding: 0px; font-size: 0.8em;
+}
+ul#mainlevel-nav li {
+	margin: 0px; line-height: 21px; padding-right: 0px; padding-left: 0px; font-size: 11px; border-right-color: rgb(204, 204, 204); border-right-width: 1px; border-right-style: solid; float: left; white-space: nowrap; background-image: none;
+}
+ul#mainlevel-nav li a {
+	color: rgb(51, 51, 51); padding-right: 15px; padding-left: 15px; text-decoration: none; display: block;
+}
+#buttons > ul#mainlevel-nav li a {
+	width: auto;
+}
+ul#mainlevel-nav li a:hover {
+	background: rgb(198, 73, 52); color: rgb(255, 255, 255);
+}
+#search_outer {
+	width: 165px; float: left;
+}
+#search_inner {
+	padding: 0px; border: 1px solid rgb(204, 204, 204); height: 21px !important; overflow: hidden;
+}
+#search_inner form {
+	margin: 0px; padding: 0px;
+}
+#search_inner .inputbox {
+	padding: 3px 3px 3px 5px; border: 0px currentColor; color: rgb(198, 73, 52); font-family: arial, helvetica, sans-serif; font-size: 11px;
+}
+#header_outer {
+	margin: 0px; border: 0px currentColor; text-align: left;
+}
+#header {
+	background: url("../images/header_short.jpg") no-repeat; padding: 0px; width: 635px; height: 150px; margin-right: 2px; float: left;
+}
+#top_outer {
+	width: 165px; float: left;
+}
+#top_inner {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); height: 144px !important; overflow: hidden; float: none !important;
+}
+#left_outer {
+	width: 165px; margin-top: 2px; float: left;
+}
+#left_inner {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); float: none !important;
+}
+#content_outer {
+	padding: 0px; width: 635px; margin-top: 0px; margin-left: 2px; float: left;
+}
+#content_inner {
+	margin: 0px; padding: 2px 0px 0px; float: none !important;
+}
+table.content_table {
+	margin: 0px; padding: 0px; width: 100%;
+}
+table.content_table td {
+	margin: 0px; padding: 0px;
+}
+#banner_inner {
+	padding: 0px; height: 70px; float: left;
+}
+#poweredby_inner {
+	padding: 0px; height: 70px; margin-left: 0px; float: right;
+}
+#right_outer {
+	width: 165px; margin-left: 2px;
+}
+#right_inner {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); float: none !important;
+}
+.user1_inner {
+	margin: 0px; padding: 2px; border: 1px solid rgb(204, 204, 204); float: none !important;
+}
+.user2_inner {
+	margin: 0px; padding: 2px; border: 1px solid rgb(204, 204, 204); float: none !important;
+}
+table td.body_outer {
+	padding: 2px; border: 1px solid rgb(204, 204, 204);
+}
+.maintitle {
+	color: rgb(255, 255, 255); padding-top: 20px; padding-left: 15px; font-size: 40px;
+}
+.error {
+	padding: 5px; color: rgb(204, 204, 204); text-transform: uppercase; font-size: 14px; font-style: italic; font-weight: bold;
+}
+.back_button {
+	background: url("../images/button_bg.png") repeat-x; margin: 1px; padding: 0px 10px; border: 3px double rgb(204, 204, 204); width: auto; text-align: center; line-height: 20px; font-size: 11px; font-weight: bold; float: left;
+}
+.pagenav {
+	background: url("../images/button_bg.png") repeat-x; margin: 1px; padding: 0px 10px; border: 3px double rgb(204, 204, 204); width: auto; text-align: center; line-height: 20px; font-size: 11px; font-weight: bold;
+}
+.pagenavbar {
+	margin-right: 10px; float: right;
+}
+#footer {
+	padding: 3px; text-align: center;
+}
+ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+li {
+	background-position: 0px 2px; line-height: 15px; padding-top: 0px; padding-left: 15px; background-image: url("../images/arrow.png"); background-repeat: no-repeat;
+}
+td {
+	text-align: left; font-size: 11px;
+}
+body {
+	background: rgb(255, 255, 255); margin: 15px; padding: 0px; height: 100%; color: rgb(51, 51, 51); line-height: 120%; font-family: Arial, Helvetica, Sans Serif; font-size: 11px;
+}
+a:link {
+	color: rgb(198, 73, 52); font-weight: bold; text-decoration: none;
+}
+a:visited {
+	color: rgb(198, 73, 52); font-weight: bold; text-decoration: none;
+}
+a:hover {
+	color: rgb(153, 0, 0); font-weight: bold; text-decoration: none;
+}
+table.contentpaneopen {
+	margin: 0px; padding: 0px; width: 100%; border-collapse: collapse; border-spacing: 0px;
+}
+table.contentpaneopen td {
+	padding-right: 5px;
+}
+table.contentpaneopen td.componentheading {
+	padding-left: 4px;
+}
+table.contentpane {
+	margin: 0px; padding: 0px; width: 100%; border-collapse: collapse; border-spacing: 0px;
+}
+table.contentpane td {
+	margin: 0px; padding: 0px;
+}
+table.contentpane td.componentheading {
+	padding-left: 4px;
+}
+table.contentpaneopen fieldset {
+	border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(238, 238, 238);
+}
+.button {
+	background: url("../images/button_bg.png") repeat-x; margin: 1px; padding: 0px 5px; border: 3px double rgb(204, 204, 204); width: auto; height: 26px !important; text-align: center; color: rgb(198, 73, 52); line-height: 18px !important; font-family: Arial, Hevlvetica, sans-serif; font-size: 11px; font-weight: bold;
+}
+.inputbox {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); background-color: rgb(255, 255, 255);
+}
+.componentheading {
+	height: 21px; text-align: left; color: rgb(0, 51, 0); text-transform: uppercase; padding-top: 4px; padding-left: 4px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal;
+}
+.contentcolumn {
+	padding-right: 5px;
+}
+.contentheading {
+	height: 30px; color: rgb(198, 73, 52); font-size: 14px; font-weight: bold; white-space: nowrap;
+}
+.contentpagetitle {
+	text-align: left; color: rgb(204, 204, 204); font-size: 13px; font-weight: bold;
+}
+table.searchinto {
+	width: 100%;
+}
+table.searchintro td {
+	font-weight: bold;
+}
+table.moduletable {
+	padding: 0px; width: 100%; margin-bottom: 5px; border-collapse: collapse; border-spacing: 0px;
+}
+div.moduletable {
+	padding: 0px; margin-bottom: 2px;
+}
+table.moduletable th {
+	background: url("../images/subhead_bg.png") repeat-x; margin: 0px 0px 2px; height: 21px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; line-height: 21px; padding-left: 4px; font-size: 10px; font-weight: bold;
+}
+div.moduletable h3 {
+	background: url("../images/subhead_bg.png") repeat-x; margin: 0px 0px 2px; height: 21px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; line-height: 21px; padding-left: 4px; font-size: 10px; font-weight: bold;
+}
+table.moduletable td {
+	margin: 0px; padding: 0px; font-size: 11px; font-weight: normal;
+}
+table.pollstableborder td {
+	padding: 2px;
+}
+.sectiontableheader {
+	background: rgb(240, 240, 240); padding: 4px; font-weight: bold;
+}
+.sectiontablefooter {
+	
+}
+.sectiontableentry1 {
+	background-color: rgb(255, 255, 255);
+}
+.sectiontableentry2 {
+	background-color: rgb(249, 249, 249);
+}
+.small {
+	color: rgb(153, 153, 153); font-size: 11px;
+}
+.createdate {
+	height: 15px; color: rgb(153, 153, 153); padding-bottom: 10px; font-size: 11px;
+}
+.modifydate {
+	height: 15px; color: rgb(153, 153, 153); padding-top: 10px; font-size: 11px;
+}
+table.contenttoc {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); margin-bottom: 2px; margin-left: 2px;
+}
+table.contenttoc td {
+	padding: 2px;
+}
+table.contenttoc th {
+	background: url("../images/subhead_bg.png") repeat-x; height: 21px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; padding-top: 2px; padding-left: 4px; font-size: 10px; font-weight: bold;
+}
+a.mainlevel:link {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 2px; text-align: left; color: rgb(51, 51, 51); padding-top: 10px; padding-bottom: 10px; padding-left: 3px; font-size: 13px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+a.mainlevel:visited {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 2px; text-align: left; color: rgb(51, 51, 51); padding-top: 10px; padding-bottom: 10px; padding-left: 3px; font-size: 13px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+a.mainlevel:hover {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 2px; text-align: left; color: rgb(51, 51, 51); padding-top: 10px; padding-bottom: 10px; padding-left: 3px; font-size: 13px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+a.sublevel:link {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 5px; width: 90%; text-align: left; color: rgb(0, 64, 0); padding-top: 10px; padding-bottom: 10px; padding-left: 5px; font-size: 14px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+a.sublevel:visited {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 5px; width: 90%; text-align: left; color: rgb(0, 64, 0); padding-top: 10px; padding-bottom: 10px; padding-left: 5px; font-size: 14px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+a.sublevel:hover {
+	border-width: 2px 1px 1px 2px; border-style: outset outset solid; border-color: rgb(143, 178, 157); margin: 5px; width: 90%; text-align: left; color: rgb(255, 0, 0); padding-top: 10px; padding-bottom: 10px; padding-left: 5px; font-size: 14px; font-weight: normal; text-decoration: none; vertical-align: middle; display: block; background-color: rgb(244, 245, 247);
+}
+.highlight {
+	padding: 0px; color: blue; background-color: yellow;
+}
+.code {
+	border: 1px solid rgb(187, 187, 187); background-color: rgb(221, 221, 221);
+}
+form {
+	margin: 0px; padding: 0px;
+}
+div.mosimage {
+	border: 1px solid rgb(204, 204, 204);
+}
+.mosimage {
+	margin: 5px; border: 1px solid rgb(204, 204, 204);
+}
+.mosimage_caption {
+	background: rgb(239, 239, 239); padding: 1px 2px; color: rgb(102, 102, 102); font-size: 10px; margin-top: 2px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+span.article_seperator {
+	height: 1.5em; display: block;
+}

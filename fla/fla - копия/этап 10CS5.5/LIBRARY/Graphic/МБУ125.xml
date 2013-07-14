@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/МБУ125" itemID="4df8c9aa-00000629" symbolType="graphic" lastModified="1308214323">
+  <timeline>
+    <DOMTimeline name="МБУ125">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="MovieClip/Image/УПА-100-Идель.jpg" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.7101440429688" d="9.7271728515625" tx="-124.55" ty="70.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2442 3579S2|-2491 3579!-2491 3579|-2491 1410!-2491 1410|2442 1410!2442 1410|2442 3579"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,406 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Бегущая строка на главной/vkladka" itemID="5031d1ab-00000257" linkageExportForAS="true" linkageIdentifier="vkladka" lastModified="1354545708" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="vkladka">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+import com.greensock.*;
+import flash.filters.GlowFilter;
+import mx.transitions.Tween;
+import mx.transitions.easing.*;
+_root._quality="+BEST"
+//textbut._height=20.5;
+
+
+
+var my_mcl:MovieClipLoader = new MovieClipLoader();
+var my_lst:Object = new Object();
+my_mcl.addListener(my_lst);
+my_lst.onLoadInit = function(target_mc:MovieClip)
+{
+	varTarget = target_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeIn, 0, 100, .5, true);
+	//varTarget._x=(_parent.vkladka._width-varTarget._width)/2-60;
+	if(varTarget._width==800)
+	{
+		varTarget._x=-40;
+		_parent.pole._x=varTarget._x;
+	}else if(varTarget._width==673){varTarget._x=30;}
+	else{
+		varTarget._x=0;
+	}
+	
+	if(varTarget._width<_parent.pole._width){}else{
+	_parent.pole._width=varTarget._width;}
+	trace("AFTER|||||||||||||||||||||");
+	trace("varTarget._x="+varTarget._x);
+	trace("varTarget._y="+varTarget._y);
+	trace("varTarget._width="+varTarget._width);
+	trace("varTarget._height="+varTarget._height);
+	trace("cont_mc._x="+cont_mc._x);
+	trace("cont_mc._y="+cont_mc._y);
+	trace("cont_mc._width="+cont_mc._width);
+	trace("cont_mc._height="+cont_mc._height);
+	trace("_parent.pole._x="+_parent.pole._x);
+	trace("_parent.pole._y="+_parent.pole._y);
+	trace("_parent.pole._width="+_parent.pole._width);
+	trace("_parent.pole._height="+_parent.pole._height);
+	trace("_parent._x="+_parent._x);
+	trace("_parent._y="+_parent._y);
+	trace("_parent._width="+_parent._width);
+	trace("_parent._height="+_parent._height);
+	trace("_parent.vkladka._x="+_parent.vkladka._x);
+	trace("_parent.vkladka._y="+_parent.vkladka._y);
+	trace("_parent.vkladka._width="+_parent.vkladka._width);
+	trace("_parent.vkladka._height="+_parent.vkladka._height);
+	trace("_x="+_x);
+	trace("_y="+_y);
+	trace("_width="+_width);
+	trace("_height="+_height);
+	trace("this._x="+this._x);
+	trace("this._y="+this._y);
+	trace("this._width="+this._width);
+	trace("this._height="+this._height);
+
+};
+ /*load1_mc.onLoad=function(){
+	varTarget =cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("s1.jpg", cont_mc);
+}*/
+
+trace("DO|||||||||||||||||||||");
+	trace("varTarget._x="+varTarget._x);
+	trace("varTarget._y="+varTarget._y);
+	trace("varTarget._width="+varTarget._width);
+	trace("varTarget._height="+varTarget._height);
+	trace("cont_mc._x="+cont_mc._x);
+	trace("cont_mc._y="+cont_mc._y);
+	trace("cont_mc._width="+cont_mc._width);
+	trace("cont_mc._height="+cont_mc._height);
+	trace("_parent.pole._x="+_parent.pole._x);
+	trace("_parent.pole._y="+_parent.pole._y);
+	trace("_parent.pole._width="+_parent.pole._width);
+	trace("_parent.pole._height="+_parent.pole._height);
+	trace("_parent._x="+_parent._x);
+	trace("_parent._y="+_parent._y);
+	trace("_parent._width="+_parent._width);
+	trace("_parent._height="+_parent._height);
+	trace("_parent.vkladka._x="+_parent.vkladka._x);
+	trace("_parent.vkladka._y="+_parent.vkladka._y);
+	trace("_parent.vkladka._width="+_parent.vkladka._width);
+	trace("_parent.vkladka._height="+_parent.vkladka._height);
+	trace("_x="+_x);
+	trace("_y="+_y);
+	trace("_width="+_width);
+	trace("_height="+_height);
+	trace("this._x="+this._x);
+	trace("this._y="+this._y);
+	trace("this._width="+this._width);
+	trace("this._height="+this._height);
+
+foto1.onPress = function(){
+	_parent.pole._x=1;
+	varTarget =cont_mc;
+	varTarget.varTween= new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true); //=new Tween(varTarget, "_y", Strong.easeOut,-500,154,1, true);
+	my_mcl.loadClip("bigf1.jpg", cont_mc);
+	if(190<_parent.pole._height){if(_root.pages_mov.ticker._y!=-400){_root.pages_mov.ticker.varTween = new Tween(_root.pages_mov.ticker, "_y",Strong.easeIn, -265.05,-400, 0.5, true);}}
+	_root.menu_mov._visible=false;
+	_parent.pole._x=1;
+	_parent.pole._height=800;
+	
+	}
+	
+	
+
+foto2.onPress = function(){
+	_parent.pole._x=1;
+	varTarget =cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("bigf3.jpg", cont_mc);
+	if(190<_parent.pole._height){if(_root.pages_mov.ticker._y!=-400){_root.pages_mov.ticker.varTween = new Tween(_root.pages_mov.ticker, "_y",Strong.easeIn, -265.05,-400, 0.5, true);}}
+	_root.menu_mov._visible=false;
+	_parent.pole._height=800;
+	
+	
+}
+foto3.onPress = function(){
+	_parent.pole._x=1;
+	varTarget =cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("bigf4.jpg", cont_mc);
+	if(190<_parent.pole._height){if(_root.pages_mov.ticker._y!=-400){_root.pages_mov.ticker.varTween = new Tween(_root.pages_mov.ticker, "_y",Strong.easeIn, -265.05,-400, 0.5, true);}}
+	_root.menu_mov._visible=false;
+	_parent.pole._height=800;
+	
+}
+foto4.onPress = function(){
+	_parent.pole._x=1;
+	varTarget =cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("bigf2.jpg", cont_mc);
+	
+	if(190<_parent.pole._height){if(_root.pages_mov.ticker._y!=-400){_root.pages_mov.ticker.varTween = new Tween(_root.pages_mov.ticker, "_y",Strong.easeIn, -265.05,-400, 0.5, true);}}
+	_root.menu_mov._visible=false;
+	_parent.pole._height=800;
+	//varTarget._x=-(varTarget._width-_parent.vkladka._width)/2-400;//=_parent._x-(varTarget._width-_parent._width)/2-600;
+	//_parent.pole._x=varTarget._x;
+	//_parent.pole._width=_parent._width;
+}
+foto1.onRollOver = function()
+{
+	//my1_sound.start(0);
+	glow(foto1);
+};
+foto2.onRollOver = function()
+{
+	//my1_sound.start(0);
+	glow(foto2);
+};
+foto3.onRollOver = function()
+{
+	//my1_sound.start(0);
+	glow(foto3);
+};
+foto4.onRollOver = function()
+{
+	//my1_sound.start(0);
+	glow(foto4);
+};
+foto1.onRollOut = function()
+{
+	glowout(foto1);
+};
+foto2.onRollOut = function()
+{
+	glowout(foto2);
+};
+foto3.onRollOut = function()
+{
+	glowout(foto3);
+};
+foto4.onRollOut = function()
+{
+	glowout(foto4);
+};
+function glow(obj:MovieClip):Void
+{// Создаём переменные для хранения параметров
+	var color:Number = 0xffffff;// Цвет от 0x000000 до 0xFFFFFF
+	var alpha:Number = 1;// Прозрачность от 0 до 1
+	var blurX:Number = 2;// Блюр по Х от 0 до 255
+	var blurY:Number = 2;// Блюр по У от 0 до 255
+	var strength:Number = 10;// Интенсивность от 0 до 255
+	var quality:Number = 3;// Качество от 1 до 15
+	var inner:Boolean = false;// Внешний (false), внутренний (true)
+	var knockout:Boolean = false;// Скрыть обьект или нет
+	// Применяем фильтр к мувику
+	obj.filters = [new GlowFilter(color, alpha, blurX, blurY, strength, quality, inner, knockout)];
+}
+function glowout(obj:MovieClip):Void
+{
+	obj.filters = [];
+}
+closer.onPress=function()
+{
+	TweenLite.to(_parent.vkladka, .5, {_y:-138,ease:None.easeNone,onComplete:_parent.texti.closePole});
+			TweenLite.to(ttext, 5, {_x:-722,ease:None.easeNone,onComplete:_parent.texti.startMove});
+			onEnterFrame=function(){};
+	
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="closer" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Закрывалка для бегущей строки" name="closer" symbolType="button">
+                  <matrix>
+                    <Matrix tx="635.85" ty="138.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.85" y="12.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="foto3" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Кнопка миниатюра2 для бегущей строки" name="foto3" selected="true" centerPoint3DX="274.6" centerPoint3DY="68.5">
+                  <matrix>
+                    <Matrix tx="194.6" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="80" y="54"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="foto2" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Кнопка миниатюра1 для бегущей строки" name="foto2" centerPoint3DX="451.2" centerPoint3DY="68.45">
+                  <matrix>
+                    <Matrix tx="371.2" ty="13.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="80" y="55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="foto4" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Кнопка миниатюра3 для бегущей строки" name="foto4" centerPoint3DX="627.8" centerPoint3DY="68.5">
+                  <matrix>
+                    <Matrix tx="547.8" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="80" y="54"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="foto1" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Кнопка миниатюра для бегущей строки" name="foto1" centerPoint3DX="98" centerPoint3DY="69.2">
+                  <matrix>
+                    <Matrix tx="18" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="80" y="54.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 13" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10300 3332|10158 3332!10158 3332[10158 3353 10162 3366!10162 3366[10166 3379 10178 3388!10178 3388[10190 3398 10208 3398!10208 3398[10243 3398 10255 3364!10255 3364|10297 3370!10297 3370[10289 3398 10265 3416!10265 3416[10241 3434 10205
+ 3434!10205 3434[10162 3434 10136 3405!10136 3405[10110 3376 10110 3327!10110 3327[10110 3280 10136 3249!10136 3249[10163 3219 10208 3219!10208 3219[10252 3219 10276 3249!10276 3249[10301 3279 10301 3327!10301 3327|10300 3332!10239 3266
+[10225 3251 10206 3251!10206 3251[10186 3251 10174 3265!10174 3265[10161 3278 10158 3302!10158 3302|10252 3302!10252 3302[10252 3280 10239 3266!10471 3223|10517 3223!10517 3223|10517 3430!10517 3430|10471 3430!10471 3430|10471 3339!10471
+ 3339|10390 3339!10390 3339|10390 3430!10390 3430|10343 3430!10343 3430|10343 3223!10343 3223|10390 3223!10390 3223|10390 3303!10390 3303|10471 3303!10471 3303|10471 3223!9905 3223|9952 3223!9952 3223|9952 3301!9952 3301[9952 3328 9983
+ 3328!9983 3328[10004 3328 10021 3320!10021 3320|10021 3223!10021 3223|10067 3223!10067 3223|10067 3430!10067 3430|10021 3430!10021 3430|10021 3349!10021 3349[9998 3367 9967 3367!9967 3367[9938 3367 9921 3351!9921 3351[9905 3336 9905
+ 3308!9905 3308|9905 3223!9728 3313[9728 3333 9727 3356!9727 3356[9737 3340 9756 3316!9756 3316|9809 3250!9809 3250|9809 3223!9809 3223|9856 3223!9856 3223|9856 3430!9856 3430|9809 3430!9809 3430|9809 3345!9809 3345[9809 3319 9811 3300
+!9811 3300[9801 3316 9784 3338!9784 3338|9728 3409!9728 3409|9728 3430!9728 3430|9681 3430!9681 3430|9681 3223!9681 3223|9728 3223!9728 3223|9728 3313!10968 3430|10921 3430!10921 3430|10921 3349!10921 3349|10872 3349!10872 3349|10833
+ 3430!10833 3430|10783 3430!10783 3430|10835 3339!10835 3339[10796 3325 10796 3286!10796 3286[10796 3254 10815 3239!10815 3239[10834 3223 10863 3223!10863 3223|10968 3223!10968 3223|10968 3430!10702 3250|10702 3223!10702 3223|10749 3223
+!10749 3223|10749 3430!10749 3430|10702 3430!10702 3430|10702 3345!10702 3345[10702 3319 10704 3300!10704 3300[10694 3316 10677 3338!10677 3338|10621 3409!10621 3409|10621 3430!10621 3430|10574 3430!10574 3430|10574 3223!10574 3223|10621
+ 3223!10621 3223|10621 3313!10621 3313[10621 3333 10620 3356!10620 3356[10630 3340 10649 3316!10649 3316|10702 3250!10921 3315|10921 3257!10921 3257|10873 3257!10873 3257[10843 3257 10843 3287!10843 3287[10843 3315 10871 3315!10871 3315
+|10921 3315!7017 3252[6974 3252 6968 3284!6968 3284|6929 3278!6929 3278[6932 3252 6955 3235!6955 3235[6979 3219 7023 3219!7023 3219[7047 3219 7062 3223!7062 3223[7077 3227 7088 3236!7088 3236[7098 3246 7102 3257!7102 3257[7106 3268 7106
+ 3295!7106 3295|7106 3388!7106 3388[7106 3408 7112 3430!7112 3430|7068 3430!7068 3430[7062 3411 7061 3388!7061 3388[7042 3434 6990 3434!6990 3434[6960 3434 6941 3416!6941 3416[6922 3398 6922 3371!6922 3371[6922 3299 7047 3299!7047 3299
+[7052 3299 7061 3299!7061 3299|7061 3284!7061 3284[7061 3252 7017 3252!6979 3390[6988 3399 7007 3399!7007 3399[7033 3399 7047 3382!7047 3382[7061 3365 7061 3344!7061 3344|7061 3325!7061 3325[6970 3325 6970 3368!6970 3368[6970 3381 6979
+ 3390!7132 3223|7293 3223!7293 3223|7293 3259!7293 3259|7236 3259!7236 3259|7236 3430!7236 3430|7189 3430!7189 3430|7189 3259!7189 3259|7132 3259!7132 3259|7132 3223!6601 3223|6647 3223!6647 3223|6647 3430!6647 3430|6601 3430!6601 3430
+|6601 3339!6601 3339|6520 3339!6520 3339|6520 3430!6520 3430|6473 3430!6473 3430|6473 3223!6473 3223|6520 3223!6520 3223|6520 3303!6520 3303|6601 3303!6601 3303|6601 3223!6879 3223|6879 3430!6879 3430|6832 3430!6832 3430|6832 3345!6832
+ 3345[6832 3319 6834 3300!6834 3300[6824 3316 6807 3338!6807 3338|6751 3409!6751 3409|6751 3430!6751 3430|6704 3430!6704 3430|6704 3223!6704 3223|6751 3223!6751 3223|6751 3313!6751 3313[6751 3333 6750 3356!6750 3356[6760 3340 6779 3316
+!6779 3316|6832 3250!6832 3250|6832 3223!6832 3223|6879 3223!7895 3223|7945 3359!7945 3359|7988 3223!7988 3223|8026 3223!8026 3223|7945 3459!7945 3459[7938 3480 7925 3493!7925 3493[7912 3504 7889 3504!7889 3504[7880 3504 7862 3503!7862
+ 3503|7862 3466!7862 3466|7884 3466!7884 3466[7899 3466 7906 3462!7906 3462[7913 3457 7917 3444!7917 3444[7921 3432 7921 3430!7921 3430[7921 3429 7917 3417!7917 3417|7846 3223!7846 3223|7895 3223!7829 3325[7829 3369 7809 3402!7809 3402
+[7789 3434 7751 3434!7751 3434[7711 3434 7693 3401!7693 3401|7693 3500!7693 3500|7645 3500!7645 3500|7645 3223!7645 3223|7690 3223!7690 3223|7690 3259!7690 3259[7711 3219 7753 3219!7753 3219[7788 3219 7808 3249!7808 3249[7829 3278 7829
+ 3325!7737 3257[7719 3257 7706 3273!7706 3273[7693 3289 7693 3316!7693 3316|7693 3345!7693 3345[7693 3368 7706 3383!7706 3383[7720 3397 7736 3397!7736 3397[7758 3397 7769 3378!7769 3378[7779 3358 7779 3328!7779 3328[7779 3296 7769 3277
+!7769 3277[7758 3257 7737 3257!7438 3242[7465 3219 7504 3219!7504 3219[7549 3219 7576 3248!7576 3248[7603 3278 7603 3326!7603 3326[7603 3374 7575 3404!7575 3404[7547 3434 7502 3434!7502 3434[7459 3434 7434 3407!7434 3407[7409 3380 7406
+ 3340!7406 3340|7365 3340!7365 3340|7365 3430!7365 3430|7318 3430!7318 3430|7318 3223!7318 3223|7365 3223!7365 3223|7365 3303!7365 3303|7406 3303!7406 3303[7411 3266 7438 3242!7503 3254[7452 3254 7452 3325!7452 3325[7452 3396 7503 3396
+!7503 3396[7553 3396 7553 3326!7553 3326[7553 3254 7503 3254!8614 3257[8584 3257 8584 3287!8584 3287[8584 3315 8612 3315!8612 3315|8662 3315!8662 3315|8662 3257!8662 3257|8614 3257!8604 3223|8709 3223!8709 3223|8709 3430!8709 3430|8662
+ 3430!8662 3430|8662 3349!8662 3349|8613 3349!8613 3349|8574 3430!8574 3430|8524 3430!8524 3430|8576 3339!8576 3339[8537 3325 8537 3286!8537 3286[8537 3254 8556 3239!8556 3239[8575 3223 8604 3223!8894 3223|8944 3359!8944 3359|8987 3223
+!8987 3223|9025 3223!9025 3223|8944 3459!8944 3459[8937 3480 8924 3493!8924 3493[8911 3504 8888 3504!8888 3504[8879 3504 8861 3503!8861 3503|8861 3466!8861 3466|8883 3466!8883 3466[8898 3466 8905 3462!8905 3462[8912 3457 8916 3444!8916
+ 3444[8920 3432 8920 3430!8920 3430[8920 3429 8916 3417!8916 3417|8845 3223!8845 3223|8894 3223!8168 3430|8163 3478!8163 3478|8132 3478!8132 3478|8132 3394!8132 3394|8151 3394!8151 3394|8200 3223!8200 3223|8276 3223!8276 3223|8319 3394
+!8319 3394|8338 3394!8338 3394|8338 3418!8338 3418|8400 3223!8400 3223|8455 3223!8455 3223|8520 3430!8520 3430|8471 3430!8471 3430|8424 3259!8424 3259|8372 3430!8372 3430|8338 3430!8338 3430|8338 3478!8338 3478|8307 3478!8307 3478|8302
+ 3430!8302 3430|8168 3430!8189 3394|8272 3394!8272 3394|8241 3259!8241 3259|8224 3259!8224 3259|8189 3394!9456 3332|9314 3332!9314 3332[9314 3353 9318 3366!9318 3366[9322 3379 9334 3388!9334 3388[9346 3398 9364 3398!9364 3398[9399 3398
+ 9411 3364!9411 3364|9453 3370!9453 3370[9445 3398 9421 3416!9421 3416[9397 3434 9361 3434!9361 3434[9318 3434 9292 3405!9292 3405[9266 3376 9266 3327!9266 3327[9266 3280 9292 3249!9292 3249[9319 3219 9364 3219!9364 3219[9408 3219 9432
+ 3249!9432 3249[9457 3279 9457 3327!9457 3327|9456 3332!9362 3251[9342 3251 9330 3265!9330 3265[9317 3278 9314 3302!9314 3302|9408 3302!9408 3302[9408 3280 9395 3266!9395 3266[9381 3251 9362 3251!9469 3430|9535 3223!9535 3223|9590 3223
+!9590 3223|9655 3430!9655 3430|9606 3430!9606 3430|9559 3259!9559 3259|9507 3430!9507 3430|9469 3430!9103 3394|9156 3394!9156 3394[9174 3394 9181 3387!9181 3387[9189 3380 9189 3365!9189 3365[9189 3336 9156 3336!9156 3336|9103 3336!9103
+ 3336|9103 3394!9056 3223|9164 3223!9164 3223[9201 3223 9215 3239!9215 3239[9229 3254 9229 3274!9229 3274[9229 3309 9189 3321!9189 3321[9237 3332 9237 3373!9237 3373[9237 3398 9220 3414!9220 3414[9204 3430 9174 3430!9174 3430|9056 3430
+!9056 3430|9056 3223!9103 3308|9156 3308!9156 3308[9184 3308 9184 3282!9184 3282[9184 3257 9156 3257!9156 3257|9103 3257!9103 3257|9103 3308!3763 3150|3697 3242!3697 3242|3775 3430!3775 3430|3718 3430!3718 3430|3659 3287!3659 3287|3605
+ 3359!3605 3359|3605 3430!3605 3430|3555 3430!3555 3430|3555 3150!3555 3150|3605 3150!3605 3150|3605 3297!3605 3297[3615 3282 3619 3276!3619 3276|3712 3150!3712 3150|3763 3150!3780 3430|3846 3223!3846 3223|3901 3223!3901 3223|3966 3430
+!3966 3430|3917 3430!3917 3430|3870 3259!3870 3259|3818 3430!3818 3430|3780 3430!4039 3223|4039 3313!4039 3313[4039 3333 4038 3356!4038 3356[4048 3340 4067 3316!4067 3316|4120 3250!4120 3250|4120 3223!4120 3223|4167 3223!4167 3223|4167
+ 3430!4167 3430|4120 3430!4120 3430|4120 3345!4120 3345[4120 3319 4122 3300!4122 3300[4112 3316 4095 3338!4095 3338|4039 3409!4039 3409|4039 3430!4039 3430|3992 3430!3992 3430|3992 3223!3992 3223|4039 3223!4562 3223|4608 3223!4608 3223
+|4608 3430!4608 3430|4562 3430!4562 3430|4562 3339!4562 3339|4481 3339!4481 3339|4481 3430!4481 3430|4434 3430!4434 3430|4434 3223!4434 3223|4481 3223!4481 3223|4481 3303!4481 3303|4562 3303!4562 3303|4562 3223!4840 3223|4840 3430!4840
+ 3430|4793 3430!4793 3430|4793 3345!4793 3345[4793 3319 4795 3300!4795 3300[4785 3316 4768 3338!4768 3338|4712 3409!4712 3409|4712 3430!4712 3430|4665 3430!4665 3430|4665 3223!4665 3223|4712 3223!4712 3223|4712 3313!4712 3313[4712 3333
+ 4711 3356!4711 3356[4721 3340 4740 3316!4740 3316|4793 3250!4793 3250|4793 3223!4793 3223|4840 3223!4223 3223|4270 3223!4270 3223|4270 3284!4270 3284[4270 3304 4268 3320!4268 3320[4279 3306 4288 3297!4288 3297|4357 3223!4357 3223|4403
+ 3223!4403 3223|4339 3295!4339 3295|4411 3430!4411 3430|4361 3430!4361 3430|4307 3330!4307 3330|4270 3369!4270 3369|4270 3430!4270 3430|4223 3430!4223 3430|4223 3223!5424 3430|5377 3430!5377 3430|5377 3223!5377 3223|5424 3223!5424 3223
+|5424 3303!5424 3303|5505 3303!5505 3303|5505 3223!5505 3223|5551 3223!5551 3223|5551 3430!5551 3430|5505 3430!5505 3430|5505 3339!5505 3339|5424 3339!5424 3339|5424 3430!5602 3278[5605 3252 5628 3235!5628 3235[5652 3219 5696 3219!5696
+ 3219[5720 3219 5735 3223!5735 3223[5750 3227 5761 3236!5761 3236[5771 3246 5775 3257!5775 3257[5779 3268 5779 3295!5779 3295|5779 3388!5779 3388[5779 3408 5785 3430!5785 3430|5741 3430!5741 3430[5735 3411 5734 3388!5734 3388[5715 3434
+ 5663 3434!5663 3434[5633 3434 5614 3416!5614 3416[5595 3398 5595 3371!5595 3371[5595 3299 5720 3299!5720 3299[5725 3299 5734 3299!5734 3299|5734 3284!5734 3284[5734 3252 5690 3252!5690 3252[5647 3252 5641 3284!5641 3284|5602 3278!5652
+ 3390[5661 3399 5680 3399!5680 3399[5706 3399 5720 3382!5720 3382[5734 3365 5734 3344!5734 3344|5734 3325!5734 3325[5643 3325 5643 3368!5643 3368[5643 3381 5652 3390!4866 3223|5027 3223!5027 3223|5027 3259!5027 3259|4970 3259!4970 3259
+|4970 3430!4970 3430|4923 3430!4923 3430|4923 3259!4923 3259|4866 3259!4866 3259|4866 3223!5229 3332|5087 3332!5087 3332[5087 3353 5091 3366!5091 3366[5095 3379 5107 3388!5107 3388[5119 3398 5137 3398!5137 3398[5172 3398 5184 3364!5184
+ 3364|5226 3370!5226 3370[5218 3398 5194 3416!5194 3416[5170 3434 5134 3434!5134 3434[5091 3434 5065 3405!5065 3405[5039 3376 5039 3327!5039 3327[5039 3280 5065 3249!5065 3249[5092 3219 5137 3219!5137 3219[5181 3219 5205 3249!5205 3249
+[5230 3279 5230 3327!5230 3327|5229 3332!5168 3266[5154 3251 5135 3251!5135 3251[5115 3251 5103 3265!5103 3265[5090 3278 5087 3302!5087 3302|5181 3302!5181 3302[5181 3280 5168 3266!6142 3430|6142 3259!6142 3259|6139 3259!6139 3259|6083
+ 3430!6083 3430|6036 3430!6036 3430|5980 3259!5980 3259|5978 3259!5978 3259|5978 3430!5978 3430|5940 3430!5940 3430|5940 3223!5940 3223|6010 3223!6010 3223|6064 3394!6064 3394|6120 3223!6120 3223|6186 3223!6186 3223|6186 3430!6186 3430
+|6142 3430!6242 3223|6289 3223!6289 3223|6289 3313!6289 3313[6289 3333 6288 3356!6288 3356[6298 3340 6317 3316!6317 3316|6370 3250!6370 3250|6370 3223!6370 3223|6417 3223!6417 3223|6417 3430!6417 3430|6370 3430!6370 3430|6370 3345!6370
+ 3345[6370 3319 6372 3300!6372 3300[6362 3316 6345 3338!6345 3338|6289 3409!6289 3409|6289 3430!6289 3430|6242 3430!6242 3430|6242 3223"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 10" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="722.95" objectHeight="155.05" x="0.95" y="33.25" selected="true" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-33.25"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#006600"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cont_mc" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/cont" name="cont_mc">
+                  <matrix>
+                    <Matrix ty="155.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="7" blurY="7" color="#006600" inner="true" strength="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

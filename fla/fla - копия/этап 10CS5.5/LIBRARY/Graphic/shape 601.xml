@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 601" itemID="4debac18-0000025a" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 601">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#9099A3"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!2495 3230|2575 3170!2575 3170|2660 3150!2660 3150|20375 3150!20375 3150|20460 3165!20460 3165|20555 3235"/>
+                    <Edge fillStyle0="1" edges="!20555 3235|20555 3195!20555 3195|20535 3180!20535 3180|20470 3150!20470 3150|20020 3140!20020 3140|3050 3140!3050 3140|2580 3150!2580 3150|2500 3190!2500 3190|2495 3230"/>
+                    <Edge fillStyle1="2" edges="!20555 3235|20590 3285!20590 3285|20610 3375!20610 3375|20610 10265!20610 10265|20590 10360!20590 10360|20535 10435!20535 10435|20470 10480!20470 10480|20395 10495!20395 10495|2660 10495!2660 10495|2580 10480!2580 10480|2505 10425!2505
+ 10425|2465 10370!2465 10370|2440 10270!2440 10270|2440 3385!2440 3385|2455 3300!2455 3300|2495 3230"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

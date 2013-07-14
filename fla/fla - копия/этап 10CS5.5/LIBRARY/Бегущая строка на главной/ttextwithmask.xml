@@ -1,0 +1,243 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Бегущая строка на главной/ttextwithmask" itemID="5030f944-0000022c" lastModified="1354542117" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ttextwithmask">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import mx.transitions.Tween;
+import mx.transitions.easing.*;
+import com.greensock.*;
+//onInit - function that will be called under tween init
+//onStart:function
+//onUpdate:function
+//onComplete:function
+//onReverseComplete:function
+//paused:Boolean
+//overwrite:int
+//TweenLite.killTweensOf(mc);
+//TweenLite.killDelayedCallsTo(myFunction);
+//ease:None.easeNone
+
+startMove();
+function startMove()
+{
+
+	ttext._x=722;
+	TweenLite.to(ttext,5, {_x:0,ease:None.easeNone,onComplete:contMove});
+}
+function contMove()
+{
+
+	TweenLite.to(ttext, 5, {_x:-722,ease:None.easeNone,delay:1,onComplete:startMove});
+}
+function openPole()
+{
+	//_parent.pole._visible = true;
+	_parent.attachMovie("vkladka","vkladka",maska.getDepth() + 2);
+	_parent.attachMovie("pole","pole",maska.getDepth() + 3);
+	_parent.pole._visible = false;
+	_parent.pole._y=26;
+	_parent.pole._x=1;
+	_parent.vkladka._y = -134;
+	_parent.vkladka._x = 0;
+	_parent.vkladka.setMask(_parent.pole);
+	TweenLite.to(_parent.vkladka, .5, {_y:26,ease:None.easeNone,onComplete:poleOpened});
+}
+function closePole()
+{
+	if(_parent._parent._parent._parent.pages_mov.ticker._y!=-265.05){TweenLite.to(_parent._parent._parent._parent.pages_mov.ticker,.5,{_y:-265.05,ease:None.easeNone});}
+
+	//if(190<_parent.pole._height){if(_root.pages_mov.ticker._y!=-400){_root.pages_mov.ticker.varTween = new Tween(_root.pages_mov.ticker, "_y",Strong.easeIn, -265.05,-400, 0.5, true);}}
+	_root.menu_mov._visible=true;
+	_parent.pole._height=200.55;
+	_parent.vkladka.swapDepths(_parent.getNextHighestDepth());
+	_parent.vkladka.removeMovieClip();
+	_parent.pole.swapDepths(_parent.getNextHighestDepth());
+	_parent.pole.removeMovieClip();
+	//trace(_parent.pole);
+}
+maska.onRollOver = function()
+{
+	if(_parent.vkladka._y<=-82)
+	{
+		TweenLite.to(ttext, 1, {_x:0,ease:None.easeNone,onComplete:openPole});
+	}else{};
+};
+maska.onRollOut = function()
+{
+	if(_parent.vkladka._y<=-82)
+	{
+		TweenLite.to(_parent.vkladka, .5, {_y:-138,ease:None.easeNone,onComplete:closePole});
+		if(ttext._x==0)
+		{
+			TweenLite.to(ttext, 5, {_x:-722,ease:None.easeNone,onComplete:startMove});
+			
+		}else{var t=(722+ttext._x)/144.4
+			TweenLite.to(ttext, t, {_x:-722,ease:None.easeNone,onComplete:startMove});}
+	}else{};
+};
+
+function poleOpened()
+{
+	maska.onRollOut = function(){};
+	/*var chk:Number = setInterval (checkOver, 5);
+	function checkOver () */
+	onEnterFrame=function()
+	{
+		var wasOver1:Boolean=false;
+		var wasOver2:Boolean=false;
+		var hitTest1:Boolean = maska.hitTest(_root._xmouse, _root._ymouse);
+		var hitTest2:Boolean = _parent.vkladka.hitTest(_root._xmouse, _root._ymouse);
+		if (!wasOver1) {if (hitTest1) {wasOver1 = true;}}
+		else {if (!hitTest1) {wasOver1 = false;}}
+		if (!wasOver2) {if (hitTest2) {wasOver2 = true;}}
+		else {if (!hitTest2) {wasOver2 = false;}}
+		if(wasOver1==false && wasOver2==false)
+		{
+			TweenLite.to(_parent.vkladka, .5, {_y:-138,ease:None.easeNone,onComplete:closePole});
+			TweenLite.to(ttext, 5, {_x:-722,ease:None.easeNone,onComplete:startMove});
+			onEnterFrame=function(){};
+		}
+	};
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+_parent.pole._visible = false;
+var go:Number=722;
+var end:Number=-722;
+ttext.varTween = new Tween(ttext, "_x", None.easeNone, go, end, 10, true);
+function tweener()
+{
+	trace(go+end);
+	ttext.varTween.stop();
+	ttext.varTween.start();// = new Tween(ttext, "_x", None.easeNone, go, end, 10, true);
+	//ttext.varTween.resume();
+}
+maska.onRollOver = function()
+{
+	
+	trace("rollover"+ ttext.varTween.prototype);
+	ttext.varTween.continueTo(0,.5);//=new Tween(ttext,"_x",Strong.easeIn,ttext._x,0,.5,true);
+};
+maska.onRollOut = function()
+{
+	trace("rollout");
+	_parent.vkladka.varTween.continueTo(-136,.5);
+	ttext.varTween.continueTo(end,5);//
+};
+ttext.varTween.onMotionStopped = function()
+{
+	trace("stopped");
+	if(ttext._x==0)
+	{
+		_parent.attachMovie("vkladka","vkladka",maska.getDepth() + 2);
+		//_parent.vkladka._alpha=0;
+		_parent.vkladka._y = -136;
+		_parent.vkladka._x = 0;
+		_parent.vkladka.setMask(_parent.pole);
+		//_parent.vkladka.varTween=new Tween(_parent.vkladka,"_alpha",Regular.easeIn,0,100,1,true);
+		_parent.vkladka.varTween = new Tween(_parent.vkladka, "_y", Strong.easeOut, -136, 26, 1, true);
+		//trace(maska.getDepth());
+		
+	}
+	
+};
+
+ttext.varTween.onMotionFinished = function()
+	{
+		
+		trace("finished");
+		if(ttext._x<-700){
+			tweener();}
+		
+	};
+
+ttext.varTween.onMotionResumed = function()
+{
+	trace("resumed");
+}
+
+ttext.varTween.onMotionStarted = function()
+{	
+		_parent.vkladka.swapDepths(_parent.getNextHighestDepth());
+		_parent.vkladka.removeMovieClip();
+		//trace(_parent.vkladka);
+	
+};
+ttext.varTween.onMotionChanged=function()
+{
+	//trace(ttext.varTween.position);
+}*/]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 3" color="#FF800A" locked="true" visible="false" layerType="mask" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/maska" name="maska">
+                  <transformationPoint>
+                    <Point x="353.8" y="8.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F" parentLayerIndex="1" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/TeXT" name="ttext" centerPoint3DX="353.8" centerPoint3DY="8.6">
+                  <transformationPoint>
+                    <Point x="353.8" y="8.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 4" color="#FF4FFF" parentLayerIndex="1" locked="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14152 344S2|0 344!0 344|0 0!0 0|14152 0!14152 0|14152 344"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

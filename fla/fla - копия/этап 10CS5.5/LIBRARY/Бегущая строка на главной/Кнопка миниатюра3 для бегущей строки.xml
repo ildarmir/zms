@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Бегущая строка на главной/Кнопка миниатюра3 для бегущей строки" itemID="501cae36-0000049a" symbolType="button" lastModified="1344056886">
+  <timeline>
+    <DOMTimeline name="Кнопка миниатюра3 для бегущей строки">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Бегущая строка на главной/№2миниатюра для бегущей строки .JPG" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20.0003051757813" d="20"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 2160S2|0 0!0 0|3200 0!3200 0|3200 2160!3200 2160|0 2160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

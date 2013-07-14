@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 130" itemID="4debac18-000000b9" symbolType="graphic" lastModified="1308335951">
+  <timeline>
+    <DOMTimeline name="shape 130">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix d="1.02372741699219" ty="7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Image/image 129" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="19.9967651367188" d="19.9965972900391" tx="-463.4" ty="-294.95"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9269 -5899S2|9269 5899!9269 5899|-9268 5899!-9268 5899|-9268 -5899!-9268 -5899|9269 -5899"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 607" itemID="4debac18-00000260" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 607">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DFE7ED"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#9099A3"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#E8EFF0"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#DDE6F0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3305 3280|2755 3255!2755 3255|2645 3215!2645 3215|2590 3165!2590 3165|2555 3095!2555 3095|2510 2760!2510 2760|2490 2385!2490 2385|2505 1985!2505 1985|2540 1725!2540 1725|2625 1405!2625 1405|2715 1245!2715 1245|2835 1175!2835 1175|5885
+ 970!5885 970|6645 945!6645 945|7195 905!7195 905|8055 870!8055 870|10555 810!10555 810|12605 810!12605 810|14580 855!14580 855|15805 900!15805 900|16330 940!16330 940|17110 965!17110 965|19345 1110!19345 1110|19645 1145!19645 1145|20215
+ 1175!20215 1175|20325 1230!20325 1230|20430 1410!20430 1410|20505 1675!20505 1675|20550 2025!20550 2025|20560 2395!20560 2395|20540 2745!20540 2745|20495 3095!20495 3095|20445 3180!20445 3180|20405 3215!20405 3215|20305 3255!20305 3255
+|19740 3280"/>
+                    <Edge fillStyle1="2" edges="
+!19740 3280|20355 3270!20355 3270|20400 3285!20400 3285|20340 3315"/>
+                    <Edge fillStyle1="3" edges="
+!20340 3315|20385 3345!20385 3345|20435 3415!20435 3415|20450 3485!20450 3485|20440 6650!20440 6650|20450 10295!20450 10295|20435 10365!20435 10365|20390 10435!20390 10435|20325 10480!20325 10480|20245 10500!20245 10500|4210 10505!4210
+ 10505|2805 10500!2805 10500|2735 10485!2735 10485|2670 10440!2670 10440|2615 10370!2615 10370|2595 10280!2595 10280|2610 6265!2610 6265|2595 3510!2595 3510|2615 3415!2615 3415|2655 3355!2655 3355|2710 3315"/>
+                    <Edge fillStyle1="2" edges="
+!2710 3315|2650 3285!2650 3285|2680 3270!2680 3270|3305 3280"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!20340 3315|20230 3285!20230 3285|15425 3335"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!15425 3335|10875 3345!10875 3345|7715 3335"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!7715 3335|2830 3285!2830 3285|2710 3315"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!15425 3335|15245 3320"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!15245 3320|9445 3325!9445 3325|7835 3320"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!7835 3320|7715 3335"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!19740 3280|15245 3320"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="
+!3500 3280|3783 3281"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!3783 3281|3510 3275"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!3510 3275|3500 3280"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!3305 3280|3510 3275"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!3500 3280|3305 3280"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!7835 3320|3783 3281"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

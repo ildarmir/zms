@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/краз" itemID="4e0ccc06-00000eb8" lastModified="1309461510">
+  <timeline>
+    <DOMTimeline name="краз">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="MovieClip/Image/краз-подъемник.jpg" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.9994506835938" d="14.2086791992188" tx="-254.8" ty="-0.7"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5095 1559[5091 1511 5077 1449!5077 1449|5077 1595!5077 1595[5085 1573 5095 1559"/>
+                    <Edge cubics="!5077 1595(;5082,1580 5088,1568 5095,1559q5077 1595Q5085 1573q5095 1559);"/>
+                    <Edge cubics="!5095 1559(;5092,1527 5086,1490 5077,1449q5095 1559Q5091 1511q5077 1449);"/>
+                    <Edge cubics="!5077 1449(;5077,1449 5077,1595 5077,1595q5077 1449 5077 1595);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Graphic/краз подъёмник" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="142.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.01"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

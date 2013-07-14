@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/фара урала" itemID="4e0c937e-00000de1" lastModified="1309457495">
+  <timeline>
+    <DOMTimeline name="фара урала">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix a="1.5732421875" d="1.71427917480469" tx="-10" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix a="1.5732421875" d="1.71427917480469" tx="-10" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix a="1.5732421875" d="1.71427917480469" tx="-10" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix a="1.5732421875" d="1.71427917480469" tx="-10" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 4" selected="true" centerPoint3DX="2.35" centerPoint3DY="7.35">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.85" y="5.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

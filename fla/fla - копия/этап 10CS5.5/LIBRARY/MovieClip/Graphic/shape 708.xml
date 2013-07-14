@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/Graphic/shape 708" itemID="4debac18-000002c5" symbolType="graphic" lastModified="1307856645">
+  <timeline>
+    <DOMTimeline name="shape 708">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-951 -1157S2[-849 -1167 -528 -943!-528 -943|-198 -1075!-198 -1075|152 -125!152 -125|-1388 -342!-1388 -342[-1635 -490 -2538 -1545!-2538 -1545[-1614 -1420 -1303 -1148!-1303 -1148|-951 -1157"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

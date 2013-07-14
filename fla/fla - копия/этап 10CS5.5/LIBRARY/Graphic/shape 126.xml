@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 126" itemID="4debac18-000000b5" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 126">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F8FEFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!19737 3315|20410 3325!20410 3325[20465 3315 20580 3480!20580 3480|20620 3490"/>
+                    <Edge fillStyle0="2" edges="!20620 3490[20580 3305 20355 3310!20355 3310|19737 3315"/>
+                    <Edge fillStyle1="1" edges="!20620 3490[20691 5904 20925 7370!20925 7370[21274 9208 21620 10120!21620 10120|21625 10180!21625 10180[21615 10305 21425 10325!21425 10325|20640 10335"/>
+                    <Edge fillStyle1="2" edges="!20640 10335[20650 10695 20400 10675!20400 10675|10690 10640!10690 10640|2620 10675!2620 10675[2445 10630 2425 10540!2425 10540|2410 10335"/>
+                    <Edge fillStyle1="1" edges="!2410 10335|1650 10325!1650 10325[1500 10330 1430 10205!1430 10205|1435 10115!1435 10115|1685 9375!1685 9375|1880 8625!1880 8625|2060 7760!2060 7760|2190 6940!2190 6940|2305 5940!2305 5940|2360 5260!2360 5260|2405 4365!2405 4365|2415
+ 3615!2415 3615|2430 3490"/>
+                    <Edge fillStyle1="2" edges="
+!2430 3490[2425 3360 2635 3310!2635 3310|5985 3300"/>
+                    <Edge fillStyle1="1" edges="
+!5985 3300|12755 3290!12755 3290|19737 3315"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!20640 10335|17070 10385!17070 10385|13245 10410!13245 10410|8695 10405!8695 10405|5095 10375!5095 10375|2410 10335!2430 3490|2500 3480!2500 3480[2585 3325 2650 3325!2650 3325[5651 3311 5985 3300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

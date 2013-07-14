@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Бегущая строка на главной/Верхний мувиклип" itemID="501a4990-0000165f" lastModified="1345697636" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Верхний мувиклип" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;468&lt;/guideline&gt;&lt;guideline direction="v"&gt;1190&lt;/guideline&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;27&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Бегущая строка на главной/Анимация 2" name="texti" selected="true" centerPoint3DX="467.05">
+                  <matrix>
+                    <Matrix tx="467.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="364.35" y="14.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

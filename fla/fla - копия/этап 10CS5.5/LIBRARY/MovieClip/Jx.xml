@@ -1,0 +1,382 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/Jx" itemID="4e1abd8d-000006e7" lastModified="1344066797" lastUniqueIdentifier="33">
+  <timeline>
+    <DOMTimeline name="Jx" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-540&lt;/guideline&gt;&lt;guideline direction="h"&gt;261&lt;/guideline&gt;&lt;guideline direction="v"&gt;418&lt;/guideline&gt;&lt;guideline direction="v"&gt;-371&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Слой 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+import mx.transitions.Tween;
+import mx.transitions.easing.*;
+
+var my_mcl:MovieClipLoader = new MovieClipLoader();
+var my_lst:Object = new Object();
+my_mcl.addListener(my_lst);
+my_lst.onLoadInit = function(target_mc:MovieClip) {
+		varTarget = target_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeIn, 0, 100, 1, true);
+};
+unload_mc.onRelease = function() {
+	varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.unloadClip(cont_mc);
+	gotoAndStop(1);
+	}
+
+
+but1.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto1.jpg",cont_mc);
+};
+but2.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto2.jpg",cont_mc);
+};
+but3.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto3.jpg",cont_mc);
+};
+but4.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto4.jpg",cont_mc);
+};
+but5.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto5.jpg",cont_mc);
+};
+but6.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto6.jpg",cont_mc);
+};
+but7.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto7.jpg",cont_mc);
+};
+but8.onPress = function() {
+	gotoAndStop(2);
+		varTarget = cont_mc;
+	varTarget.varTween = new Tween(varTarget, "_alpha", Regular.easeOut, varTarget._alpha, 0, 0.25, true);
+	my_mcl.loadClip("foto8.jpg",cont_mc);
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 6" color="#808080" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="25000" Version="1" duration="2000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.460536" xformPtYOffsetPct="0.22081" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,29.5029" next="0,29.5029" previous="0,29.5029" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,29.071" next="0,29.071" previous="0,29.071" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="1000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/ЗАКРЫТЬ" name="unload_mc" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.295028686523438" d="0.290695190429688" tx="407.7" ty="-433.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="-0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cont_mc" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/Символ 1" name="cont_mc" centerPoint3DX="-319.5" centerPoint3DY="4.05">
+                  <matrix>
+                    <Matrix tx="-371" ty="-441.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.5" y="445.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 13" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/more" symbolType="button">
+                  <matrix>
+                    <Matrix tx="451.1" ty="131.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on(press){
+	_parent.gotoAndStop(9);
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button8" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button8" name="but8" symbolType="button">
+                  <matrix>
+                    <Matrix tx="310.9" ty="78.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but8._xscale=110;
+	but8._yscale=110;
+}
+on(rollOut){
+	but8._xscale=100;
+	but8._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button7" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button7" name="but7" symbolType="button">
+                  <matrix>
+                    <Matrix tx="103.6" ty="78.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but7._xscale=110;
+	but7._yscale=110;
+}
+on(rollOut){
+	but7._xscale=100;
+	but7._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button6" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button6" name="but6" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-103.65" ty="78.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but6._xscale=110;
+	but6._yscale=110;
+}
+on(rollOut){
+	but6._xscale=100;
+	but6._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button5" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button5" name="but5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-310.9" ty="78.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but5._xscale=110;
+	but5._yscale=110;
+}
+on(rollOut){
+	but5._xscale=100;
+	but5._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button4" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button4" name="but4" symbolType="button">
+                  <matrix>
+                    <Matrix tx="310.9" ty="-76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but4._xscale=110;
+	but4._yscale=110;
+}
+on(rollOut){
+	but4._xscale=100;
+	but4._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button3" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button3" name="but3" symbolType="button">
+                  <matrix>
+                    <Matrix tx="103.6" ty="-76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[on(rollOver){
+	but3._xscale=110;
+	but3._yscale=110;
+}
+on(rollOut){
+	but3._xscale=100;
+	but3._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="but2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button2" name="but2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-101.65" ty="-76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but2._xscale=110;
+	but2._yscale=110;
+}
+on(rollOut){
+	but2._xscale=100;
+	but2._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="but1" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Button/button1" name="but1" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-311.6" ty="-76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[
+on(rollOver){
+	but1._xscale=110;
+	but1._yscale=110;
+}
+on(rollOut){
+	but1._xscale=100;
+	but1._yscale=100;
+	
+}]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

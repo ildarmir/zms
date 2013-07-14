@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Button/button8" itemID="4e1ad42b-00000998" symbolType="button" lastModified="1310459880">
+  <timeline>
+    <DOMTimeline name="button8" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Image/мин8.jpg">
+                  <matrix>
+                    <Matrix a="1.125" d="1.16668701171875" tx="-90" ty="-70"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728" soundName="Sound/sound714">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Image/мин8.jpg">
+                  <matrix>
+                    <Matrix a="1.125" d="1.16668701171875" tx="-90" ty="-70"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728" soundName="Sound/sound63">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMBitmapInstance libraryItemName="Image/мин8.jpg">
+                  <matrix>
+                    <Matrix a="1.125" d="1.16668701171875" tx="-90" ty="-70"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Image/мин8.jpg">
+                  <matrix>
+                    <Matrix a="1.125" d="1.16668701171875" tx="-90" ty="-70"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

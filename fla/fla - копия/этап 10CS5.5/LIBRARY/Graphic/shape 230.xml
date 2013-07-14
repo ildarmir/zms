@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 230" itemID="4debac18-0000011d" symbolType="graphic" lastModified="1308579934">
+  <timeline>
+    <DOMTimeline name="shape 230">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Image/СЕРТ3КНОПКА.jpg">
+                  <matrix>
+                    <Matrix tx="0.8" ty="0.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

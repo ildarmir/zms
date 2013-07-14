@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/Символ 4" itemID="4e0c7e18-00000cf0" lastModified="1309441560">
+  <timeline>
+    <DOMTimeline name="Символ 4">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0118408203125" d="0.0118408203125" tx="7.85" ty="5.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.262745098039216"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 225S2|0 0!0 0|315 0!315 0|315 225!315 225|0 225"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

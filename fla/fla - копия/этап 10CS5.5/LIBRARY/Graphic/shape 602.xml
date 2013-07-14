@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 602" itemID="4debac18-0000025b" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 602">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DCE5EF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#9099A3"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!2560 3180|2660 3150!2660 3150|20385 3150!20385 3150|20490 3180"/>
+                    <Edge fillStyle0="2" edges="!20490 3180|20555 3150!20555 3150|20545 3140!20545 3140|19690 3135"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!19690 3135|3355 3135"/>
+                    <Edge fillStyle0="2" edges="!3355 3135|2505 3140!2505 3140|2500 3155!2500 3155|2560 3180"/>
+                    <Edge fillStyle1="3" edges="!20490 3180|20535 3210!20535 3210|20580 3270!20580 3270|20610 3375!20610 3375|20610 10265!20610 10265|20590 10360!20590 10360|20535 10435!20535 10435|20470 10480!20470 10480|20395 10495!20395 10495|2680 10495!2680 10495|2580 10480!2580
+ 10480|2520 10440!2520 10440|2460 10360!2460 10360|2440 10270!2440 10270|2440 3375!2440 3375|2460 3285!2460 3285|2500 3225!2500 3225|2560 3180"/>
+                    <Edge fillStyle1="1" edges="
+!3355 3135|9095 2920!9095 2920|10705 2890!10705 2890|12055 2900!12055 2900|12330 2890!12330 2890|15075 2950!15075 2950|19690 3135"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

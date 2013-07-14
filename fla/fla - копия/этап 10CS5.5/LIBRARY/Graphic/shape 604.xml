@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 604" itemID="4debac18-0000025d" symbolType="graphic" lastModified="1307290648">
+  <timeline>
+    <DOMTimeline name="shape 604">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F0F7FB"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#C9D2DC"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#F0F9FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3270 3140|2690 3140!2690 3140|2580 3125!2580 3125|2525 3100!2525 3100|2485 3060!2485 3060|2480 3035!2480 3035|2480 2990!2480 2990|2530 2825!2530 2825|2625 2615!2625 2615|2730 2495!2730 2495|2935 2445!2935 2445|3510 2375!3510 2375|4725
+ 2205!4725 2205|5670 2095!5670 2095|5930 2080!5930 2080|7060 1960!7060 1960|8435 1860!8435 1860|9365 1810!9365 1810|10830 1770!10830 1770|12165 1770!12165 1770|13470 1800!13470 1800|14430 1845!14430 1845|15545 1920!15545 1920|16875 2040
+!16875 2040|18220 2190!18220 2190|20200 2455!20200 2455|20315 2490!20315 2490|20405 2585!20405 2585|20495 2755!20495 2755|20570 2990!20570 2990|20565 3060!20565 3060|20525 3100!20525 3100|20470 3125!20470 3125|20365 3140!20365 3140|19775
+ 3140"/>
+                    <Edge fillStyle1="2" edges="
+!19775 3140|19770 3160"/>
+                    <Edge fillStyle1="3" edges="
+!19770 3160|20440 3170!20440 3170|20535 3225!20535 3225|20570 3280!20570 3280|20600 3380!20600 3380|20600 10270!20600 10270|20585 10350!20585 10350|20535 10430!20535 10430|20460 10480!20460 10480|20385 10495!20385 10495|2665 10495!2665
+ 10495|2600 10480!2600 10480|2515 10430!2515 10430|2480 10375!2480 10375|2450 10275!2450 10275|2450 3380!2450 3380|2465 3305!2465 3305|2515 3225!2515 3225|2605 3170!2605 3170|3270 3160"/>
+                    <Edge fillStyle1="2" edges="
+!3270 3160|3270 3140"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!3270 3160|8070 3165!8070 3165|19770 3160"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!19775 3140|3270 3140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 8" itemID="4debac0d-00000009" lastModified="1326478948">
+  <timeline>
+    <DOMTimeline name="sprite 8">
+      <layers>
+        <DOMLayer name="AS" color="#FFFF00" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+function checkLoad():Void{
+var nCount:Number = 0;
+	var nLBytes:Number = _root.getBytesLoaded();
+	var nTBytes:Number = _root.getBytesTotal();
+	var nPercent:Number = (nLBytes/nTBytes)*100;
+	
+	mcLoader.mcBar._xscale = nPercent;
+	
+	var sPercent:String =Math.round(nPercent).toString();
+	//var sKBytes:String = (nTBytes/1024).toString();
+	var sMessage:String = "ЗАГРУЖЕНО- "+sPercent + "%";
+	mcLoader.tPercent.text = sMessage;
+	
+	//if (nLBytes >= nTBytes && nTBytes > 0) {
+		//if (nCount >= 5) {
+			//clearInterval(nProgress);
+			//_root.gotoAndPlay(3);
+		//} 
+		//else {
+			//nCount++;
+		//}
+	//}
+	//updateAfterEvent();
+}
+
+
+var nProgress:Number = setInterval(checkLoad, 100, this);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="progress" color="#FFFF00" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/1loaderClip" name="mcLoader" centerPoint3DX="-0.05" centerPoint3DY="-1">
+                  <matrix>
+                    <Matrix tx="-150.05" ty="-16.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="293.9" height="17.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-144.95" ty="-46.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Пожалуйста, подождите, идет загрузка</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="16" bitmapSize="320" face="ArialMT" fillColor="#EBFFD7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames/>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
